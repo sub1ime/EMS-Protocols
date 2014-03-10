@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">EMS Buddy</string>
+    <string name="action_settings">Settings</string>
+    <string name="protocol_region">EMS Buddy!</string>
+    <string name="protocol_button">Protocols</string>
+    <string name="calculators">Calculators</string>
+    <string name="drugs">Drugs</string>
+    <string name="title_activity_protocol_select">ProtocolSelect</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_select_protocol">SelectProtocolActivity</string>
+    <string name="title_activity_list_drugs">ListDrugs</string>
+    <string name="title_activity_select_calc">SelectCalcActivity</string>
+    <string name="adult">Adult</string>
+    <string name="select_the_protocol_category">Select the Protocol Category</string>
+    <string name="clinical_procedures">Clinical Procedures</string>
+    <string name="appendices">Appendices</string>
+    <string name="administration">Administration</string>
+    <string name="purpose_and_use">Purpose and Use</string>
+    <string name="title_activity_select_prot_cat">Select ODEMSA Protocol</string>
+    <string name="loading_protocols">Loading Protocols</string>
+
+    <string-array name="provider_level_array" >
+        <item>EMT-A</item>
+        <item>EMT-B</item>
+        <item>EMT-E</item>
+        <item>EMT-I</item>
+        <item>EMT-P</item>
+    </string-array>
+
+</resources>

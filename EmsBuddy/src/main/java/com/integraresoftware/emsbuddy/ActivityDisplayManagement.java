@@ -1,0 +1,164 @@
+package com.integraresoftware.emsbuddy;
+
+import android.content.Intent;
+import android.database.Cursor;
+import android.net.Uri;
+import android.os.Bundle;
+import android.support.v4.app.FragmentTransaction;
+import android.support.v4.app.LoaderManager;
+import android.support.v4.content.CursorLoader;
+import android.support.v4.content.Loader;
+import android.support.v4.view.ViewPager;
+import android.support.v7.app.ActionBar;
+import android.support.v7.app.ActionBarActivity;
+import android.view.MenuItem;
+
+import com.integraresoftware.android.emsbuddy.R;
+import com.integraresoftware.emsbuddy.adapter.CursorPagerAdapter;
+import com.integraresoftware.emsbuddy.data.DbProvider;
+import com.integraresoftware.emsbuddy.data.ManagementContract;
+import com.integraresoftware.emsbuddy.data.SectionContract;
+import com.integraresoftware.emsbuddy.data.SubsectionContract;
+
+public class ActivityDisplayManagement extends ActionBarActivity implements ActionBar.TabListener, LoaderManager.LoaderCallbacks<Cursor> {
+
+    public static final String TAG = "ActivityDisplayManagement";
+    private static String[] TITLES = {"EMT-A", "EMT-B", "EMT-EN", "EMT-I", "EMT-P" };
+    private static final int MAIN_LOADER = 1;
+
+    public Long protocolId;
+    private String[] mProjection = {
+            ManagementContract.EMTA,
+            ManagementContract.EMTB,
+            ManagementContract.EMTE,
+            ManagementContract.EMTI,
+            ManagementContract.EMTP };
+
+    ActionBar actionBar;
+    CursorPagerAdapter mAdapter;
+    ViewPager mViewPager;
+    Bundle args;
+
+    @Override
+    protected void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        setContentView(R.layout.fragment_pager);
+
+        protocolId = getIntent().getLongExtra(SubsectionContract.ROW_ID, 0L);
+
+
+        args = new Bundle();
+        args.putLong(SubsectionContract.ROW_ID,
+                protocolId);
+        args.putString(SubsectionContract.COL_TITLE,
+                getIntent().getStringExtra(SubsectionContract.COL_TITLE));
+        args.putString(FragmentDisplaySection.PROTOCOL_SUBSECTION,
+                getIntent().getStringExtra(FragmentDisplaySection.PROTOCOL_SUBSECTION));
+
+        mAdapter = new CursorPagerAdapter(getSupportFragmentManager(), FragmentManagement.class, mProjection, null);
+        mViewPager = (ViewPager) findViewById(R.id.pager);
+        mViewPager.setOnPageChangeListener(
+                new ViewPager.SimpleOnPageChangeListener() {
+                    @Override
+                    public void onPageSelected(int position) {
+                        // When swiping between pages, select the
+                        // corresponding tab.
+                        getSupportActionBar().setSelectedNavigationItem(position);
+                    }
+                });
+        mViewPager.setAdapter(mAdapter);
+
+        actionBar = getSupportActionBar();
+        actionBar.setNavigationMode(ActionBar.NAVIGATION_MODE_TABS);
+
+        ActionBar.TabListener tabListener = new ActionBar.TabListener() {
+            @Override
+            public void onTabSelected(ActionBar.Tab tab, FragmentTransaction fragmentTransaction) {
+                mViewPager.setCurrentItem(tab.getPosition());
+            }
+            @Override
+            public void onTabUnselected(ActionBar.Tab tab, FragmentTransaction fragmentTransaction) {
+
+            }
+            @Override
+            public void onTabReselected(ActionBar.Tab tab, FragmentTransaction fragmentTransaction) {
+
+            }
+        };
+
+        for (int i = 0; i < 5; i++) {
+            actionBar.addTab(actionBar.newTab().setText(TITLES[i]).setTabListener(tabListener));
+        }
+
+        getSupportLoaderManager().initLoader(MAIN_LOADER, args, this);
+    }
+
+    @Override
+    public void onTabSelected(ActionBar.Tab tab, FragmentTransaction fragmentTransaction) {
+        mViewPager.setCurrentItem(tab.getPosition());
+    }
+
+    @Override
+    public void onTabUnselected(ActionBar.Tab tab, FragmentTransaction fragmentTransaction) {
+
+    }
+
+    @Override
+    public void onTabReselected(ActionBar.Tab tab, FragmentTransaction fragmentTransaction) {
+
+    }
+
+    @Override
+    public Loader<Cursor> onCreateLoader(int i, Bundle bundle) {
+        switch (i) {
+            case MAIN_LOADER:
+                Uri baseUri;
+                baseUri = Uri.withAppendedPath(DbProvider.MANAGEMENT_URI,
+                        Uri.encode(protocolId.toString()));
+
+                String mSelection = ManagementContract.PROTOCOL_ID + "=?";
+
+                String[] mSelectionArgs = { protocolId.toString() };
+
+                return new CursorLoader(this, baseUri, mProjection, mSelection, mSelectionArgs, null);
+            default:
+                throw new IllegalArgumentException("Wrong loader id, dumbass!");
+        }
+    }
+
+    @Override
+    public void onLoadFinished(Loader<Cursor> loader, Cursor cursor) {
+        switch (loader.getId()) {
+            case MAIN_LOADER:
+                mAdapter.swapCursor(cursor);
+                break;
+        }
+
+    }
+
+    @Override
+    public void onLoaderReset(Loader loader) {
+        switch (loader.getId()) {
+            case MAIN_LOADER:
+                mAdapter.swapCursor(null);
+                break;
+        }
+    }
+
+
+    @Override
+    public boolean onOptionsItemSelected(MenuItem item) {
+        switch (item.getItemId()) {
+            case android.R.id.home:
+                Intent i = new Intent(this, ActivityDisplaySection.class);
+                i.putExtra(SubsectionContract.ROW_ID, getIntent().getLongExtra(SubsectionContract.ROW_ID, 0L));
+                i.putExtra(SubsectionContract.COL_TITLE, getIntent().getStringExtra(SubsectionContract.COL_TITLE));
+                i.putExtra(SectionContract.COL_COLOR, getIntent().getIntExtra(SectionContract.COL_COLOR, 0));
+                startActivity(i);
+                return true;
+            default:
+                return super.onOptionsItemSelected(item);
+        }
+    }
+}
+
