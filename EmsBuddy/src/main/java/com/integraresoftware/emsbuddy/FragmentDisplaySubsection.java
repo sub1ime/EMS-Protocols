@@ -22,11 +22,9 @@ import android.widget.TableRow;
 import android.widget.TextView;
 
 import com.integraresoftware.android.emsbuddy.R;
-import com.integraresoftware.emsbuddy.adapter.ImageZoom;
+import com.integraresoftware.emsbuddy.adapter.TouchImageView;
 import com.integraresoftware.emsbuddy.data.DbProvider;
 import com.integraresoftware.emsbuddy.data.SubsectionContract;
-
-import java.util.regex.Pattern;
 
 public class FragmentDisplaySubsection extends Fragment implements
         LoaderManager.LoaderCallbacks<Cursor> {
@@ -122,9 +120,9 @@ public class FragmentDisplaySubsection extends Fragment implements
 
     private void buildTableView(Cursor cursor) {
         // create pattern for table
-        Pattern tablePattern = Pattern.compile("<table>(.+?)</table>");
+        /*Pattern tablePattern = Pattern.compile("<table>(.+?)</table>");
         Pattern trPattern = Pattern.compile("<tr>(.+?)</tr>");
-        Pattern tdPattern = Pattern.compile("<td>(.+?)</tr>");
+        Pattern tdPattern = Pattern.compile("<td>(.+?)</tr>");*/
 
         ScrollView sv = new ScrollView(activity);
         LinearLayout llMain = new LinearLayout(activity);
@@ -204,18 +202,12 @@ public class FragmentDisplaySubsection extends Fragment implements
     private void buildImageView(Cursor cursor) {
         String dbImage = cursor.getString(1);
         String[] imageStringLocation = dbImage.split("<image>");
-        String image = imageStringLocation[1];
 
         int imageIntLocation = activity.getResources().getIdentifier(imageStringLocation[1], "drawable", activity.getPackageName());
 
-        /*ScrollView sv = new ScrollView(activity);
-        LinearLayout linearLayout = new LinearLayout(activity);
-        linearLayout.setOrientation(LinearLayout.VERTICAL);
-        sv.addView(linearLayout);*/
-
-        ImageZoom iv = new ImageZoom(activity, imageIntLocation);
-        // iv.setImageResource(imageIntLocation);
-        // linearLayout.addView(iv);
+        TouchImageView iv = new TouchImageView(activity);
+        iv.setImageResource(imageIntLocation);
+        iv.setMaxZoom(4f);
 
         activity.setContentView(iv);
 
