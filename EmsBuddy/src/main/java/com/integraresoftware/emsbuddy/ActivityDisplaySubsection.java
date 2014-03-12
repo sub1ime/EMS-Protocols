@@ -33,6 +33,8 @@ public class ActivityDisplaySubsection extends ActionBarActivity {
                     getIntent().getStringExtra(FragmentDisplaySection.PROTOCOL_SUBSECTION));
             args.putString(FragmentDisplaySection.PROTOCOL_SUBSECTION_TITLE,
                     protocolTitle);
+            args.putInt(SectionContract.COL_COLOR,
+                    getIntent().getIntExtra(SectionContract.COL_COLOR, 0));
             f.setArguments(args);
             FragmentTransaction t = getSupportFragmentManager().beginTransaction();
             t.add(R.id.display_protocol_container, f, FragmentDisplaySubsection.TAG);

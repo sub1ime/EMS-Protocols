@@ -10,6 +10,7 @@ import android.support.v4.app.LoaderManager;
 import android.support.v4.content.CursorLoader;
 import android.support.v4.content.Loader;
 import android.text.Html;
+import android.util.Log;
 import android.view.Gravity;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -24,6 +25,7 @@ import android.widget.TextView;
 import com.integraresoftware.android.emsbuddy.R;
 import com.integraresoftware.emsbuddy.adapter.TouchImageView;
 import com.integraresoftware.emsbuddy.data.DbProvider;
+import com.integraresoftware.emsbuddy.data.SectionContract;
 import com.integraresoftware.emsbuddy.data.SubsectionContract;
 
 public class FragmentDisplaySubsection extends Fragment implements
@@ -36,6 +38,8 @@ public class FragmentDisplaySubsection extends Fragment implements
     private Long protocolId;
     private String protocolTitle;
     private String subsection;
+    private String subsectionTitle;
+    private int protocolColor;
 
     private Activity activity;
 
@@ -48,8 +52,9 @@ public class FragmentDisplaySubsection extends Fragment implements
             protocolId = args.getLong(SubsectionContract.ROW_ID);
             protocolTitle = args.getString(SubsectionContract.COL_TITLE);
             subsection = args.getString(FragmentDisplaySection.PROTOCOL_SUBSECTION);
-            String subsectionTitle = args.getString(FragmentDisplaySection.PROTOCOL_SUBSECTION_TITLE);
-            getActivity().setTitle(subsectionTitle + " < " + protocolTitle);
+            subsectionTitle = args.getString(FragmentDisplaySection.PROTOCOL_SUBSECTION_TITLE);
+            getActivity().setTitle(protocolTitle);
+            protocolColor = args.getInt(SectionContract.COL_COLOR);
         } else {
             throw new IllegalArgumentException("No protocol ID supplied with argument");
         }
@@ -124,7 +129,21 @@ public class FragmentDisplaySubsection extends Fragment implements
         Pattern trPattern = Pattern.compile("<tr>(.+?)</tr>");
         Pattern tdPattern = Pattern.compile("<td>(.+?)</tr>");*/
 
+        LinearLayout llTitle = new LinearLayout(activity);
+        llTitle.setOrientation(LinearLayout.VERTICAL);
+        TextView tv = new TextView(activity);
+        tv.setText(subsectionTitle);
+        tv.setTextAppearance(activity, R.style.subsection_title_style);
+        tv.setGravity(Gravity.CENTER_HORIZONTAL);
+        tv.setBackgroundColor(protocolColor);
+        llTitle.addView(tv);
+        LinearLayout ll = new LinearLayout(activity);
+        LinearLayout.LayoutParams lpt = new LinearLayout.LayoutParams(
+                LinearLayout.LayoutParams.WRAP_CONTENT, 10);
+        llTitle.addView(ll, lpt);
+
         ScrollView sv = new ScrollView(activity);
+        llTitle.addView(sv);
         LinearLayout llMain = new LinearLayout(activity);
         llMain.setGravity(Gravity.CENTER);
         llMain.setOrientation(LinearLayout.VERTICAL);
@@ -139,7 +158,7 @@ public class FragmentDisplaySubsection extends Fragment implements
         // check for text before the table
         String[] foreText = text.split("<table>");
         if (foreText[0].length() > 0) {
-            LinearLayout ll = new LinearLayout(activity);
+            ll = new LinearLayout(activity);
             ll.setOrientation(LinearLayout.VERTICAL);
 
             TextView tv1 = new TextView(activity);
@@ -148,8 +167,8 @@ public class FragmentDisplaySubsection extends Fragment implements
             tv1.setTextAppearance(activity, R.style.subsection_style);
             ll.addView(tv1);
 
-            LinearLayout.LayoutParams lpt = new LinearLayout.LayoutParams(
-                    LinearLayout.LayoutParams.WRAP_CONTENT, LinearLayout.LayoutParams.WRAP_CONTENT);
+            lpt = new LinearLayout.LayoutParams(
+                    LinearLayout.LayoutParams.MATCH_PARENT, LinearLayout.LayoutParams.WRAP_CONTENT);
             lpt.setMargins(20, 10, 10, 10);
 
             llMain.addView(ll, lpt);
@@ -159,15 +178,24 @@ public class FragmentDisplaySubsection extends Fragment implements
         HorizontalScrollView horizontalScrollView = new HorizontalScrollView(activity);
         TableLayout tableLayout = new TableLayout(activity);
 
+        Log.d(TAG, "Starting table build.\nrows=" + rows + "\ncolumns=" + columns);
+
         for (int i = 1; i <= rows; i++) {
+            Log.d(TAG, "i=" + i);
+
             TableRow tableRow = new TableRow(activity);
-            String[] mDataText = mTableRows[i].split("<td>");
+            String[] mDataText = mTableRows[i].split("<td>", columns + 1);
 
             for (int q = 1; q <= columns; q++) {
-                int alignment = mTableCells[q].length() <= 3 ? Gravity.CENTER : Gravity.LEFT;
-                String mString = formatText(mDataText[q]);
+                Log.d(TAG, "q=" + q);
 
-                TextView tv = new TextView(activity);
+                int alignment = mTableCells[q].length() <= 3 ? Gravity.CENTER : Gravity.LEFT;
+                String mString;
+                if (mDataText[q].length() > 1) mString = formatText(mDataText[q]);
+                else mString = mDataText[q];
+
+//TODO mString is where it is crashing
+                 tv = new TextView(activity);
                 tv.setGravity(alignment);
                 tv.setText(Html.fromHtml(mString));
                 tv.setTextAppearance(activity, R.style.subsection_table_style);
@@ -194,7 +222,7 @@ public class FragmentDisplaySubsection extends Fragment implements
         horizontalScrollView.addView(tableLayout);
         //tableLayout.setColumnShrinkable(1, true);
         llMain.addView(horizontalScrollView);
-        activity.setContentView(sv);
+        activity.setContentView(llTitle);
 
 
     }
@@ -203,42 +231,72 @@ public class FragmentDisplaySubsection extends Fragment implements
         String dbImage = cursor.getString(1);
         String[] imageStringLocation = dbImage.split("<image>");
 
+        LinearLayout llTitle = new LinearLayout(activity);
+        llTitle.setOrientation(LinearLayout.VERTICAL);
+        TextView tv = new TextView(activity);
+        tv.setText(subsectionTitle);
+        tv.setTextAppearance(activity, R.style.subsection_title_style);
+        tv.setGravity(Gravity.CENTER_HORIZONTAL);
+        tv.setBackgroundColor(protocolColor);
+        llTitle.addView(tv);
+        LinearLayout ll = new LinearLayout(activity);
+        LinearLayout.LayoutParams lpt = new LinearLayout.LayoutParams(
+                LinearLayout.LayoutParams.WRAP_CONTENT, 10);
+        llTitle.addView(ll, lpt);
+
         int imageIntLocation = activity.getResources().getIdentifier(imageStringLocation[1], "drawable", activity.getPackageName());
 
         TouchImageView iv = new TouchImageView(activity);
         iv.setImageResource(imageIntLocation);
         iv.setMaxZoom(4f);
 
-        activity.setContentView(iv);
+        llTitle.addView(iv);
+
+        activity.setContentView(llTitle);
 
     }
 
     private void buildBasicView (Cursor cursor) {
+
+        LinearLayout llTitle = new LinearLayout(activity);
+        llTitle.setOrientation(LinearLayout.VERTICAL);
+        TextView tv = new TextView(activity);
+        tv.setText(subsectionTitle);
+        tv.setTextAppearance(activity, R.style.subsection_title_style);
+        tv.setGravity(Gravity.CENTER_HORIZONTAL);
+        tv.setBackgroundColor(protocolColor);
+        llTitle.addView(tv);
+        LinearLayout ll = new LinearLayout(activity);
+        LinearLayout.LayoutParams lpt = new LinearLayout.LayoutParams(
+                LinearLayout.LayoutParams.WRAP_CONTENT, 10);
+        llTitle.addView(ll, lpt);
+
         String text = cursor.getString(1);
 
         ScrollView sv = new ScrollView(activity);
+        llTitle.addView(sv);
 
         LinearLayout llMain = new LinearLayout(activity);
         llMain.setOrientation(LinearLayout.VERTICAL);
         sv.addView(llMain);
 
-        LinearLayout ll = new LinearLayout(activity);
+        ll = new LinearLayout(activity);
         ll.setOrientation(LinearLayout.VERTICAL);
         // set layout parameters
-        LinearLayout.LayoutParams lpt = new LinearLayout.LayoutParams(
+        lpt = new LinearLayout.LayoutParams(
                 LinearLayout.LayoutParams.WRAP_CONTENT, LinearLayout.LayoutParams.WRAP_CONTENT);
         lpt.setMargins(20, 10, 10, 10);
 
         llMain.addView(ll, lpt);
 
         text = formatText(text);
-        TextView tv = new TextView(activity);
+        tv = new TextView(activity);
         tv.setText(Html.fromHtml(text));
         tv.setTextAppearance(activity, R.style.subsection_style);
 
         ll.addView(tv);
 
-        activity.setContentView(sv);
+        activity.setContentView(llTitle);
     }
 
 }
