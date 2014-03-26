@@ -1,7 +1,9 @@
 package com.integraresoftware.emsbuddy;
 
 import android.app.Activity;
+import android.content.Intent;
 import android.database.Cursor;
+import android.graphics.Color;
 import android.graphics.Typeface;
 import android.net.Uri;
 import android.os.Bundle;
@@ -16,6 +18,7 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.HorizontalScrollView;
+import android.widget.ImageView;
 import android.widget.LinearLayout;
 import android.widget.ScrollView;
 import android.widget.TableLayout;
@@ -78,7 +81,7 @@ public class FragmentDisplaySubsection extends Fragment implements
 
         // add bullets
         if (txt.contains("/b ")) {
-            txt = txt.replaceAll("/b ", "&#8226;");
+            txt = txt.replaceAll("/b ", "&nbsp;&nbsp;&nbsp;&#8226;&nbsp;");
         }
 
         // replace breaks with HTML break
@@ -194,8 +197,7 @@ public class FragmentDisplaySubsection extends Fragment implements
                 if (mDataText[q].length() > 1) mString = formatText(mDataText[q]);
                 else mString = mDataText[q];
 
-//TODO mString is where it is crashing
-                 tv = new TextView(activity);
+                tv = new TextView(activity);
                 tv.setGravity(alignment);
                 tv.setText(Html.fromHtml(mString));
                 tv.setTextAppearance(activity, R.style.subsection_table_style);
@@ -228,74 +230,165 @@ public class FragmentDisplaySubsection extends Fragment implements
     }
 
     private void buildImageView(Cursor cursor) {
+        // create a way for the method to know if it needs to display text before the image
+        Boolean textB4Image = false;
+        // get the image location and text to go with it
         String dbImage = cursor.getString(1);
+        // split the image location from the rest of the text
         String[] imageStringLocation = dbImage.split("<image>");
 
+        // create the main linear layout
         LinearLayout llTitle = new LinearLayout(activity);
         llTitle.setOrientation(LinearLayout.VERTICAL);
+//        llTitle.setBackgroundColor(Color.BLACK);
+
+        // create the textview with the title that will go first in the llMain
         TextView tv = new TextView(activity);
         tv.setText(subsectionTitle);
         tv.setTextAppearance(activity, R.style.subsection_title_style);
         tv.setGravity(Gravity.CENTER_HORIZONTAL);
         tv.setBackgroundColor(protocolColor);
+        // add the textview to the linear layout
         llTitle.addView(tv);
+
+        // create a spacer and add it to the main layout
         LinearLayout ll = new LinearLayout(activity);
         LinearLayout.LayoutParams lpt = new LinearLayout.LayoutParams(
                 LinearLayout.LayoutParams.WRAP_CONTENT, 10);
         llTitle.addView(ll, lpt);
 
-        int imageIntLocation = activity.getResources().getIdentifier(imageStringLocation[1], "drawable", activity.getPackageName());
+        // if there is text before the image we want to place it after the image
+        if(imageStringLocation[0].length() > 2) {
+            // since we now know there is text before the image, we need to remember it
+            textB4Image = true;
 
-        TouchImageView iv = new TouchImageView(activity);
-        iv.setImageResource(imageIntLocation);
-        iv.setMaxZoom(4f);
+            // we need a scrollview to put the ll in so we can scroll down if needed
+            ScrollView sv = new ScrollView(activity);
 
-        llTitle.addView(iv);
+            // add sv to main view
+            llTitle.addView(sv);
+            // create a linear layout that will house the text
+            // we will add it to the sv when we are done
+            ll = new LinearLayout(activity);
+            ll.setOrientation(LinearLayout.VERTICAL);
 
+            // reset tv and add the text and change the appearance
+            tv = new TextView(activity);
+            tv.setText(Html.fromHtml(formatText(imageStringLocation[0])));
+            tv.setTextAppearance(activity, R.style.subsection_style);
+
+            // create margins for the text
+            lpt = new LinearLayout.LayoutParams(
+                    LinearLayout.LayoutParams.WRAP_CONTENT, LinearLayout.LayoutParams.WRAP_CONTENT);
+            lpt.setMargins(20, 10, 10, 10);
+
+            // add the textview to the scroll view with attributes set
+            ll.addView(tv, lpt);
+
+
+            // add a zoomed out version of the image and give the option of opening a new
+            // activity and being able to zoom in
+            //------------------------
+            // turn the String value of the location of the image into an int so android knows how to find it
+            final int imageIntLocation = activity.getResources().getIdentifier(
+                    imageStringLocation[1], "drawable", activity.getPackageName());
+            ImageView iv = new ImageView(activity);
+            iv.setImageResource(imageIntLocation);
+            iv.setOnClickListener(new View.OnClickListener() {
+                @Override
+                public void onClick(View view) {
+                    Intent i = new Intent(activity, ActivityZoomImage.class);
+                    i.putExtra(SubsectionContract.COL_TITLE, protocolTitle);
+                    i.putExtra(SectionContract.COL_COLOR, protocolColor);
+                    i.putExtra(FragmentDisplaySection.PROTOCOL_SUBSECTION_TITLE, subsectionTitle);
+                    i.putExtra(SubsectionContract.ROW_ID, protocolId);
+                    i.putExtra(FragmentDisplaySection.PROTOCOL_SUBSECTION, subsection);
+                    i.putExtra("imageId", imageIntLocation);
+                    startActivity(i);
+                }
+            });
+
+            // add the iv to the ll
+            ll.addView(iv);
+            // create a textview asking to click for further inspection
+            tv = new TextView(activity);
+            tv.setText("Click to Inspect");
+            tv.setGravity(Gravity.CENTER_HORIZONTAL);
+            tv.setTextColor(Color.BLUE);
+            ll.addView(tv);
+
+            // add the linear layout to the main scrollview
+            sv.addView(ll);
+        } else { // add the image
+            // turn the String value of the location of the image into an int so android knows how to find it
+            int imageIntLocation = activity.getResources().getIdentifier(
+                    imageStringLocation[1], "drawable", activity.getPackageName());
+            // create a touch view that will allow zooming of the image and set the image location
+            TouchImageView iv = new TouchImageView(activity);
+            iv.setImageResource(imageIntLocation);
+            iv.setMaxZoom(4f);
+            // add the image view to the main ll
+            llTitle.addView(iv);
+        }
+
+
+        // set content and replace existing layout
         activity.setContentView(llTitle);
 
     }
 
     private void buildBasicView (Cursor cursor) {
 
+        // create main view
         LinearLayout llTitle = new LinearLayout(activity);
         llTitle.setOrientation(LinearLayout.VERTICAL);
+
+        // create a textview that will contain the title and add it
         TextView tv = new TextView(activity);
         tv.setText(subsectionTitle);
         tv.setTextAppearance(activity, R.style.subsection_title_style);
         tv.setGravity(Gravity.CENTER_HORIZONTAL);
         tv.setBackgroundColor(protocolColor);
+        // apply textview to main view
         llTitle.addView(tv);
+
+        // create spacer and apply
         LinearLayout ll = new LinearLayout(activity);
         LinearLayout.LayoutParams lpt = new LinearLayout.LayoutParams(
                 LinearLayout.LayoutParams.WRAP_CONTENT, 10);
+        // apply spacer to main view
         llTitle.addView(ll, lpt);
 
+        // get the text that will go into main body
         String text = cursor.getString(1);
 
+        // create a scrollview and add it to the main body.
+        // the scrollview goes after the main linear layout because we want the title to stay in the same place when
+        // scrolling through the text
         ScrollView sv = new ScrollView(activity);
         llTitle.addView(sv);
 
+        // create the main linear layout that will go into the scrollview and add it
         LinearLayout llMain = new LinearLayout(activity);
         llMain.setOrientation(LinearLayout.VERTICAL);
         sv.addView(llMain);
 
-        ll = new LinearLayout(activity);
-        ll.setOrientation(LinearLayout.VERTICAL);
-        // set layout parameters
-        lpt = new LinearLayout.LayoutParams(
-                LinearLayout.LayoutParams.WRAP_CONTENT, LinearLayout.LayoutParams.WRAP_CONTENT);
-        lpt.setMargins(20, 10, 10, 10);
-
-        llMain.addView(ll, lpt);
-
+        // format the main body text
         text = formatText(text);
+        // create new textview and add the text
         tv = new TextView(activity);
         tv.setText(Html.fromHtml(text));
         tv.setTextAppearance(activity, R.style.subsection_style);
 
-        ll.addView(tv);
+        // create margins for the body
+        lpt = new LinearLayout.LayoutParams(
+                LinearLayout.LayoutParams.WRAP_CONTENT, LinearLayout.LayoutParams.WRAP_CONTENT);
+        lpt.setMargins(20, 10, 10, 10);
 
+        //add the text with the margin attribute set to the ll within the sv
+        llMain.addView(tv, lpt);
+
+        // set the content view of the whole thing and replace the existing view
         activity.setContentView(llTitle);
     }
 

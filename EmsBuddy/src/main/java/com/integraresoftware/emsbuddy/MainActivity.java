@@ -9,6 +9,8 @@ import android.widget.LinearLayout;
 import android.widget.TextView;
 
 import com.integraresoftware.android.emsbuddy.R;
+import com.integraresoftware.emsbuddy.data.SectionContract;
+import com.integraresoftware.emsbuddy.data.SubsectionContract;
 
 public class MainActivity extends ActionBarActivity {
 
@@ -51,6 +53,28 @@ public class MainActivity extends ActionBarActivity {
 	public void startPurpose(View v) {
 		
 	}
+
+    public void shortcutToChestDiscomfort(View v) {
+        int id = 9;
+
+        Intent i = new Intent(this, ActivityDisplaySection.class);
+        i.putExtra(SubsectionContract.ROW_ID, Long.valueOf(id));
+        i.putExtra(SubsectionContract.COL_TITLE, "Non-Traumatic Chest Discomfort");
+        i.putExtra(SectionContract.COL_COLOR, -6615281);
+
+        startActivity(i);
+    }
+
+    public void shortcutToAcs(View v) {
+        int id = 10;
+
+        Intent i = new Intent(this, ActivityDisplaySection.class);
+        i.putExtra(SubsectionContract.ROW_ID, Long.valueOf(id));
+        i.putExtra(SubsectionContract.COL_TITLE, "Acute Coronary Syndrome");
+        i.putExtra(SectionContract.COL_COLOR, -6615281);
+
+        startActivity(i);
+    }
 
 	/*
 	 * (non-Javadoc)

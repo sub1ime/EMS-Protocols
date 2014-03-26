@@ -12,6 +12,7 @@ import android.view.View;
 import android.widget.ImageView;
 
 public class TouchImageView extends ImageView {
+    //TODO get the doubletap to work
 
     Matrix matrix;
 

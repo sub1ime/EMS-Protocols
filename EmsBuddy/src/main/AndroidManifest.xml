@@ -62,6 +62,9 @@
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value="com.integraresoftware.emsbuddy.DisplayProtocolSectionActivity" />
         </activity>
+        <activity android:name="com.integraresoftware.emsbuddy.ActivityZoomImage">
+
+        </activity>
 
 
         <provider

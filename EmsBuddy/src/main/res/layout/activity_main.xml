@@ -18,6 +18,20 @@
         android:text="@string/protocol_button"
         android:onClick="startProtocol" />
 
+    <Button
+        android:id="@+id/startNTCD"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Shortcut to Non-Traumatic Chest Discomfort"
+        android:onClick="shortcutToChestDiscomfort" />
+
+    <Button
+        android:id="@+id/startACS"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Shortcut to Acute Coronary Syndrome"
+        android:onClick="shortcutToAcs" />
+
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"

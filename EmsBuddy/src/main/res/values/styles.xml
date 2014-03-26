@@ -18,7 +18,7 @@
     </style>
 
     <style name="subsection_style">
-        <item name="android:gravity">center_vertical</item>
+        <!--<item name="android:gravity">center_vertical</item>-->
         <item name="android:textSize">18sp</item>
         <item name="android:paddingLeft">40dp</item>
     </style>
