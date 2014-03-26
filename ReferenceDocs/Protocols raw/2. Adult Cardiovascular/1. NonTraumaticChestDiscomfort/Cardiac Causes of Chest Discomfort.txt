@@ -1,0 +1,15 @@
+<b>Ischemic</b>
+/b Angina
+/b Myocardial infarction
+/b Aortic stenosis
+/b Hypertrophic cardiomyopathy
+/b Coronary vasospasm
+
+<b>Non-Ischemic</b>
+/b Pericarditis
+/b Aortic dissection
+/b Mitral valve prolapsed
+
+
+OLD WAY----
+<table><tr><td>Ischemic<td>Non-Ischemic<tr><td> Angina<td> Pericarditis<tr><td>Myocardial infarction<td> Aortic dissection<tr><td> Aortic stenosis<td> Mitral valve prolapsed<tr><td> Hypertrophic cardiomyopathy<td><tr><td> Coronary vasospasm<td>

@@ -1,0 +1,27 @@
+Current
+-------------------------------------------------------------
+<--! Non-cardiac causes of chest discomfort-->
+<b>Gastro-esophageal</b>
+/b Reflux esophagitis
+/b Esophageal spasm
+/b Esophageal perforation
+/b Gastritis
+/b Peptic ulcer disease 
+
+<b>Pulmonary</b>
+/b Pneumothorax
+/b Pulmonary embolism
+/b Pleuritis
+/b Neoplasm
+/b Bronchitis 
+
+<b>Musculoskeletal</b>
+/b Costochondritis
+/b Rib fracture
+/b Compression radiculopathy
+
+<b>Dermatologic</b>
+/b Herpes zoster 
+
+
+

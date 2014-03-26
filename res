@@ -1,0 +1,1 @@
+EmsBuddy/src/main/res/
