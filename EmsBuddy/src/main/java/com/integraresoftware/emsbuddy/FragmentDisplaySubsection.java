@@ -230,8 +230,6 @@ public class FragmentDisplaySubsection extends Fragment implements
     }
 
     private void buildImageView(Cursor cursor) {
-        // create a way for the method to know if it needs to display text before the image
-        Boolean textB4Image = false;
         // get the image location and text to go with it
         String dbImage = cursor.getString(1);
         // split the image location from the rest of the text
@@ -259,9 +257,6 @@ public class FragmentDisplaySubsection extends Fragment implements
 
         // if there is text before the image we want to place it after the image
         if(imageStringLocation[0].length() > 2) {
-            // since we now know there is text before the image, we need to remember it
-            textB4Image = true;
-
             // we need a scrollview to put the ll in so we can scroll down if needed
             ScrollView sv = new ScrollView(activity);
 
@@ -294,6 +289,7 @@ public class FragmentDisplaySubsection extends Fragment implements
                     imageStringLocation[1], "drawable", activity.getPackageName());
             ImageView iv = new ImageView(activity);
             iv.setImageResource(imageIntLocation);
+            Log.d(TAG, "imageIntLocation = " + imageIntLocation);
             iv.setOnClickListener(new View.OnClickListener() {
                 @Override
                 public void onClick(View view) {
@@ -312,7 +308,7 @@ public class FragmentDisplaySubsection extends Fragment implements
             ll.addView(iv);
             // create a textview asking to click for further inspection
             tv = new TextView(activity);
-            tv.setText("Click to Inspect");
+            tv.setText("Click to Zoom");
             tv.setGravity(Gravity.CENTER_HORIZONTAL);
             tv.setTextColor(Color.BLUE);
             ll.addView(tv);
@@ -325,6 +321,7 @@ public class FragmentDisplaySubsection extends Fragment implements
                     imageStringLocation[1], "drawable", activity.getPackageName());
             // create a touch view that will allow zooming of the image and set the image location
             TouchImageView iv = new TouchImageView(activity);
+            Log.d(TAG, "imageIntLocation = " + imageIntLocation);
             iv.setImageResource(imageIntLocation);
             iv.setMaxZoom(4f);
             // add the image view to the main ll

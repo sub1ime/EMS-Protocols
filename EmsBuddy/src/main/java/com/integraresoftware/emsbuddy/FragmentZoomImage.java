@@ -3,6 +3,7 @@ package com.integraresoftware.emsbuddy;
 import android.app.Activity;
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
+import android.util.Log;
 import android.view.Gravity;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -42,6 +43,7 @@ public class FragmentZoomImage extends Fragment {
             getActivity().setTitle(protocolTitle);
             protocolColor = args.getInt(SectionContract.COL_COLOR);
             imageLocation = args.getInt("imageId");
+            Log.d(TAG, "imageLocation = " + imageLocation);
         } else {
             throw new IllegalArgumentException("No protocol ID supplied with argument");
         }
