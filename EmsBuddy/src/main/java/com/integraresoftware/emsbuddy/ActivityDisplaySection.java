@@ -1,10 +1,12 @@
 package com.integraresoftware.emsbuddy;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentTransaction;
 import android.support.v7.app.ActionBarActivity;
 import android.util.Log;
+import android.view.MenuItem;
 
 import com.integraresoftware.android.emsbuddy.R;
 import com.integraresoftware.emsbuddy.data.SectionContract;
@@ -20,6 +22,7 @@ public class ActivityDisplaySection extends ActionBarActivity {
 		super.onCreate(savedInstanceState);
 		
 		setContentView(R.layout.display_protocol_fragment);
+        lastSelected = getIntent().getIntExtra(FragmentDisplayList.ELV_SELECTED, -1);
 		
 		Fragment f = getSupportFragmentManager().findFragmentByTag(FragmentDisplaySection.TAG);
 		Log.d(TAG, "onCreate(): f= " + f);
@@ -38,5 +41,19 @@ public class ActivityDisplaySection extends ActionBarActivity {
 			t.commit();
 		}
 	}
+
+
+    @Override
+    public boolean onOptionsItemSelected(MenuItem item) {
+        switch (item.getItemId()) {
+            case android.R.id.home:
+                Intent i = new Intent(this, ActivityDisplayList.class);
+                i.putExtra(FragmentDisplayList.ELV_SELECTED, lastSelected);
+                startActivity(i);
+                return true;
+            default:
+                return super.onOptionsItemSelected(item);
+        }
+    }
 
 }

@@ -1,46 +1,38 @@
+Aortic Dissection and AAA
+protocolId = 13
+--------------------------------------------------------------------
+
 EMTA
 <table><tr><td>1.<td>Perform general patient management.
 <tr><td>2.<td>Support life-threatening problems associated with airway, breathing, and circulation.
-<tr><td>3.<td>Administer OXYGEN, via non-rebreather mask, at 10 - 15 L / minute as necessary.
+<tr><td>3.<td>Administer <i><u>OXYGEN</u></i>, via non-rebreather mask, at 10 - 15 L / minute as necessary.
 <tr><td>4.<td>Obtain VS in both arms and assess distal pulses.
 
 EMTB
 <table><tr><td>1.<td>Perform general patient management.
 <tr><td>2.<td>Support life-threatening problems associated with airway, breathing, and circulation.
-<tr><td>3.<td>Administer <i><u>OXYGEN</u></i>, via non-rebreather mask, at 10 - 15 L / minute as necessary.
+<tr><td>3.<td>Administer <i><u><i><u>OXYGEN</u></i></u></i>, via non-rebreather mask, at 10 - 15 L / minute as necessary.
 <tr><td>4.<td>Obtain VS in both arms and assess distal pulses.
-<tr><td>5.<td>Place the patient on a monitor and obtain/interpret 12 lead ECG; Refer to appropriate Cardiac Patient Care Protocol as needed. DO NOT administer ASA if acute MI is present in conjunction with suspected AAA or aortic dissection.
+<tr><td>5.<td>Place the patient on a monitor and obtain/interpret <i><u>12 lead ECG</u></i>; Refer to appropriate <i>Cardiac Patient Care Protocol</i> as needed. <i>DO NOT administer ASA if acute MI is present in conjunction with suspected AAA or aortic dissection</i>.
 <tr><td>6.<td>Transport and perform ongoing assessment as indicated.
 
 EMTEN
 <table><tr><td>1.<td>Perform general patient management.
 <tr><td>2.<td>Support life-threatening problems associated with airway, breathing, and circulation.
-<tr><td>3.<td>Administer OXYGEN, via non-rebreather mask, at 10 - 15 L / minute as necessary.
+<tr><td>3.<td>Administer <i><u>OXYGEN</u></i>, via non-rebreather mask, at 10 - 15 L / minute as necessary.
 <tr><td>4.<td>Obtain VS in both arms and assess distal pulses.
-<tr><td>5.<td>Place the patient on a monitor and obtain/interpret 12 lead ECG; Refer to appropriate Cardiac Patient Care Protocol as needed. DO NOT administer ASA if acute MI is present in conjunction with suspected AAA or aortic dissection.
+<tr><td>5.<td>Place the patient on a monitor and obtain/interpret <i><u>12 lead ECG</u></i>; Refer to appropriate <i>Cardiac Patient Care Protocol</i> as needed. <i>DO NOT administer ASA if acute MI is present in conjunction with suspected AAA or aortic dissection</i>.
 <tr><td>6.<td>Establish two IV of normal saline and titrate to a systolic B/P > 90 mmHg. Do not delay transport to establish second IV.
 <tr><td>7.<td>Transport and perform ongoing assessment as indicated.
 
-EMTI
+EMTI/EMTP
 <table><tr><td>1.<td>Perform general patient management.
 <tr><td>2.<td>Support life-threatening problems associated with airway, breathing, and circulation.
-<tr><td>3.<td>Administer OXYGEN, via non-rebreather mask, at 10 - 15 L / minute as necessary.
+<tr><td>3.<td>Administer <i><u>OXYGEN</u></i>, via non-rebreather mask, at 10 - 15 L / minute as necessary.
 <tr><td>4.<td>Obtain VS in both arms and assess distal pulses.
-<tr><td>5.<td>Place the patient on a monitor and obtain/interpret 12 lead ECG; Refer to appropriate Cardiac Patient Care Protocol as needed. DO NOT administer ASA if acute MI is present in conjunction with suspected AAA or aortic dissection.
+<tr><td>5.<td>Place the patient on a monitor and obtain/interpret <i><u>12 lead ECG</u></i>; Refer to appropriate <i>Cardiac Patient Care Protocol</i> as needed. <i>DO NOT administer ASA if acute MI is present in conjunction with suspected AAA or aortic dissection</i>.
 <tr><td>6.<td>Establish two IV of normal saline and titrate to a systolic B/P > 90 mmHg. Do not delay transport to establish second IV.
-<tr><td>7.<td>Administer FENTANYL 1mcg / kg or MORPHINE 2.5 - 5.0 mg as needed, per Pain Management Patient Care Protocol.
-<tr><td>8.<td>Administer ONDANSETRON (Zofran) 0.1 mg / kg slow IVP as needed per Nausea and Vomiting protocol.
-<tr><td<9.<td>Consider DOPAMINE Infusion 5 - 20 mcg / kg / minute for hypotension. Titrate to systolic B/P > 90 mmHg
-<tr><td>10.<td>Transport and perform ongoing assessment as indicated.
-
-EMTP
-<table><tr><td>1.<td>Perform general patient management.
-<tr><td>2.<td>Support life-threatening problems associated with airway, breathing, and circulation.
-<tr><td>3.<td>Administer OXYGEN, via non-rebreather mask, at 10 - 15 L / minute as necessary.
-<tr><td>4.<td>Obtain VS in both arms and assess distal pulses.
-<tr><td>5.<td>Place the patient on a monitor and obtain/interpret 12 lead ECG; Refer to appropriate Cardiac Patient Care Protocol as needed. DO NOT administer ASA if acute MI is present in conjunction with suspected AAA or aortic dissection.
-<tr><td>6.<td>Establish two IV of normal saline and titrate to a systolic B/P > 90 mmHg. Do not delay transport to establish second IV.
-<tr><td>7.<td>Administer FENTANYL 1mcg / kg or MORPHINE 2.5 - 5.0 mg as needed, per Pain Management Patient Care Protocol.
-<tr><td>8.<td>Administer ONDANSETRON (Zofran) 0.1 mg / kg slow IVP as needed per Nausea and Vomiting protocol.
-<tr><td<9.<td>Consider DOPAMINE Infusion 5 - 20 mcg / kg / minute for hypotension. Titrate to systolic B/P > 90 mmHg
+<tr><td>7.<td>Administer <i><u>FENTANYL</u></i> 1mcg / kg or <i><u>MORPHINE</u></i> 2.5 - 5.0 mg as needed, per <i>Pain Management Patient Care</i> Protocol.
+<tr><td>8.<td>Administer <i><u>ONDANSETRON</u></i> (Zofran) 0.1 mg / kg slow IVP as needed per <i><u>Nausea and Vomiting</u></i> protocol.
+<tr><td<9.<td>Consider <i><u>DOPAMINE</u></i> Infusion 5 - 20 mcg / kg / minute for hypotension. <b>Titrate to systolic B/P > 90 mmHg</b>
 <tr><td>10.<td>Transport and perform ongoing assessment as indicated.

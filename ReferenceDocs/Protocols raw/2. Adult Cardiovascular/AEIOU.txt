@@ -1,0 +1,1 @@
+<Table><tr><td>A<td>Alcohol, Abuse, Acidosis<tr><td>E<td>Endocrine, Electrolytes, Encephalopathy<tr><td>I<td>Insulin<tr><td>O<td>Oxygenation, Overdose, Opiates<tr><td>U<td>Uremia<tr><td>T<td>Toxidromes, Trauma, Temperature, Tumor<tr><td>I<td>Infection, Intussusception<tr><td>P<td>Psychogenic, Porphyria, Pharmacological<tr><td>S<td>Space occupying lesion, Sepsis, Seizure, Shock
