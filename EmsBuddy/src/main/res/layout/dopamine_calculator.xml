@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:id="@+id/dope_scrollview">
+
+    <RelativeLayout
+        android:orientation="vertical"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:padding="20dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="@android:style/TextAppearance.Medium"
+            android:text="Patient's Weight:"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentLeft="true"
+            android:id="@+id/txt_pt_weight"/>
+
+        <EditText
+            android:layout_width="70dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/input_pt_weight"
+            android:layout_below="@id/txt_pt_weight"
+            android:layout_alignParentLeft="true"
+            android:maxLength="4"
+            android:text="75"
+            android:inputType="numberDecimal"
+            android:selectAllOnFocus="true"
+            android:singleLine="true"
+            android:nextFocusDown="@+id/input_dope_amount"/>
+
+        <RadioGroup
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_toRightOf="@id/input_pt_weight"
+            android:layout_below="@id/txt_pt_weight"
+            android:id="@+id/radiogroup">
+
+            <RadioButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="lbs"
+                android:id="@+id/lbs" />
+
+            <RadioButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="kg"
+                android:id="@+id/kg"
+                android:checked="true" />
+
+        </RadioGroup>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/input_pt_weight"
+            android:text="Select Concentration:"
+            android:textAppearance="@android:style/TextAppearance.Medium"
+            android:layout_alignParentLeft="true"
+            android:paddingTop="30dp"
+            android:id="@+id/txt_conc"/>
+
+        <EditText
+            android:layout_width="70dp"
+            android:layout_height="wrap_content"
+            android:id="@id/input_dope_amount"
+            android:layout_alignParentLeft="true"
+            android:layout_below="@id/txt_conc"
+            android:text="400"
+            android:maxLength="4"
+            android:inputType="number"
+            android:selectAllOnFocus="true"
+            android:singleLine="true"
+            android:nextFocusDown="@+id/input_saline_amount"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@id/input_dope_amount"
+            android:layout_alignBaseline="@id/input_dope_amount"
+            android:text="mg"
+            android:id="@+id/txt_mg"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@id/txt_mg"
+            android:layout_alignBaseline="@id/input_dope_amount"
+            android:textAppearance="@android:style/TextAppearance.Medium"
+            android:paddingLeft="15dp"
+            android:paddingRight="15dp"
+            android:id="@+id/txt_in"
+            android:text="in"/>
+
+        <EditText
+            android:layout_width="70dp"
+            android:layout_height="wrap_content"
+            android:id="@id/input_saline_amount"
+            android:layout_toRightOf="@id/txt_in"
+            android:layout_alignBaseline="@id/input_dope_amount"
+            android:text="250"
+            android:maxLength="4"
+            android:inputType="number"
+            android:selectAllOnFocus="true"
+            android:singleLine="true"
+            android:nextFocusDown="@+id/spinner_dosage"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@id/input_saline_amount"
+            android:layout_alignBaseline="@id/input_dope_amount"
+            android:paddingRight="15dp"
+            android:id="@+id/txt_saline"
+            android:text="cc/mL NS"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/input_dope_amount"
+            android:text="Select Dose in cc/hr:"
+            android:textAppearance="@android:style/TextAppearance.Medium"
+            android:layout_alignParentLeft="true"
+            android:paddingTop="30dp"
+            android:id="@+id/txt_dosage"/>
+
+        <Spinner
+            android:layout_width="60dp"
+            android:layout_height="wrap_content"
+            android:entries="@array/dopamine_dosage"
+            android:id="@id/spinner_dosage"
+            android:layout_alignParentLeft="true"
+            android:layout_below="@id/txt_dosage"
+            android:nextFocusDown="@+id/input_dripset"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@id/spinner_dosage"
+            android:layout_alignBaseline="@id/spinner_dosage"
+            android:id="@+id/txt_mcg_hr"
+            android:text="mcg/hr"/>
+
+        <!-- plus and minus buttons -->
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="30dp"
+            android:text="+"
+            android:layout_toRightOf="@id/txt_mcg_hr"
+            android:layout_alignBaseline="@id/txt_mcg_hr"
+            android:id="@+id/button_add_dosage"
+            android:gravity="center"/>
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="30dp"
+            android:text="-"
+            android:layout_alignBaseline="@id/txt_mcg_hr"
+            android:layout_toRightOf="@id/button_add_dosage"
+            android:id="@+id/button_minus_dosage"
+            android:gravity="center"/>
+
+        <!-- dripset selection -->
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/spinner_dosage"
+            android:text="Select Dripset:"
+            android:textAppearance="@android:style/TextAppearance.Medium"
+            android:layout_alignParentLeft="true"
+            android:paddingTop="30dp"
+            android:id="@+id/txt_dripset"/>
+
+        <EditText
+            android:layout_width="70dp"
+            android:layout_height="wrap_content"
+            android:id="@id/input_dripset"
+            android:layout_alignParentLeft="true"
+            android:layout_below="@id/txt_dripset"
+            android:text="60"
+            android:maxLength="2"
+            android:inputType="number"
+            android:selectAllOnFocus="true"
+            android:singleLine="true"
+            android:nextFocusDown="@+id/button_calculate"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/txt_gtts_min"
+            android:text="gtts/mL"
+            android:layout_alignBaseline="@id/input_dripset"
+            android:layout_toRightOf="@id/input_dripset"/>
+
+<!-- answer boxes -->
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/txt_answer_ml_per_hour"
+            android:layout_below="@id/input_dripset"
+            android:textAppearance="@android:style/TextAppearance.Large"
+            android:paddingTop="50dp"
+            android:gravity="center"
+            android:layout_centerHorizontal="true"/>
+
+        <Button
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/txt_answer_ml_per_hour"
+            android:text="Calculate"
+            android:id="@id/button_calculate" />
+
+    </RelativeLayout>
+
+</ScrollView>

@@ -1,3 +1,7 @@
+Cardiogenic Shock
+protocolId = 12
+----------------------------------------------------------------------
+
 EMTA
 <table><tr><td>1.<td>Perform general patient management.
 <tr><td>2.<td>Assess mechanism of injury and / or nature of illness.

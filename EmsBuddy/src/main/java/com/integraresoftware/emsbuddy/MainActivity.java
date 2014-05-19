@@ -9,6 +9,7 @@ import android.widget.LinearLayout;
 import android.widget.TextView;
 
 import com.integraresoftware.android.emsbuddy.R;
+import com.integraresoftware.emsbuddy.calculators.ActivityCalculatorList;
 import com.integraresoftware.emsbuddy.data.SectionContract;
 import com.integraresoftware.emsbuddy.data.SubsectionContract;
 
@@ -33,7 +34,7 @@ public class MainActivity extends ActionBarActivity {
 	}
 	
 	public void startCalc(View v) {
-		Intent i = new Intent(this, SelectCalcActivity.class);
+		Intent i = new Intent(this, ActivityCalculatorList.class);
 		startActivity(i);
 	}
 	

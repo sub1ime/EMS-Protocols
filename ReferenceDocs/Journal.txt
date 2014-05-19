@@ -1,0 +1,12 @@
+Journal for EMSBUDDY program
+-------------------------------------------------------------------
+5/16/14
+COMPLETED:
+-dopamine calculator
+-in management section - added italics/etc to Non-Traumatic Chest Discomfort and Heart Failure to management, and updated the database with new layout
+
+TODO:
+-add italics/etc to Cardiogenic Shock and Aortic Dissection management
+-finish aortic disection protocol - populating database
+
+--------------------------------------------------------------------
