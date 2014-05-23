@@ -84,7 +84,10 @@ public class FragmentZoomImage extends Fragment {
         iv.setImageResource(imageLocation);
         iv.setMaxZoom(4f);
 
-        llTitle.addView(iv);
+        LinearLayout.LayoutParams lptImage = new LinearLayout.LayoutParams(
+                LinearLayout.LayoutParams.MATCH_PARENT, LinearLayout.LayoutParams.MATCH_PARENT);
+
+        llTitle.addView(iv, lptImage);
 
         activity.setContentView(llTitle);
 

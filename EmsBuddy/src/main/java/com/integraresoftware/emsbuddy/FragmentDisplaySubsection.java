@@ -68,22 +68,21 @@ public class FragmentDisplaySubsection extends Fragment implements
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
-
-        return inflater.inflate(R.layout.display_protocol_fragment_2, null);
+        View v =  inflater.inflate(R.layout.display_protocol_fragment_2, null);
+        return v;
     }
 
     @Override
     public void onViewCreated(View view, Bundle savedInstanceState) {
         activity = getActivity();
+
     }
 
     private String formatText(String txt) {
-
         // add bullets
         if (txt.contains("/b ")) {
             txt = txt.replaceAll("/b ", "&nbsp;&nbsp;&nbsp;&#8226;&nbsp;");
         }
-
         // replace breaks with HTML break
         txt = txt.replaceAll("\n", "<br>");
 
@@ -230,6 +229,8 @@ public class FragmentDisplaySubsection extends Fragment implements
     }
 
     private void buildImageView(Cursor cursor) {
+
+
         // get the image location and text to go with it
         String dbImage = cursor.getString(1);
         // split the image location from the rest of the text
@@ -316,6 +317,7 @@ public class FragmentDisplaySubsection extends Fragment implements
             // add the linear layout to the main scrollview
             sv.addView(ll);
         } else { // add the image
+            Log.d(TAG, "buildImageView else statement");
             // turn the String value of the location of the image into an int so android knows how to find it
             int imageIntLocation = activity.getResources().getIdentifier(
                     imageStringLocation[1], "drawable", activity.getPackageName());
@@ -324,8 +326,13 @@ public class FragmentDisplaySubsection extends Fragment implements
             Log.d(TAG, "imageIntLocation = " + imageIntLocation);
             iv.setImageResource(imageIntLocation);
             iv.setMaxZoom(4f);
+
+            LinearLayout.LayoutParams lptImage = new LinearLayout.LayoutParams(
+                    LinearLayout.LayoutParams.MATCH_PARENT, LinearLayout.LayoutParams.MATCH_PARENT);
+
             // add the image view to the main ll
-            llTitle.addView(iv);
+            llTitle.addView(iv, lptImage);
+
         }
 
 

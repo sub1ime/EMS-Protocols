@@ -14,6 +14,8 @@ import android.widget.ImageView;
 public class TouchImageView extends ImageView {
     //TODO get the doubletap to work
 
+    public static final String TAG = "TouchImageView";
+
     Matrix matrix;
 
     // We can be in one of these 3 states
@@ -118,6 +120,8 @@ public class TouchImageView extends ImageView {
 
         @Override
         public boolean onScale(ScaleGestureDetector detector) {
+            Log.d(TAG, "onScale");
+
             float mScaleFactor = detector.getScaleFactor();
             float origScale = saveScale;
             saveScale *= mScaleFactor;
@@ -140,6 +144,8 @@ public class TouchImageView extends ImageView {
     }
 
     void fixTrans() {
+        Log.d(TAG, "fixTrans()");
+
         matrix.getValues(m);
         float transX = m[Matrix.MTRANS_X];
         float transY = m[Matrix.MTRANS_Y];
@@ -221,5 +227,5 @@ public class TouchImageView extends ImageView {
             setImageMatrix(matrix);
         }
         fixTrans();
-    }
+    } //TODO this is where the problem is for the images I believe
 }
