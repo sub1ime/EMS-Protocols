@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">EMS Buddy</string>
+    <string name="app_name">ODEMSA Protocols</string>
     <string name="action_settings">Settings</string>
-    <string name="protocol_region">EMS Buddy!</string>
+    <string name="protocol_region">ODEMSA Protocols</string>
     <string name="protocol_button">Protocols</string>
     <string name="calculators">Calculators</string>
     <string name="drugs">Drugs</string>
