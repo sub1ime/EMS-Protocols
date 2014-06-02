@@ -1,0 +1,39 @@
+Medical Assessment
+protocolId = 18
+----------------------------------
+
+<b>A.V.P.U.</b>
+
+A - Alert
+V - Responds to verbal stimuli
+P - Responds to painful stimuli
+U - Unresponsive
+
+
+<b>Glasgow Coma Scale (GCS)</b>
+
+<table><tr><td>Eye Opening:<td>Spontaneous
+To Voice
+To Pain
+No Response<td>4
+3
+2
+1<tr><td>Verbal Response:<td>Oriented
+Confused
+Inappropriate Words
+Incomprehensible
+No Response<td>5
+4
+3
+2
+1<tr><td>Motor Response:<td>Obeys Commands
+Localizes (Pain)
+Withdraws (Pain)
+Flexion (Pain)
+Extension(Pain)
+No Response (Pain)<td>6
+5
+4
+3
+2
+1

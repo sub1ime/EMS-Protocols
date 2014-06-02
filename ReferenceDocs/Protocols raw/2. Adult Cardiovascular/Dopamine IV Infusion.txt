@@ -6,10 +6,17 @@ Add 400 mg of Dopamine to 250 ml of NS (1600 mcg / ml) and attach 60 gtts IV tub
 *The following is in microdrops / minute (mL / hr)
 <table><tr><td>Mcg / min
 <td>50Kg
-110Lb<td>60Kg
-132Lb<td>70Kg
-154Lb<td>80Kg
-176Lb<td>90Kg
-198Lb<td>100Kg
-220Lb<td>125Kg
-275Lb<tr><td>5.0mcg<td>9<td>11<td>13<td>15<td>17<td>19<td>23<tr><td>10.0mcg<td>19<td>23<td>26<td>30<td>34<td>38<td>47<tr><td>15.0mcg<td>28<td>34<td>39<td>45<td>51<td>56<td>70<tr><td>20.0mcg<td>38<td>45<td>53<td>60<td>68<td>75<td>94
+
+110 Lb<td>60 Kg
+
+132 Lb<td>70 Kg
+
+154 Lb<td>80 Kg
+
+176 Lb<td>90 Kg
+
+198 Lb<td>100 Kg
+
+220 Lb<td>125 Kg
+
+275 Lb<tr><td>5.0 mcg<td>9<td>11<td>13<td>15<td>17<td>19<td>23<tr><td>10.0 mcg<td>19<td>23<td>26<td>30<td>34<td>38<td>47<tr><td>15.0 mcg<td>28<td>34<td>39<td>45<td>51<td>56<td>70<tr><td>20.0 mcg<td>38<td>45<td>53<td>60<td>68<td>75<td>94

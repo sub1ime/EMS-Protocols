@@ -4,7 +4,6 @@ import android.app.Activity;
 import android.content.Intent;
 import android.database.Cursor;
 import android.graphics.Color;
-import android.graphics.Typeface;
 import android.net.Uri;
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
@@ -17,12 +16,9 @@ import android.view.Gravity;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
-import android.widget.HorizontalScrollView;
 import android.widget.ImageView;
 import android.widget.LinearLayout;
 import android.widget.ScrollView;
-import android.widget.TableLayout;
-import android.widget.TableRow;
 import android.widget.TextView;
 
 import com.integraresoftware.android.emsbuddy.R;
@@ -30,10 +26,10 @@ import com.integraresoftware.emsbuddy.adapter.TouchImageView;
 import com.integraresoftware.emsbuddy.data.DbProvider;
 import com.integraresoftware.emsbuddy.data.SectionContract;
 import com.integraresoftware.emsbuddy.data.SubsectionContract;
+import com.integraresoftware.emsbuddy.objects.FormatProtocolView;
 
 public class FragmentDisplaySubsection extends Fragment implements
         LoaderManager.LoaderCallbacks<Cursor> {
-    //TODO look at using patterns to pull out text between tags;
 
     public static final String TAG = "FragmentDisplaySubsection";
     public static final int MAIN_LOADER = 0;
@@ -90,7 +86,7 @@ public class FragmentDisplaySubsection extends Fragment implements
     }
 
     @Override
-    public Loader onCreateLoader(int id, Bundle bundle) {
+    public Loader<Cursor> onCreateLoader(int id, Bundle bundle) {
         Uri baseUri;
 
         baseUri = Uri.withAppendedPath(DbProvider.PROTOCOL_CHILD_CONTENT_URI,
@@ -126,106 +122,62 @@ public class FragmentDisplaySubsection extends Fragment implements
     }
 
     private void buildTableView(Cursor cursor) {
+        //TODO look at using patterns to pull out text between tags;
         // create pattern for table
         /*Pattern tablePattern = Pattern.compile("<table>(.+?)</table>");
         Pattern trPattern = Pattern.compile("<tr>(.+?)</tr>");
         Pattern tdPattern = Pattern.compile("<td>(.+?)</tr>");*/
 
-        LinearLayout llTitle = new LinearLayout(activity);
-        llTitle.setOrientation(LinearLayout.VERTICAL);
-        TextView tv = new TextView(activity);
-        tv.setText(subsectionTitle);
-        tv.setTextAppearance(activity, R.style.subsection_title_style);
-        tv.setGravity(Gravity.CENTER_HORIZONTAL);
-        tv.setBackgroundColor(protocolColor);
-        llTitle.addView(tv);
-        LinearLayout ll = new LinearLayout(activity);
-        LinearLayout.LayoutParams lpt = new LinearLayout.LayoutParams(
-                LinearLayout.LayoutParams.WRAP_CONTENT, 10);
-        llTitle.addView(ll, lpt);
+        // create the main parent layout
+        LinearLayout linearLayoutMain = new LinearLayout(activity);
+        linearLayoutMain.setOrientation(LinearLayout.VERTICAL);
 
+        // create reference to the format builder(custom)
+        FormatProtocolView mFormatter = new FormatProtocolView(activity, cursor);
+
+        // get the title textview and add it to the main layout
+        linearLayoutMain.addView(mFormatter.buildTitle(subsectionTitle, protocolColor));
+
+        // add a divider between title and rest of text
+        linearLayoutMain.addView(mFormatter.returnDivider());
+
+        // create a scrolling view to contain the "meat" of the protocol
         ScrollView sv = new ScrollView(activity);
-        llTitle.addView(sv);
-        LinearLayout llMain = new LinearLayout(activity);
-        llMain.setGravity(Gravity.CENTER);
-        llMain.setOrientation(LinearLayout.VERTICAL);
-        sv.addView(llMain);
+        sv.setLayoutParams(new LinearLayout.LayoutParams(
+                LinearLayout.LayoutParams.MATCH_PARENT,
+                LinearLayout.LayoutParams.WRAP_CONTENT
+        ));
+        linearLayoutMain.addView(sv);
 
-        String text = cursor.getString(1);
-        String[] mTableRows = text.split("<tr>");
-        int rows = mTableRows.length - 1; // subtract 1 because the first cell in the array is blank
-        String[] mTableCells = mTableRows[2].split("<td>");
-        int columns = mTableCells.length - 1; // subtract 1 because the first cell in the array is blank
+        // create a linear layout to house the table
+        LinearLayout linearLayout = new LinearLayout(activity);
+        linearLayout.setLayoutParams(new LinearLayout.LayoutParams(
+                LinearLayout.LayoutParams.MATCH_PARENT,
+                LinearLayout.LayoutParams.WRAP_CONTENT
+        ));
+        linearLayout.setGravity(Gravity.CENTER);
+        linearLayout.setOrientation(LinearLayout.VERTICAL);
+        sv.addView(linearLayout);
 
-        // check for text before the table
-        String[] foreText = text.split("<table>");
-        if (foreText[0].length() > 0) {
-            ll = new LinearLayout(activity);
-            ll.setOrientation(LinearLayout.VERTICAL);
-
-            TextView tv1 = new TextView(activity);
-            String mText1 = formatText(foreText[0]);
-            tv1.setText(Html.fromHtml(mText1));
-            tv1.setTextAppearance(activity, R.style.subsection_style);
-            ll.addView(tv1);
-
-            lpt = new LinearLayout.LayoutParams(
+        // check for text before the table, and insert it if present
+        if (mFormatter.checkForeText()) {
+            LinearLayout.LayoutParams lpt = new LinearLayout.LayoutParams(
                     LinearLayout.LayoutParams.MATCH_PARENT, LinearLayout.LayoutParams.WRAP_CONTENT);
             lpt.setMargins(20, 10, 10, 10);
-
-            llMain.addView(ll, lpt);
+            linearLayout.addView(mFormatter.addForeText(), lpt);
         }
 
-        // start building the table
-        HorizontalScrollView horizontalScrollView = new HorizontalScrollView(activity);
-        TableLayout tableLayout = new TableLayout(activity);
-
-        Log.d(TAG, "Starting table build.\nrows=" + rows + "\ncolumns=" + columns);
-
-        for (int i = 1; i <= rows; i++) {
-            Log.d(TAG, "i=" + i);
-
-            TableRow tableRow = new TableRow(activity);
-            String[] mDataText = mTableRows[i].split("<td>", columns + 1);
-
-            for (int q = 1; q <= columns; q++) {
-                Log.d(TAG, "q=" + q);
-
-                int alignment = mTableCells[q].length() <= 3 ? Gravity.CENTER : Gravity.LEFT;
-                String mString;
-                if (mDataText[q].length() > 1) mString = formatText(mDataText[q]);
-                else mString = mDataText[q];
-
-                tv = new TextView(activity);
-                tv.setGravity(alignment);
-                tv.setText(Html.fromHtml(mString));
-                tv.setTextAppearance(activity, R.style.subsection_table_style);
-                tv.setPadding(10, 5, 20, 5);
-
-                // create alternating colors for each row and the darkest color for the Titles
-                if (i == 1) {
-                    tv.setTypeface(null, Typeface.BOLD);
-                    tv.setTextColor(0xffFFFFFF);
-                    tv.setBackgroundColor(0xff008FB2);
-                } else if (i % 2 == 0) {
-                    tv.setBackgroundColor(0xff99E6FF);
-                } else {
-                    tv.setBackgroundColor(0xffD6F5FF);
-                }
-                tableRow.addView(tv);
-            }
-            // tableLayout.setColumnShrinkable(1, true);
-            tableLayout.addView(tableRow);
+        // determine how many columns and create the appropriate table for the screen
+        if (mFormatter.getColumns() < 4) {
+            linearLayout.addView(mFormatter.buildSmallChart());
+        } else {
+            linearLayout.addView(mFormatter.buildLargeChart());
         }
 
+        // add padding to the bottom of the screen
+        linearLayout.addView(mFormatter.returnDivider());
 
-
-        horizontalScrollView.addView(tableLayout);
-        //tableLayout.setColumnShrinkable(1, true);
-        llMain.addView(horizontalScrollView);
-        activity.setContentView(llTitle);
-
-
+        activity.setContentView(linearLayoutMain);
     }
 
     private void buildImageView(Cursor cursor) {

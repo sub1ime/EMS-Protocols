@@ -17,11 +17,11 @@ HPI
 
 Signs and Symptoms
 --
-Heart rate > 150 bpm
-Dizziness
-Chest Pain
-Shortness of Breath
-Potential presenting rhythm:
+/b Heart rate > 150 bpm
+/b Dizziness
+/b Chest Pain
+/b Shortness of Breath
+/b Potential presenting rhythm:
  o Sinus tachycardia
  o Atrial Fibrillation / Flutter
  o Multifocal atrial tachycardia (MAT)
@@ -30,19 +30,19 @@ Potential presenting rhythm:
 Considerations
 --
 <b><u>QRS < 0.12 ms</u></b>
-Sinus tachycardia
-Atrial fibrillation
-Atrial flutter
-AV nodal reentry
-Accessory pathway – mediated tachycardia
-Atrial tachycardia (including automatic and reentry forms)
-Multifocal atrial tachycardia (MAT)
-Junctional tachycardia (rare in adults)
+/b Sinus tachycardia
+/b Atrial fibrillation
+/b Atrial flutter
+/b AV nodal reentry
+/b Accessory pathway – mediated tachycardia
+/b Atrial tachycardia (including automatic and reentry forms)
+/b Multifocal atrial tachycardia (MAT)
+/b Junctional tachycardia (rare in adults)
 
 <b><u>QRS > 0.12 ms</u></b>
-Ventricular tachycardia (VT) and ventricular fibrillation(VF)
-SVT with aberrancy
-Pre-excitation tachycardia’s (Wolff-Parkinson-White [WPW] syndrome)
-Ventricular paced rhythms
+/b Ventricular tachycardia (VT) and ventricular fibrillation(VF)
+/b SVT with aberrancy
+/b Pre-excitation tachycardia’s (Wolff-Parkinson-White [WPW] syndrome)
+/b Ventricular paced rhythms
 
 
