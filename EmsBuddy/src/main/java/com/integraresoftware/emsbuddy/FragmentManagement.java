@@ -5,6 +5,7 @@ import android.graphics.Color;
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
 import android.text.Html;
+import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -64,6 +65,8 @@ public class FragmentManagement extends Fragment {
         }
 
         int numberRows = rows.length - 1;
+
+        Log.d(TAG, "numberRows = " + numberRows);
 
         for (int i = 1; i <= numberRows; i++) {
             LinearLayout ll = new LinearLayout(activity);

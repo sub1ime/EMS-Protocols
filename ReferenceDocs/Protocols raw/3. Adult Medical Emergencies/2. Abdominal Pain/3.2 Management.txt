@@ -38,4 +38,4 @@ EMTI/EMTP
 <tr><td>7.<td>Initiate IV of Normal Saline KVO.
 <tr><td>8.<td>Administer <i><u>ONDANSETRON</u></i> 0.1 mg / kg slow IVP over 2 - 5 minutes, max 4.0 mg per dose, as needed, per <i><u>Nausea and Vomiting Patient Care Protocol</u></i>.
 <tr><td>9.<td>Treat pain if indicated. Refer to <i><u>pain management</u></i> guideline.
-<td>Transport and perform ongoing assessment as indicated.
+<tr><td>10.<td>Transport and perform ongoing assessment as indicated.	
