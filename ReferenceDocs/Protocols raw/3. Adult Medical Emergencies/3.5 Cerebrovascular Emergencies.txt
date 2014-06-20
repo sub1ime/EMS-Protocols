@@ -1,0 +1,78 @@
+Cerebrovascular Accidents
+===========================
+
+Overview
+-------------
+Stroke is a major cause of disability and a leading cause of death in the U.S. There are two main mechanisms of stroke: (1) Blood vessel occlusion and (2) Blood vessel rupture. Ischemic strokes are most often caused by large vessel thrombosis, although embolism or hypoperfusion can cause them. Causes of thrombosis include atherosclerosis, vessel dissection, and some infectious diseases. Hemorrhagic strokes are divided into intracerebral (ICH) and subarachnoid (SAH) hemorrhages. Risk factors for ICH include heart disease, hypertension, smoking, diabetes, elevated cholesterol, older age, prior stoke, family history, and cocaine use. Stroke symptoms will present according to which area of the brain is being inadequately perfused.
+
+HPI
+---------------
+•Previous CVA/ TIA’s
+•Previous cardiac / vascular surgery
+•Associated diseases; diabetes, hypertension, CAD, atrial fibrillation
+•Medications (blood thinners)
+•History of trauma
+
+Signs and Symptoms
+----------------------
+•Altered mental status
+•Weakness, paralysis
+•Blindness or other sensory loss
+•Aphasia, dysarthria
+•Syncope
+•Vertigo, dizziness
+•Vomiting
+•Headache
+•Seizures
+•Respiratory pattern change
+•Hypertension, hypotension
+
+Considerations
+------------------------------
+•TIA
+•Seizure
+•Hypoglycemia
+•Stroke
+•Thrombotic
+•Embolic
+•Hemorrhagic
+•Tumor
+•Trauma
+
+Management
+-------------------------
+[management]
+
+Cincinnati Stroke Scale
+-------------------------------
+<b><u>Facial Droop (have patient show teeth or smile):</u></b>
+• Normal — both sides of face move equally
+• Abnormal — one side of face does not move as well as the other side
+
+<b><u>Arm Drift (patient closes eyes and holds both arms straight out for 10 seconds):</u></b>
+• Normal — both arms move the same or both arms do not move at all (other findings, such as pronator drift, may be helpful)
+• Abnormal — one arm does not move or one arm drifts down compared with the other
+
+<b><u>Abnormal Speech (have the patient say “you can’t teach an old dog new tricks”):</u></b>
+• Normal — patient uses correct words with no slurring
+• Abnormal — patient slurs words, uses the wrong words, or is unable to speak
+
+<b>Interpretation: If any 1 of these 3 signs is abnormal, the probability of a stroke is 72%.</b>
+
+Possible Causes of Unconcsiousness
+----------------------------------------
+<Table><tr><td>A<td>Alcohol, Abuse, Acidosis<tr><td>E<td>Endocrine, Electrolytes, Encephalopathy<tr><td>I<td>Insulin<tr><td>O<td>Oxygenation, Overdose, Opiates<tr><td>U<td>Uremia<tr><td>T<td>Toxidromes, Trauma, Temperature, Tumor<tr><td>I<td>Infection, Intussusception<tr><td>P<td>Psychogenic, Porphyria, Pharmacological<tr><td>S<td>Space occupying lesion, Sepsis, Seizure, Shock
+
+PEARLS
+---------------------------------
+1. With duration of symptoms of less than 2.5 hours, scene and transport times should be minimized so the patient may receive the maximum benefit of intravenous thrombolytic therapy.
+2. Onset of symptoms is defined as the last witnessed time the patient was symptom free (i.e., a patient awakening with stroke symptoms would be defined as an onset time of the previous night when the patient was symptom free).
+3. The differentials listed in the Unconscious / Syncope / AMS Patient Care Protocol should also be considered.
+4. Be alert for airway problems (difficulty swallowing, vomiting, aspiration, etc).
+5. Hypoglycemia can present as a localized neurological deficit in the elderly.
+6. There is an increased risk of stroke after a myocardial infarction (MI). Positive predictors of stroke after MI include: advanced age; diabetes; hypertension; history of prior stroke; anterior location of index MI; prior MI, atrial fibrillation; heart failure; and nonwhite race.
+
+ODEMSA Stroke System
+------------------------------
+<image>odemsa_stroke_systsem
+

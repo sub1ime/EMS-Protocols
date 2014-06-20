@@ -1,0 +1,86 @@
+Dystonic / Extrapyramidal Reactions
+====================================
+
+Overview
+-------------
+Dystonic or extra-pyramidal reactions are characterized by an unusual posture, change in muscle tone, drooling, and / or uncontrolled movements. Although dystonic reactions are occasionally dose related these reactions are more often idiosyncratic and not predictable. Dystonia results from drug-induced alteration of the dopaminergic-cholinergic balance in the basal ganglia. Risk factors include, but are not limited to, family history of dystonia, recent history of cocaine or alcohol use, or treatment with a potent dopamine D 2 receptor antagonist such as fluphenazine and almost every anti-psychotic medication. Diphenhydramine, when administered, usually causes marked improvement, if not total resolution of symptoms.
+
+HPI
+--------------
+•Onset of symptoms
+•Medications
+•Illicit drug use
+•History of past reaction
+
+Signs and Symptoms
+-------------------
+•Eye deviation in all directions
+•Protrusion of the tongue
+•Forced jaw opening or spasms
+•Facial grimacing
+•Deviation of the head
+•Difficulty speaking
+
+Considerations
+-----------------------
+•Conversion disorder
+•Mandible dislocation
+•Hypocalcemia
+•Hypomagnesemia
+•Meningitis
+•Status Epilepticus
+•Stroke
+•Tetanus
+•Drug toxicity (Anticholinergic, Carbamazepine, Phenytoin, Valproate)
+
+Management
+-----------------
+[management]
+
+Common Medications Causing Dystonia
+-----------------------------------------
+<b>Anti-depressants</b>
+• Amitriptyline
+• Amoxapine (Asendis)
+• Bupropion
+• Clomipramide (Anafranil)
+• Doxepin (Sinequan)
+• Trimipramine (Surmontil)
+• Trazadone (Desyrel)
+
+<b>Neuroleptic Agents</b>
+• Chlorpromazine (Largactil)
+• Clozapine (Clozaril)
+• Fluphenazine (Prolixin)
+• Haloperidol (Haldol)
+• Perphenazine (Fentazin)
+• Promazine
+• Trifluoperazine (Stelazine)
+
+<b>Miscellaneous Agents</b>
+• Lithium (Priadel)
+• Midazolam
+• Phenytoin (Dilantin)
+• Promethazine (Phenergan)
+• Verapamil (Calan)
+
+<b>Anti-Anxiety Agents</b>
+• Alprazolam (Xanax)
+• Buspirone (Buspar)
+
+<b>Anti-nausea  / Vomitting Agents</b>
+• Metoclopramide (Reglan)
+• Prochlorperazine (Stemetil)
+
+
+PEARLS
+------------------------------
+1. Incidence of acute dystonic reactions vary according to individual susceptibility, drug identity, dose, and duration of therapy.
+2. A small population of all patients on neuroleptic medications have dystonic reactions.
+3. In rare instances, although abnormal, airway management may be needed.
+4. Dystonic reactions are rarely life threatening and result in no long term effects.
+5. Risk of reaction typically decreases with age and tends to be most common in children, teens, and young adults (< 45 years old).
+
+
+
+
