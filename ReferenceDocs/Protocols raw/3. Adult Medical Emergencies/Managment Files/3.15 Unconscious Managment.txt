@@ -1,0 +1,21 @@
+Unconcious managment
+
+=========================================
+1. Perform general patient management.
+2. Maintain patient in a supine position.
+3. Administer oxygen to maintain SPO 2 94 - 99% and
+glucose check.
+4. If the patient has altered mental status, refer to the
+appropriate protocol per assessment. If no obvious
+etiology is identified, refer to Cerebrovascular Accident
+(Stroke) protocol.
+5. If the patient age is ≥ 25 years of age or has a cardiac
+history, place on cardiac monitor and obtain / interpret 12
+lead ECG. If interpretation is consistent with STEMI,
+notify and transport to the closest appropriate
+Emergency PCI hospital.
+A
+6. Establish IV of Normal Saline. Keep at KVO rate unless
+hypotensive. If hypotensive, please refer to Shock
+protocol.
+7. Transport and reassess as needed.

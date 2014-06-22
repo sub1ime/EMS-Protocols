@@ -1,0 +1,73 @@
+Seizures
+===================================
+
+OVERVIEW:
+-----------------------
+A seizure is a period of altered neurologic function caused by abnormal neuronal electrical discharges. Generalized seizures begin with an abrupt loss of consciousness. If motor activity is present, it symmetrically involves all four extremities. Episodes that develop over minutes to hours are less likely to be seizures; generally seizures only last one to two minutes. Patients with seizure disorders tend to have stereotype, or similar, seizures with each episode and are less likely to have inconsistent or highly variable attacks. True seizures are usually not provoked by emotional stress. Most seizures are followed by a postictal state of lethargy and confusion.
+
+HPI
+----------------
+• Reported, witnessed
+• Seizure activity description
+• Previous seizure history
+• Medic alert tag information
+• Seizure medications
+• History of trauma
+• History of diabetes mellitus
+• History of pregnancy
+
+Signs and Symptoms
+--------------------
+• Decreased mental status
+• Sleepiness
+• Incontinence
+• Observed seizure activity
+• Evidence of trauma
+
+Considerations
+----------------
+• CNS (head) trauma
+• Brain tumor
+• Metabolic, hepatic, renal failure
+• Diabetic
+• Hypoxia
+• Electrolyte abnormality
+• Drugs, medications, non-compliance
+• Infection, fever, meningitis
+• Alcohol withdrawal
+• Eclampsia
+• Stroke
+• Hyperthermia
+
+
+Management
+-------------------------------------------
+[management]
+
+Types of Seizures
+------------------------------------
+<b>Generalized</b>
+• Absence (Petit-Mal)
+• Atonic (Drop Attack)
+• Myoclonic (Brief bilateral jerking)
+• Tonic-Clonic (GrandMal)
+
+<b>Simple Partial</b>
+• Focal/ Local: Localized twitching of hand, arm, leg, face, or eyes. Patient may be conscious or unconscious
+
+<b>Complex Partial</b>
+• Temporal Lobe
+• Psychomotor
+
+PEARLS:
+--------------------------------------------------------------------------------
+1. Status epilepticus is defined as two or more consecutive seizures without a period of consciousness or recovery. This is a true emergency requiring rapid airway control, treatment, and transport.
+2. Grand Mal seizures are generalized in nature and associated with loss of consciousness, incontinence, and tongue trauma.
+3. Focal seizures affect only a specific part of the body and are not usually associated with loss of consciousness.
+4. Jacksonian seizures are seizures that start as focal in nature and become generalized.
+5. Petit Mal seizures may be localized to a single muscle group or may not involve visible seizure activity at all. Always examine pupils for nystagmus, which would alert provider to continued seizure activity.
+6. Respirations during an active seizure should be considered ineffective and airway maintenance should occur per assessment.
+7. Be prepared for airway problems and continued seizures.
+8. Investigate possibility of trauma and substance abuse.
+9. Be prepared to assist ventilations as dosage Midazolam or Valium is repeated and / or increased.
+

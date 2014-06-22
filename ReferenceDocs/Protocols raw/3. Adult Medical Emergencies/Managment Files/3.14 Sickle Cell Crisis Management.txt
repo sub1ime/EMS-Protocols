@@ -1,0 +1,15 @@
+Sickle Cell Crisis
+
+================================
+Perform general patient management.
+Administer oxygen to maintain SPO 2 94 - 99%
+Determine patient’s pain score assessment.
+Consider differential diagnoses for patient’s pain.
+Establish IV of Normal Saline per patient assessment.
+Administer bolus if needed.
+6. If significant pain, refer to Pain Management protocol.
+Sickle cell patients may be given higher doses of
+FENTANYL and MORPHINE SULFATE.
+7. Repeat the patient’s pain score assessment.
+8. Transport in position of comfort and reassess as
+indicated.

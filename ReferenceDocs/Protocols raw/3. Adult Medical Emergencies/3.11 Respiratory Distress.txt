@@ -1,0 +1,55 @@
+Respiratory Distress – Asthma / COPD
+===============================================
+
+OVERVIEW:
+----------------------------------------------------------------------------------
+Respiratory distress, or dyspnea, is one of the most common medical complaints witnessed in pre-hospital medicine. Most patients describe it as a sensation of shortness of breath or a feeling of “air hunger” accompanied by labored breathing. Dyspnea may be caused by pulmonary or cardiac disease or by any mechanism that causes hypoxia. It may be mild, manifesting only on exertion, or severe, occurring at rest. The most common causes of non-cardiac dyspnea in the pre-hospital environment involve asthma, chronic obstructive pulmonary disease (COPD), pneumonia, and bronchitis. The wheezing patient may present in different ways, some may not even complain of wheezing, but rather just of shortness of breath, cough, or chest tightness. Wheezing patients are often apprehensive and distressed, at times, so severe that they may not be able to speak in complete sentences. Oxygenation may be compromised to the point that there is a decrease in the patient’s level of consciousness. These signs are clues that the patient needs immediate and aggressive therapy. Treatment is aimed at maintaining the patient’s SpO<sub>2</sub> to > 90%. Remember, not all wheezing is from asthma.
+
+HPI
+-----------------
+• Asthma, COPD, chronic bronchitis, emphysema, heart failure
+• Home treatment (oxygen, inhaler, nebulizer)
+• Medications (Theophylline, steroids, bronchodilators)
+• Toxic exposure, smoke inhalation
+
+Signs and Symptoms
+------------------------
+• Shortness of breath
+• Purse lip respirations
+• Decreased ability to speak
+• Increased respiratory rate and effort
+• Use of accessory muscles
+• Tripoding
+• Wheezing, rhonchi, rales
+• Fever, cough
+• Tachycardia
+
+Considerations
+------------------------
+• Asthma
+• Anaphylaxis
+• Aspiration
+• COPD (emphysema, bronchitis)
+• Pleural effusion
+• Pulmonary embolism
+• Pneumothorax
+• Cardiac (MI, HF)
+• Pericardial Tamponade
+• Upper respiratory infection
+• Hyperventilation, anxiety
+• Inhaled toxins
+
+Management
+-----------------
+[managment]
+
+PEARLS:
+-------------------------------------
+1. Status asthmaticus is defined as a severe prolonged asthma attack, nonresponsive to therapy.
+2. A silent chest in respiratory distress is a pre-respiratory arrest sign.
+3. Magnesium Sulfate and Epinephrine should only be used for patents in severe, non-responsive distress that is refractory to initial treatments.
+4. Patients with COPD, emphysema, and chronic bronchitis usually have a lowered baseline level of pulmonary function. These patients often have a history of chronic cough, sputum production, and dyspnea on exertion.
+5. The classic presentation of a patient with emphysema is the appearance of the “pink puffer,” with rapid, shallow breathing through pursed lips, with a thin body habitus, a barrel chest, and the use of accessory muscles with respirations.
+6. The classic presentation of a patient with bronchitis is the appearance of the “blue bloater”, with slow, deep, and labored breathing, a overweight body habitus, and, at times, cyanotic.
+
+

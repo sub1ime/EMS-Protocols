@@ -1,0 +1,51 @@
+Pain Management
+====================
+
+OVERVIEW:
+----------------------------
+The practice of pre-hospital emergency medicine requires expertise in a wide variety of pharmacological and non-pharmacological techniques to treat acute pain resulting from a myriad of injuries and illness. One of the most essential missions for all healthcare providers should be the relief and / or prevention of pain and suffering. Approaches to pain relief must be designed to be safe and effective in the organized chaos of the prehospital environment. The degree of pain and the hemodynamic status of the patient will determine the rapidity of care.
+
+HPI
+---------------------
+• Age
+• Location
+• Duration
+• Severity (1 - 10)
+• Past medical history
+• Medications
+• Drug allergies
+
+Signs and Symptoms
+------------------------
+• Severity (pain scale)
+• Quality (sharp, dull, etc)
+• Radiation
+• Relation to movement, respiration
+• Increased with palpation of area
+
+Considerations
+--------------------------------
+• Musculoskeletal
+• Visceral (abdominal)
+• Cardiac
+• Pleural, respiratory
+• Neurogenic
+• Renal (colic)
+
+Management
+---------------------------------------
+[management]
+
+Universal Pain Assessment Tool
+-------------------------------------
+<image>universal_pain_assessment_tool
+
+PEARLS:
+--------------------------------
+1. Pain severity (0 - 10) is a vital sign that should be recorded before and after IV or IM medication administration and upon arrival at destination.
+2. Contraindications to narcotic medication administration include hypotension, head injury, respiratory depression, and severe COPD.
+3. All patients should have drug allergies ascertained prior to administration of pain medication.
+4. Patients receiving narcotic analgesics should be administered oxygen.
+5. Narcotic analgesia was historically contraindicated in the pre-hospital setting for abdominal pain of unknown etiology. It was thought that analgesia would hinder the ER physician or surgeon’s evaluation. Recent studies have demonstrated Opiate administration may alter the physical examination findings, but these changes result in no significant increase in management errors.
+6. Fentanyl is contraindicated for patients who have taken MAOIs within past 14 days, and used with caution in patients with head injuries, increased ICP, COPD, and liver or kidney dysfunction.
+

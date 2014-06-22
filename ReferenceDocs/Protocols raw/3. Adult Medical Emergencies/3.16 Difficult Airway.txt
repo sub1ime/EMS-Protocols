@@ -1,0 +1,48 @@
+Difficult Airway
+===============================
+
+OVERVIEW:
+-------------------------
+The purpose of these guidelines is to facilitate the management of the difficult airway and to reduce the likelihood of adverse outcomes. The principal adverse out comes associated with the difficult airway include, but are not limited to, death, brain injury, myocardial injury, and airway trauma.
+
+HPI
+---------------------------
+• Age
+• Past medical, surgical history
+• Medications
+• Reason for airway failure
+• Duration of symptoms
+• Last meal
+• Menstrual history, pregnancy
+
+Signs and Symptoms
+------------------------
+• Hypercarbia
+• Stridor
+• Trismus
+• Pooling of secretions
+• Hypoxia
+
+Considerations
+-------------------------
+• Congentital abnormalities
+• Previous Tracheostomy
+• Previous neck surgeries
+• Previous mouth / throat surgeries
+• Known head / neck cancers and masses
+• Trauma
+
+Note
+--------------------------
+<b>*Medication Facilitated Intubation and Surgical Airway are skills that are only approved when:</b>
+
+• Proper medications and equipment are available for procedures; AND
+
+• The ALS Provider has been trained in those procedures; AND
+
+• The provider’s OMD has authorized the performance of the procedures for the provider.
+
+Managment
+----------------------------------
+[managment]
+
