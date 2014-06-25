@@ -25,9 +25,11 @@ public class FormatProtocolView {
     private String text;
     private String[] mTableRows;
     private String[] mTableCells;
+    private String[] foreText;
 
 
     public FormatProtocolView(Activity activity, Cursor cursor) {
+        //TODO AEIOU chart looks funny
         // set the context
         this.activity = activity;
 
@@ -223,13 +225,16 @@ public class FormatProtocolView {
     }
 
     public boolean checkForeText() {
-        String[] foreText = text.split("<table>");
+        foreText = text.split("<table>");
+        if (foreText.length == 1) {
+            foreText = text.split("<Table>");
+        }
 
         return foreText[0].length() > 0;
     }
 
     public LinearLayout addForeText() {
-        String[] foreText = text.split("<table>");
+        foreText = text.split("<table>");
         LinearLayout linearLayout = new LinearLayout(activity);
         linearLayout.setOrientation(LinearLayout.VERTICAL);
 

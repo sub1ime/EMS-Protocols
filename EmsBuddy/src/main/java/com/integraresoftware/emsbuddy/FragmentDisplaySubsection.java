@@ -102,7 +102,10 @@ public class FragmentDisplaySubsection extends Fragment implements
 
         if (text.contains("<table>")) {
            buildTableView(cursor);
-        } else if (text.contains("<image>")) {
+        } else if (text.contains("<Table>")) {
+            buildTableView(cursor);
+        }
+        else if (text.contains("<image>")) {
             buildImageView(cursor);
         } else {
             buildBasicView(cursor);
