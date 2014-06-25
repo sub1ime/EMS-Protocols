@@ -1,0 +1,39 @@
+Elder Abuse
+====================
+
+OVERVIEW:
+--------------
+Patterns of elder abuse can reflect any form of physical and / or mental trauma but are usually characterized by unexplained or poorly explained injuries of different ages and delay in seeking medical care. Sociological changes occur in the elderly and sometimes they feel as though they are a burden and do not seek help for their situation. Other times, they may be incapacitated or unable to alter their surroundings. There are often no external signs of injuries. The provider should note other vague medical symptoms such as repeated vomiting, abdominal pain, and distention in an elderly person with other evidence of abuse. Also be observant of decubitus ulcers, unsanitary conditions, skin conditions and the general nourishment of the elder. Observation, transport, and reporting are the key responsibilities of the pre-hospital provider.
+
+HPI
+------------
+• Time of injury
+• Mechanism: blunt vs penetrating
+• Loss of consciousness
+• Bleeding
+• Past medical history
+• Medications
+• Evidence of multisystem trauma
+
+Signs and Symptoms
+-----------------------
+• Pain, swelling, bleeding
+• Altered mental status, unconsciousness
+• Respiratory distress, failure
+• Dehydration
+• Decubitus
+• Major traumatic mechanism of injury
+
+Considerations
+----------------------
+• Skull fracture
+• Brain injury (concussion, contusion, hemorrhage, or laceration)
+• Epidural hematoma
+• Subdural hematoma
+• Subarachnoid hemorrhage
+• Spinal injury
+
+Management
+--------------------------
+[management]
+

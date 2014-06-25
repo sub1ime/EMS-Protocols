@@ -1,0 +1,97 @@
+Burns
+=======================
+
+OVERVIEW:
+-------------------------------
+Burns are a devastating form of trauma associated with high mortality rates, lengthy rehabilitation, cosmetic disfigurement, and permanent physical disabilities. Thermal, chemical, electrical, nuclear radiation or solar sources may cause burns. Burns can affect more than just the skin. They can affect the body’s fluid and chemical balance, temperature regulation, and musculoskeletal, circulatory, and respiratory functions. Burns are classified by degree, 1° (superficial) some reddening to skin, 2° (partial thickness) has blistering and deep reddening to the skin, and 3° (full thickness) causes damage to all skin layers and is either charred/ black or white/ leathery with little or no pain at the site. The patient’s palm equals 1% of body surface area when determining the area affected. This is sometimes more helpful than using the “rule of nines” especially with pediatric patients.
+
+HPI
+--------------
+• Type of exposure (heat, gas, chemical)
+• Inhalation injury
+• Time of injury
+• Past medical history
+• Medications
+• Other trauma
+
+Signs and Symptoms
+-------------------------------
+• Burns, pain, swelling
+• Dizziness
+• Loss of consciousness
+• Hypotension/ shock
+• Airway compromise, distress
+• Singed facial or nasal hair
+• Hoarseness, wheezing
+
+Considerations
+---------------------------
+• Chemical
+• Thermal
+• Radiation
+• Electrical
+
+
+Managment
+-------------------------------------
+[managment]
+
+Parkland Formula for Fluid Resuscitation
+--------------------------------------------
+<b>Parkland Formula for Fluid Resuscitation</b>
+
+(2 - 4 ml x Patient weight in KG) X TBSA = 
+24 hour fluid requirement
+
+Administer ½ of 24 hour requirement over <u><b>first 8 hours</b></u>.
+
+**Normal Saline or Lactated Ringers are fluids of choice in burn patients.**
+
+Do not administer the entire first 8 hours IV fluid bolus during the initial resuscitation. Excessive fluid resuscitation can lead to compartment syndromes.
+
+American Burn Association - BURN UNIT REFERRAL CRITERIA
+------------------------------------------------------------
+• Partial thickness and full thickness burns greater than 10% of the total body surface area (TBSA) in patients under 10 or over 50 years of age.
+• Partial thickness burns and full thickness burns greater than 20% TBSA in other age groups.
+• Partial thickness and full-thickness burns involving the face, eyes, ears, hands, feet, genitalia or perineum or those that involve skin overlying major joints.
+• Full-thickness burns greater than 5% BSA in any age group.
+• Electrical burns, including lightning injuries; (significant volumes of tissue beneath the surface may be injured and result in acute renal failure and other complications).
+• Significant chemical burns.
+• Inhalation injuries.
+• Burn injury in patients with pre-existing illness that could complicate management, prolongs recovery, or affects mortality.
+• Any burn patient in whom concomitant trauma poses an increased risk of morbidity or mortality may be treated initially in a trauma center until stable before transfer to a burn center.
+• Children with burns seen in hospitals without qualified personnel or equipment for their care should be transferred to a burn center with these capabilities.
+• Burn injury in patients who will require special social and emotional or long term rehabilitative support, including cases involving child abuse and neglect.
+
+
+Classification of Burn Severity
+---------------------------------------
+<b>Critical Burns:</b>
+• All burns complicated by injuries of the respiratory tract, other soft-tissue injuries, and injuries of the bones.
+• Partial-thickness or full-thickness burns involving the face, hands, feet, genitalia, or respiratory tract.
+• Full-thickness burns of more than 10% (Less than 5 years of age: any extent).
+• Partial-thickness burns of more than 30% (Less than 5 years of age: greater than 20%).
+• Burns complicated by musculoskeletal injuries.
+• Circumferential burns.
+
+<b>Moderate Burns:</b>
+• Full-thickness burns of 2% to 10%, excluding face, hands, feet, genitalia, or respiratory tract.
+• Partial-thickness burns of 15% to 30% (Less than 5 years of age: 10% to 20%).
+• Superficial burns that involve more than 50%.
+
+<b>Minor Burns:</b>
+• Full-thickness burns of less than 2%, excluding face, hands, feet, genitalia, or respiratory tract.
+• Partial-thickness burns of less than 15% (Less than 5 years of age: less than 10%)
+• Superficial burns of less than 50%.
+
+PEARLS
+----------------------
+1. Remove patient’s clothing as appropriate. Remove rings, bracelets and other constricting items in areas of burn, if possible.
+2. Critical burns: burns over > 25% TBSA; 2° burns > 10% TBSA; 2° and 3° burns to the face, eyes, hands, or feet; electrical burns; respiratory burns; deep chemical burns; burns with extremes of age or chronic disease; and burns with associated major traumatic injury. These patients should be transferred directly to a Burn Center.
+3. Have a high index of suspicion and a low intubation threshold when treating burn patients with possible airway involvement. Early intubation is recommended in significant inhalation injuries.
+4. Circumferential burns to extremities are dangerous due to potential vascular compromise secondary to soft tissue swelling.
+5. Burn patients are prone to hypothermia; never cool burns that involve > 10% TBSA, however, ensure the burning process has thoroughly ceased (i.e., tar, asphalt). 
+6. Never overlook the possibility of multi-system trauma.
+7. Burns are extremely painful. Strongly consider pain management medications as needed.
+
+

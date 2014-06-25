@@ -1,0 +1,53 @@
+Hyperthermia
+===============================
+OVERVIEW:
+---------------------	
+The body temperature is contingent upon the balance between heat production and heat loss. Regulation of body temperature is dependent upon the principals of conduction, convection, and evaporation. Populations at a greater risk for hyperthermia emergencies include: the elderly, the poor (who lack adequate air conditioning), those who suffer from malnutrition, and those who have chronic illnesses or substance addiction. Predisposing factors commonly intervene over days rather than minutes or hours. Hyperthermia may occur in the presence of numerous host factors. These factors include many that affect thermoregulation through heat loss mechanisms (lack of acclimatization, fatigue, lack of sleep, dehydration, and skin disorders), while others contribute to heat production (obesity, lack of physical fitness, febrile illness, or sustained exercise). Changes in cognitive function appear to occur before the development of the physical symptoms associated with heat stress. Time distortion, memory impairment, and / or deterioration in attention are frequent characteristics associated with heat stress.
+
+HPI
+-----------------
+• Past medical history
+• Medications
+• Exposure to increased temperatures, humidity
+• Extremes of age
+• Extreme exertion
+• Time, length of exposure
+• Poor PO intake
+• Fatigue, muscle cramping
+
+Signs and Symptoms
+---------------------
+• Altered mental status
+• Unconsciousness
+• Hot, dry, or sweaty skin
+• Pale, clammy skin
+• Hypotension, shock
+• Seizures
+• Nausea
+• Weakness, dizziness, syncope
+• Rapid, shallow respirations
+
+Considerations
+---------------------------
+• Fever
+• Dehydration
+• Medications
+• Hyperthyroidism (storm)
+• Delirium tremens (DT’s)
+• Heat cramps
+• Heat exhaustion
+• Heat stroke
+• CNS lesions, tumors
+
+
+Management
+------------------------------
+[management]
+
+PEARLS:
+-----------------------------
+1. Extremes of age, young and old, are more susceptible to extreme temperatures.
+2. Cocaine, amphetamines, and salicylates may elevate body temperature.
+3. Sweating generally stops as core temperature rises above 104° F.
+4. Intense shivering may occur as patient is cooled.
+

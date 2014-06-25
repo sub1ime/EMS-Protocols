@@ -1,0 +1,72 @@
+Abdominal Trauma
+============================
+OVERVIEW:
+-------------------------------------
+Blunt and penetrating traumas are major causes of morbidity and mortality in the United States. In blunt force abdominal trauma, the spleen and liver are typically the most commonly injured organs, and in penetrating trauma, there is a slightly higher mortality, depending on the mechanism of injury. Gunshot and stab wounds combine to make up the largest percentage of penetrating abdominal injuries. When performing a focused abdominal assessment, be organized, efficient, and thorough. Initial abdominal examinations only identify injury about half the time; secondary exams are needed when there is a high index of suspicion for abdominal trauma. A proper abdominal examination involves exposing the entire abdomen from the nipple line to the groin and using a standard examination sequence of inspection, auscultation, percussion, and palpation.
+
+HPI
+-----------------------------
+• Time of injury
+• Mechanism: blunt/penetrating
+• Loss of consciousness
+• Damage to structure, vehicle
+• Location in structure or vehicle
+• Speed details of MVC
+• Restraints, protective devices
+• Medical history
+• Medications
+• Evidence of multisystem trauma
+
+Signs and Symptoms
+-----------------------------
+• Pain, swelling, bleeding
+• Deformity, lesions
+• Altered mental status, unconsciousness
+• Respiratory distress, failure
+• Hypotension, shock
+• Arrest
+• Significant mechanism of injury
+
+Considerations
+-----------------------------
+• Intra-abdominal bleeding
+• Pelvis fracture
+• Abuse
+
+Management
+----------------------------
+[management]
+
+Impaled objects
+--------------------------
+<b>Impaled objects</b>
+
+Stabilize impaled objects in place with bulky dressings. 
+
+Severe hemorrhage from open penetrating injury
+------------------------------------------------------
+<b>Severe hemorrhage from open penetrating injury</b>
+
+Control bleeding with well-aimed direct pressure directly on the bleeding source. Once controlled, apply dry, sterile dressing.
+
+Evisceration with protruding abdominal contents
+-----------------------------------------------------
+<b>Evisceration with protruding abdominal contents</b>
+
+Loosely wrap any protruding abdominal contents with a sterile dressing moistened with warm (if available) Normal Saline and cover in entirety with an occlusive dressing.
+
+PEARLS
+----------------------------------------------------
+1. The amount of external bleeding is not an indicator of the potential severity of internal bleeding associated with an underlying trauma.
+2. Avoid overly aggressive fluid administration; provide fluid boluses to maintain systolic BP between 90 – 100 mmHg; alternatively, a mean arterial pressure of 65 mmHg is equally desirable. MAP is approximately equal to:
+<u>Diastolic BP + 1/3 (Systolic BP - Diastolic BP)</u>
+3. Abdominal eviscerations are a surgical emergency. The protruding organ requires careful cleaning and evaluation prior to reinsertion. Do not attempt to reinsert the organs in the pre-hospital setting.
+4. Impaled objects in the abdomen often tamponade internal hemorrhage, and removing them may trigger significant internal bleeding. Remember that any
+bump against the object moves the distal end in the organ and may worsen damage.
+5. Pain management is an essential component to good trauma care. Simple pain management techniques include oxygen administration, splinting, speaking in calm, reassuring voice, and placing the patient in his or her position of comfort. When spinal immobilization is required, flexing the patient's knees toward the chest helps relax the abdominal muscles.
+
+
+
+
+
+

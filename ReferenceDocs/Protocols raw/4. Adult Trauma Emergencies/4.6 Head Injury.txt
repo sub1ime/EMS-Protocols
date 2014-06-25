@@ -1,0 +1,53 @@
+Head Injury
+================================
+
+OVERVIEW:
+----------------------
+Brain injury and its accompanying pathologic processes continue to be a leading cause of mortality associated with trauma. Whether the injury is due to a blunt or penetrating mechanism, bleeding or swelling of the brain and surrounding tissue may lead to an increase in pressure within the cranial cavity, known as intracranial pressure (ICP). If pressure within the skull is not controlled, neurologic changes may produce signs and symptoms ranging from headache to coma with loss of protective reflexes. Blunt force trauma may result in scalp injury, skull fracture, and meningeal and brain tissue injury. Penetrating trauma may produce focal or diffuse injury, depending on the velocity of the penetrating object. Although the pre-hospital provider cannot reverse the brain tissue damage from the initial/ primary brain injury that has already occurred, they can play a major role in preventing or limiting the processes that exacerbate and lead to a secondary brain injury. The pre-hospital provider’s goal is to focus on reversing any hypoxia, hypotension, hypercarbia, acidosis, or increasing intracranial pressure.
+
+HPI
+---------------
+• Time of injury
+• Mechanism: blunt vs penetrating
+• Loss of consciousness
+• Bleeding
+• Medical history
+• Medications
+• Evidence of multisystem trauma
+
+Signs and Symptoms
+------------------------
+• Pain, swelling, bleeding
+• Altered mental status, unconsciousness
+• Respiratory distress, failure
+• Cushing’s reflex triad
+• Cheyne-Stokes and
+• Biot’s respirations
+• Unequal, dilated, sluggish pupil(s)
+• Vomiting
+• Significant mechanism of injury
+
+Considerations
+-------------------------
+• Skull fracture
+• Brain injury (concussion, contusion, hemorrhage, laceration)
+• Epidural hematoma
+• Subdural hematoma
+• Subarachnoid hemorrhage
+• Spinal injury
+• Falls
+• Seizure disorder
+• Abuse
+
+Management
+-------------------------------------------
+[management]
+
+PEARLS:
+------------------------------------
+1. Hyperventilation is not recommended for head-injury patients who do not have symptoms of herniation syndrome, as auto-regulatory mechanisms are intact and hyperventilation may worsen cerebral perfusion pressure.
+2. One of the most important indicators of worsening head injury is a change in LOC and / or GCS.
+3. Increased ICP may cause hypertension and bradycardia (Cushing’s response).
+4. Hypotension usually indicates injury or shock unrelated to the head injury and should be treated aggressively to maintain adequate cerebral perfusion.
+5. Supine positioning may also increase ICP transiently. The patient may benefit from a reverse Trendelenburg position; however, it may reduce cerebral blood flow, especially if the head is elevated greater than 30°. If the patient is immobilized to a backboard, slightly elevate (15° or less) the head end of the board.
+

@@ -1,0 +1,55 @@
+Electrical Injuries
+==============================
+OVERVIEW:
+----------------------------
+Before treating any patient with an electrical injury, ensure your personal safety. Do not touch the patient if the patient is still in contact with the electrical source. The vast majority of electrical injuries are caused by generated electricity, such as that encountered in power lines and household outlets. Relative to the external damage caused by electrical injuries, internal damage is often more severe, and can include damage to muscles, blood vessels, organs, and nerves. Damaged muscle releases myoglobin which can cause acute renal failure. Electrical current as low as 20 mA can cause respiratory arrest and as little as 50 mA can cause ventricular fibrillation. Although long-bone fractures and spinal injuries can occur due to falls after electrocution, they can additionally occur due to severe tetanic muscle spasms with high amplitude electrocutions.
+
+HPI
+-------------------------
+• Lightning or electrical exposure
+• Single or multiple victims
+• Trauma secondary to fall from high wire or
+• MVC into line
+• Duration of exposure
+• Voltage and current (AC / DC)
+
+Signs and Symptoms
+-----------------------
+• Burns
+• Pain
+• Entry and exit wounds
+• Hypotension and shock
+• Cardiac and/ or respiratory arrest
+
+Considerations
+------------------------
+• Cardiac arrest
+• Respiratory arrest
+• Seizure
+• Burns
+• Multisystem trauma
+
+Management
+-----------------------------------------
+[management]
+
+Note
+-----------------------------
+The cutaneous system is typically involved in electrocution. Importantly, the initial size of the burn site is not an accurate reflection of the amount of tissue actually involved because the subcutaneous tissue is commonly involved. Therefore, the rule of nines should not be used for calculating fluid resuscitation. Instead, adequate tissue perfusions, vital signs, and urine output should guide fluid resuscitation.
+
+An electrical injury should be treated more like a crush injury rather than a thermal injury. Fluid resuscitation should begin as soon as possible to maintain a urinary output of 0.5 to 1 mL / kg / hr.
+
+<i>MedScape: Electrical Injuries
+Jorge A. Martinez, MD, JD, Thai Nguyen, MD
+Posted: 12/01/2000; South Med J. 2000;93(12) © 2000 Lippincott Williams & Wilkins</i>
+
+PEARLS:
+---------------------------------------
+1. Ventricular fibrillation and asystole are the common presenting dysrhythmias associated with electrical injuries.
+2. Injuries are often hidden. The most severe injuries will occur internally in the muscles, vessels, organs, and nerves.
+3. If the victim did not arrest initially, the probability of ROSC and survivability can be higher in lightning strike injuries.
+4. Do not overlook other trauma (i.e., falls).
+5. Lightning is a massive DC shock most often leading to asystole as a dysrhythmia.
+6. In lightning injuries, most of the current will travel over the body surface producing flash burns over the body that appears as freckles.
+7. Do not overlook the possibility of spinal injuries or long bone fractures associated with lightning strikes, primarily the cause of trauma or tetanic muscle contractions.
+
