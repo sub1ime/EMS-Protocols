@@ -1,32 +1,6 @@
-Delivery-Uncomplicated
-===================================
-OVERVIEW:
----------------------------
-In women with regular menstrual cycles, a history of one or more missed cycles (periods) is suggestive of pregnancy. Labor is defined as progressive dilation of the uterine cervix in association with repetitive uterine contractions resulting in complete dilation (10 cm) and effacement (thinning) of the cervical lining. Vertex, or head-first presentation, is the ideal presentation for all deliveries. Crowning is observed as the second stage of labor begins.
+Uncomplicated Delivery
 
-HPI
---------------
-• Due date
-• Time contractions started
-• Duration and time between contractions
-• Time, amount of any vaginal bleeding
-• Sensation of fetal activity
-• Past medical and delivery history
-• Medications
-• Trauma
-• Recent infection
-• Drug use and / or smoking
-
-Signs and Symptoms
----------------------
-• Childbirth
-
-Considerations
---------------------
-• Spontaneous abortion
-
-Management
----------------------
+======================================
 1.
 2.
 3.
@@ -82,15 +56,3 @@ bag; transport placenta to hospital with mother.
 legs, help her hold them together.
 22. Record time of delivery and transport mother, newborn
 and placenta to hospital.
-
-APGAR Score
----------------------
-<b>APGAR Score – 1st & 5th Minute Post Birth</b>
-<table><tr><td>Sign<td>0 Points<td>1 Point<td>2 Points<tr><td><b>Activity</b> (Muscle Tone)<td>Flaccid<td>Some Flexion<td>Active Motion<tr><td><b>Pulse</b><td>Absent<td>< 100<td>> 100<tr><td><b>Grimace</b> (Reflex Irritability)<td>No Response<td>Some<td>Vigorous<tr><td><b>Appearance</b> (Skin Color)<td>Blue, Pale<td>Blue Extremities<td>Fully Pink<tr><td><b>Respirations</b><td>Absent<td>Slow, Irregular<td>Strong Cry
-
-PEARLS:
----------------
-1. Normal number of vessels in umbilical cord is three, two arteries and one vein.
-2. There is increasing evidence of benefit of delaying cord clamping for at least one minute in term and preterm infants not requiring resuscitation.
-3. Calculate estimated date of confinement (EDC) by adding 7 days to the first day of the last normal menses and subtracting 3 months.
-

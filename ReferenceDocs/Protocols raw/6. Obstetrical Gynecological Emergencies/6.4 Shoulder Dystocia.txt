@@ -1,0 +1,40 @@
+Delivery – Shoulder / Dystocia
+=======================================
+
+OVERVIEW:
+---------------------------
+Shoulder dystocia is a labor complication caused by difficulty delivering the fetal shoulders. After delivery of the head, the fetus seems to try to withdraw back into the birth canal (Turtle Sign). Further birth of the infant is prevented by impaction of the fetal shoulders within the maternal pelvis. Digital exam reveals that the anterior shoulder is stuck behind the pubic symphysis. In more severe cases, the posterior shoulder may be stuck at the level of the sacral promontory. Although this is more common among women with gestational diabetes and those with very large fetuses, it can occur with babies of any size. Unfortunately, it cannot be predicted or prevented. Improperly relieving the dystocia can result in unilateral or bilateral clavicular fractures.
+
+HPI
+----------------------
+• Due date
+• Time contractions started
+• Duration and time between contractions
+• Time, amount of any vaginal bleeding
+• Sensation of fetal activity
+• Past medical and delivery history
+• Medications
+• Trauma
+• Recent infection
+• Drug use and/ or smoking
+
+Signs and Symptoms
+--------------------------
+• “Turtle sign” of infants head protruding and withdrawing into the birth canal
+
+Considerations
+-----------------------
+• Breech delivery
+• Spontaneous abortion
+
+Management
+--------------------------------------------
+[management]
+
+PEARLS:
+--------------------
+1. Applying fundal pressure, in coordination with the other maneuvers, may be helpful. Fundal pressure, applied alone, may aggravate the problem by further impacting the shoulder against the pubic symphysis.
+
+<image>shoulder_dystocia
+
+

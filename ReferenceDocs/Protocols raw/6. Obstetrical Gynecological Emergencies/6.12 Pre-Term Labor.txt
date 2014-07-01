@@ -1,0 +1,61 @@
+Pre-Term Labor
+=====================
+
+OVERVIEW:
+---------------------
+Pre-term labor is defined as regular and rhythmic contractions of the uterus that produce cervical changes after the 20th week of gestation but prior to the 36th week of gestation. Of all pregnant patients, some patients will experience contractions without being in preterm labor, known as Braxton-Hicks contractions. Regular uterine contractions with rupture of the membranes are the hallmark sign for pre-term labor diagnosis.
+
+HPI
+-------------
+• Due date
+• Time contractions started
+• Duration and time between contractions
+• Time, amount of any vaginal bleedingSensation of fetal activity
+• Past medical and delivery history
+• Medications
+• Trauma
+• Recent infection
+• Drug use and / or smoking
+
+Signs and Symptoms
+---------------------
+• Rhythmic uterine contractions
+• History of cervical dilation
+• Rupture of membranes
+• Passage of bloodstained mucous (mucous plug)
+
+Considerations
+------------
+• Abruptio placenta
+• Ectopic pregnancy
+• Placenta previa
+• Spontaneous abortion
+
+Management
+-----------------------
+[management]
+
+Known Causes of Pre-Term Labor
+-------------------------
+<b>Decreased Blood Flow to the Uterus (Uterine Irritability)</b>
+• Dehydration secondary to viral illness with nausea, vomiting, and diarrhea
+• PIH with arterial vasospasm
+• Diabetes
+• Cardiovascular or renal disease
+• Over-distension of the uterus with multiple gestation or tumors
+• Heavy smoking
+• Abruptio placenta or placenta previa
+
+<b>Increased Hormonal Levels</b>
+• Prostaglandin production with PROM, bacterial infection, abdominal trauma, or overdistension of the uterus
+• Oxytocin levels found in meconium stained fluid
+
+<b>Cervical Incompetence</b>
+• Traumatic
+• Congenital anomalies
+
+PEARLS:
+--------------------
+1. Early signs and symptoms of pre-term labor may be as unspecific as abdominal, intestinal, or menstrual-like cramps; pelvic pressure; diarrhea; low back pain; and increased vaginal discharge.
+2. In general, resuscitation of infants with gestations less than 20 weeks is futile. However, due to varying birth weights, growth progression, and developmental changes differing in every baby and pregnancy, a specific week of gestation cannot be identified as a point of viability.
+

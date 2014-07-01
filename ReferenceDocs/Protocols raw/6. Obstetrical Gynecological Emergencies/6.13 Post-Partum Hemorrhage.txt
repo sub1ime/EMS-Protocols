@@ -1,0 +1,49 @@
+Post-Partum Hemorrhage
+==============================
+OVERVIEW:
+-----------------
+Post-partum hemorrhage is defined as the loss of more than 500 mL of blood loss following vaginal delivery or more than 1,000 mL following a Cesarean delivery. However, many women tolerate losses of up to 1,000 mL of blood. It can cause debilitation and diminished immunity, which can subsequently lead to post-partum infection, another leading cause of maternal death. Post-partum hemorrhage can occur up to 6 weeks after delivery. It is imperative that hemorrhage is diagnosed early, and treated aggressively.
+
+HPI
+---------------
+• Time, amount of any vaginal bleeding
+• Twins, triplets, etc.
+• Past medical and delivery history
+• Medications
+• Trauma
+• Recent infection
+• Drug use and / or smoking
+
+Signs and Symptoms
+-------------------
+• Abdominal pain
+• Uterine contractions
+• Vaginal bleeding
+• Uterine tenderness to palpation
+• Rigid, board-like abdomen on palpation
+• Shock
+
+Considerations
+----------------------
+• Abdominal trauma
+• Twins, triplets, etc.
+• Disseminated intravascular coagulation (DIC)
+• Ovarian cysts or torsion
+• Placenta previa
+• Preeclampsia
+• Shock (Hemorrhagic, Hypovolemic)
+
+Management
+----------------------
+[management]
+
+PEARLS:
+-----------------------
+1. Many times, the estimated blood loss is only about half of the actual blood loss.
+2. Uterine atony, birth canal lacerations, and retention of placental fragments are the three leading causes of post-partum hemorrhage. Other causes include uterine inversion, and retained placenta. These all usually occur during the immediate post-partum period.
+3. Post-partum hemorrhage can occur up to 6 weeks after delivery. The causes of delayed or late post-partum hemorrhage include sub-involution of the placental site, retained placental tissue, and infection.
+4. Uterine atony is usually caused by over-distention of the uterus from multiple pregnancies, polyhydramnios, or an abnormally large fetus. The large blood vessels in the uterus become open and gaping when the placenta separates from the uterine wall. If the uterus fails to contract, as with uterine atony, large blood loss can occur from those blood vessels. Small, retained fragments of the placenta may interfere with proper uterine
+5. contraction, leading to hemorrhage. The placenta should be inspected at delivery to ensure that no pieces are missing. This is rarely a cause of
+immediate post-partum hemorrhage, but can be the cause of sudden profuse bleeding one week or more post-partum.
+6. Sub-involution of the placental site in the uterus, or failure for it to return to normal size, can cause late post-partum hemorrhage. It takes about 42 days for these cells to epithelialize. During this healing time, clots can slough off and cause bleeding.
+

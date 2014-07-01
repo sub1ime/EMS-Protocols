@@ -1,396 +1,42 @@
 Delivery-Uncomplicated
 ===================================
+OVERVIEW:
+---------------------------
+In women with regular menstrual cycles, a history of one or more missed cycles (periods) is suggestive of pregnancy. Labor is defined as progressive dilation of the uterine cervix in association with repetitive uterine contractions resulting in complete dilation (10 cm) and effacement (thinning) of the cervical lining. Vertex, or head-first presentation, is the ideal presentation for all deliveries. Crowning is observed as the second stage of labor begins.
 
 HPI
-•
-•
-•
-•
-•
-•
-•
-•
-•
-•
-
-1.
-2.
-3.
-4.
-5.
-6.
-7.
-8.
-
-9.
-
-Due date
-Time contractions
-started
-Duration and time
-between contractions
-Time, amount of any
-vaginal bleeding
-Sensation of fetal
-activity
-Past medical and
-delivery history
-Medications
-Trauma
-Recent infection
-Drug use and / or
-smoking
+--------------
+• Due date
+• Time contractions started
+• Duration and time between contractions
+• Time, amount of any vaginal bleeding
+• Sensation of fetal activity
+• Past medical and delivery history
+• Medications
+• Trauma
+• Recent infection
+• Drug use and / or smoking
 
 Signs and Symptoms
-•
-
-Childbirth
-
-Perform general patient management.
-Administer oxygen to maintain SPO 2 > 94%.
-If time permits, establish IV of Normal Saline at KVO.
-Apply gloves, mask, gown, eye protection for infection
-control precautions.
-Have mother lie with knees drawn up and spread apart.
-Elevate buttocks - with blankets or pillow.
-Create sterile field around vaginal opening. If available,
-use OB kit.
-If the amniotic sac does not break, or has not broken,
-use a clamp to puncture the sac and push it away from
-the head and mouth as they appear.
-When the head appears during crowning, place fingers
-on bony part of skull (not fontanelle or face) and exert
-very gentle pressure to prevent explosive delivery. Use
-caution to avoid fontanelle.
+---------------------
+• Childbirth
 
 Considerations
-•
-
-Spontaneous abortion
-
-A
-•
-•
-
-B
-•
-•
-
-EN
-•
-•
-•
-
-I
-•
-•
-•
-
-P
-•
-•
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-•
-
-•
-•
-
-•
-•
-
-•
-•
-
-•
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-DELIVERY - UNCOMPLICATED
-
-OVERVIEW:
-In women with regular menstrual cycles, a history of one or more missed cycles
-(periods) is suggestive of pregnancy. Labor is defined as progressive dilation of the
-uterine cervix in association with repetitive uterine contractions resulting in complete
-dilation (10 cm) and effacement (thinning) of the cervical lining. Vertex, or head-first
-presentation, is the ideal presentation for all deliveries. Crowning is observed as the
-second stage of labor begins.
-
-Protocol
-
-6-2
-DELIVERY - UNCOMPLICATED
-
-Continued
-
-10. As the head is being born, determine if the umbilical cord
-is around the neck; slip over the shoulder or clamp, cut
-and unwrap.
-11. After the head is born, support the head. Suctioning is
-no longer recommended at this point.
-12. As the torso and full body are born, support the newborn
-with both hands.
-13. As the feet are born, grasp the feet.
-14. Wipe blood and mucus from mouth and nose with sterile
-gauze, suction mouth and nose.
-15. Keep newborn level with vagina until the cord is cut.
-16. Clamp, tie and cut umbilical cord (between the clamps)
-as pulsations cease. May consider delay cutting in
-infants that do not require resuscitation by one minute.
-Apply the first clamp approximately 4 inches from
-newborn and the second clamp approximately 6 inches
-from the newborn.
-17. Obtain 1 and 5 minute APGAR scores.
-18. Assign partner to monitor newborn and refer to Neonatal
-Resuscitation Protocol.
-19. Observe for delivery of placenta while preparing mother
-and newborn for transport.
-20. When delivered, wrap placenta in towel and put in plastic
-bag; transport placenta to hospital with mother.
-21. Place sterile pad over vaginal opening, lower mother's
-legs, help her hold them together.
-22. Record time of delivery and transport mother, newborn
-and placenta to hospital.
-
-Sign
-Activity (Muscle
-Tone)
-Pulse
-Grimace (Reflex
-Irritability)
-Appearance (Skin
-Color)
-Respirations
-
-A
-
-B
-
-EN
-
-I
-
-P
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-APGAR Score – 1st & 5th Minute Post Birth
-0 Points
-1 Point
-
-2 Points
-
-Flaccid
-
-Some Flexion
-
-Active Motion
-
-Absent
-
-< 100
-
-> 100
-
-No Response
-
-Some
-
-Vigorous
-
-Blue, Pale
-
-Blue Extremities
-
-Fully Pink
-
-Absent
-
-Slow, Irregular
-
-Strong Cry
-
-Protocol
-
-6-2
-Continued
-
-DELIVERY - UNCOMPLICATED
+--------------------
+• Spontaneous abortion
+
+Management
+---------------------
+[management]
+
+APGAR Score
+---------------------
+<b>APGAR Score – 1st & 5th Minute Post Birth</b>
+<table><tr><td>Sign<td>0 Points<td>1 Point<td>2 Points<tr><td><b>Activity</b> (Muscle Tone)<td>Flaccid<td>Some Flexion<td>Active Motion<tr><td><b>Pulse</b><td>Absent<td>< 100<td>> 100<tr><td><b>Grimace</b> (Reflex Irritability)<td>No Response<td>Some<td>Vigorous<tr><td><b>Appearance</b> (Skin Color)<td>Blue, Pale<td>Blue Extremities<td>Fully Pink<tr><td><b>Respirations</b><td>Absent<td>Slow, Irregular<td>Strong Cry
 
 PEARLS:
-1.
-Normal number of vessels in umbilical cord is three, two arteries and one vein.
-2.
-There is increasing evidence of benefit of delaying cord clamping for at least one
-minute in term and preterm infants not requiring resuscitation.
-3.
-Calculate estimated date of confinement (EDC) by adding 7 days to the first day
-of the last normal menses and subtracting 3 months.
+---------------
+1. Normal number of vessels in umbilical cord is three, two arteries and one vein.
+2. There is increasing evidence of benefit of delaying cord clamping for at least one minute in term and preterm infants not requiring resuscitation.
+3. Calculate estimated date of confinement (EDC) by adding 7 days to the first day of the last normal menses and subtracting 3 months.
 
-Protocol
-
-6-2
-DELIVERY - UNCOMPLICATED
-
-Continued
-
-This page intentionally
-left blank.
-
-

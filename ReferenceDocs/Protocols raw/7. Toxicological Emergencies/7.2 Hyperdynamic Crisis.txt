@@ -1,0 +1,53 @@
+Stimulant Overdose
+=========================
+OVERVIEW:
+-----------------
+Hyperdynamic “stimulant” drugs, also known as sympathomimetics, include cocaine, methamphetamine, amphetamine, and MDMA (ecstasy). Patient care should be focused on preventing / mitigating hyperthermia, agitated delirium, positional asphyxia, hypoxia, and physical self-harm. With a stimulant overdose (tachycardia, agitation, hyperthermia, and / or hypertension), treatment with benzodiazepines is indicated in addition to rhythm specific therapy or anti- hypertensive meds (with the exception of beta-blockers). Unfortunately, the history of poisoning / overdose is notoriously unreliable whether it is obtained from the patient, friends and family members or emergency services personnel. Despite the possible inaccuracies, the most important historical factors include <b>what</b> poison was involved, <b>how much</b> was taken, <b>how</b> it was taken, <b>when</b> it was taken, <b>why</b> it was taken, and especially <b>what else</b> was taken. Poison Control may be contacted at any time for information on poisoning (1-800-222-1222) but <b>only Medical Control may give patient treatment orders</b>.
+
+HPI
+---------------
+• Use or suspected use of a potentially toxic substance
+• Substance ingested, route, and quantity used
+• Time of use
+• Reason (suicidal, accidental, criminal)
+• Available medications in home
+• Past medical history
+
+Signs and Symptoms
+-----------------
+• Mental status changes
+• Hypertension
+• Hyperthermia
+• Tachypnea
+• Tachycardia, other dysrhythmias
+• Seizures
+
+Considerations
+------------------------
+• Anticholinergic
+• Solvents
+• Cleaning agents
+• Insecticides
+
+Management
+--------------------------
+[management]
+
+Toxidrome
+-------------------
+• Restlessness
+• Excessive speech and motor activity
+• Tremors
+• Insomnia
+• Tachycardia
+• Hypertension
+• Hyperthermia
+• Hallucinations
+• Seizures
+
+PEARLS:
+---------------
+1. Do not rely on patient history of ingestion, especially in suicide attempts.
+2. Bring bottles and contents to ER with patient.
+3. Ecstasy (MDMA), and the more toxic drug para-Methoxyamphetamine (PMA), have both amphetamine and hallucinatory like effects. The stimulant effects of MDMA / PMA, which enable users to perform physical exertion (like dancing) for extended periods, may also lead to dehydration, tachycardia, and hypertension. MAOI’s may potentiate toxic effects. While any of the hyperdynamics can be dangerous, MDMA and PMA especially have been known to cause a marked increase in body temperature (malignant hyperthermia) leading to rapid onset of muscle breakdown, DIC, seizures, renal failure, and cardiovascular system failure.
+

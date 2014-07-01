@@ -1,0 +1,23 @@
+Eclampsia
+
+======================
+1. Perform general patient management.
+2. Support life-threatening problems associated with
+airway, breathing, and circulation. Suction the
+oropharynx if needed.
+3. Administer oxygen to maintain SPO 2 94 - 99%
+4. Obtain blood glucose sample. If < 60 mg / dL or > 300
+mg / dL refer to Hypoglycemia or Hyperglycemia
+protocol.
+5. Establish an IV of Normal Saline. If signs of shock are
+present, refer to Shock protocol.
+
+6. If eclampsia is noted (characterized by seizures,
+hypertension, and / or coma), administer bolus of
+MAGNESIUM SULFATE 4 Gm IV over 5 - 10 minutes.
+7. If seizure persists, administer MIDAZOLAM 0.1 mg / kg
+IV / IM (max single dose 5 mg). If midazolam is
+unavailable, give DIAZEPAM 0.25 mg / kg up to 5 mg
+slow IV.
+8. Transport promptly to an appropriate facility with
+obstetrical services and reassess as indicated.

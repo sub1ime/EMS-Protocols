@@ -1,0 +1,14 @@
+Breech Deliveries
+=============================
+
+OVERVIEW:
+------------------
+Although most babies are born without difficulty, complications may occur. Breech presentation is an abnormality in which the buttocks or legs of the fetus, rather than the head, appear first in the birth canal. This is the most common atypical birth presentation, occurring in approximately 4% of all full-term deliveries, and up to 25% of all premature births. In any breech birth there are increased risks of umbilical cord prolapse or compression and delivery of the feet through an incompletely dilated cervix, leading to arm or head entrapment. These risks are greatest when a foot is presenting (“footling breech”). Delivery may be prolonged for these newborns, which are at great risk of delivery trauma. Birth trauma can occur from forceful delivery management, such as cervical spine trauma, injury to the brachial plexus, and fractures to the humerus, clavicle, skull, and neck. The cause of breech presentation is only known in approximately half of the cases. Predisposing factors can include fetal and uterine anomalies, abnormal placental implantation, uterine over-distention, previous breech, multiple gestation, high parity, and pelvic obstruction (from placenta previa or tumors).
+
+Note
+--------------------------------
+<image>breech_delivery
+
+Management
+--------------------------------
+[management]

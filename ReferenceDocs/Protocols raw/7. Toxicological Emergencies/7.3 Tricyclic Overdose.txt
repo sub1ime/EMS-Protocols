@@ -1,0 +1,47 @@
+Tricyclic Antidepressant (TCA) Overdose
+===========================================
+OVERVIEW:
+-------------
+Aggressive care at onset of signs and symptoms of a TCA overdose is essential, as the patient can decompensate quickly. Early signs and symptoms include: widening of the QRS, tachycardia, hypotension and altered LOC. Unfortunately, the history of poisoning / overdose is notoriously unreliable whether it is obtained from the patient, friends and family members or emergency services personnel. Despite the possible inaccuracies, the most important historical factors include what poison was involved, <b>how much</b> was taken, <b>how</b> it was taken, <b>when</b> it was taken, <b>why</b> it was taken, and especially <b>what else</b> was taken. Poison Control may be contacted at any time for information on poisoning (1-800-222-1222) but <b>only Medical Control may give patient treatment orders</b>.
+
+HPI
+----------------
+• Use or suspected use of a potentially toxic substance
+• Substance ingested, route, and quantity used
+• Time of use
+• Reason (suicidal, accidental, criminal)
+• Available medications in home
+• Past medical history
+
+Signs and Symptoms
+----------------
+• Mental status changes
+• Hypotension / hypertension
+• Hypothermia / hyperthermia
+• Decreased respiratory rate
+• Tachycardia, other dysrhythmias
+• Seizures
+
+Considerations
+-----------------------
+<i>Co-ingestions such as:</i>
+• Acetaminophen (Tylenol)
+• Depressants
+• Stimulants
+• Anticholinergic
+• Cardiac medications
+• Solvents, alcohols, Cleaning agents
+• Insecticides
+
+Management
+------------------------
+[management]
+
+PEARLS:
+-------------
+1. Amiodarone is contraindicated, as are other drugs that widen the QRS.
+2. Common TCA’s include but are not limited to: Elavil, Triavil, Etrafon, and Amitriptyline.
+3. Flexeril (cyclobenzaprine) can mimic TCA overdose.
+4. Do not rely on patient history of ingestion, especially in suicide attempts.
+5. Bring bottles and contents to ER with patient.
+

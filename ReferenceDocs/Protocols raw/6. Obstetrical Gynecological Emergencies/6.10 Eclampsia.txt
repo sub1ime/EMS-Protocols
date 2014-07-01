@@ -1,0 +1,59 @@
+Hypertension/Eclampsia/HELLPS
+======================================
+OVERVIEW:
+--------------
+Pre-eclampsia is characterized by elevated BP, proteinuria, and edema after the 20th week of pregnancy in a patient who previously has been normal in these respects. The risk of pre-eclampsia / eclampsia is thought to continue through six (6) weeks postpartum. Unless the pre-eclamptic process is halted, seizure activity (eclampsia) may occur. Once the first eclamptic seizure occurs, the infant / fetal mortality rate soars. Once the seizure process is established, the ultimate patient outcome can be coma and death. The actual cause of the disease process is unknown. HELLP Syndrome (HELLPS) is a variant of severe PIH in which hematologic abnormalities exist with severe pre-eclampsia or eclampsia. HELLP is an acronym for <b>H</b>emolysis, <b>E</b>levated <b>L</b>iver enzymes, and <b>L</b>ow <b>P</b>latelets, which are the hallmark signs of this syndrome.
+
+HPI
+--------------
+• Due date
+• Time contractionsstarted
+• Duration and time between contractions
+• Time, amount of any vaginal bleeding
+• Sensation of fetal activity
+• Past medical and delivery history
+• Medications
+• Trauma
+• Recent infection
+• Drug use and / or smoking
+
+Signs and Symptoms
+--------------------
+• Seizures
+• Hypertension
+• Proteinuria
+• Edema
+• Headache
+• Visual disturbances or changes
+• Abdominal pain
+• Epigastric pain
+• Hyper-reflexia
+• Anxiety
+• Shock
+• Coma
+
+Considerations
+---------------
+• Pre-eclampsia
+• Eclampsia
+• Idiopathic thrombocytopenia
+• Pre-existing seizure disorder
+• Withdrawal:
+   o Drug
+   o Alcohol
+
+Management
+-----------------------
+[management]
+
+PEARLS:
+-------------------
+1. Magnesium may be given IM if IV cannot be established. For IM administration, divide dose into 1.0 gm injections and inject into separate locations.
+2. Respirations during an active seizure should be considered ineffective and airway maintenance should occur per assessment.
+3. Be prepared to assist ventilations as dosage of midazolam or Valium is increased.
+4. The predominant during pregnancy risk factors for development of preeclampsia include: age extremes (< 20 years or > 35 years), primigravida, glomerulonephritis, multiple gestation, hydramnios, large fetus, hydatidiform mole, and fetal hydrops.
+5. HELLPS patients may also present with epigastric or upper quadrant abdominal pain resulting from liver distention and many patients will not meet the standard hypertension criteria for severe preeclampsia. Approximately 15% will have a diastolic BP ≤ 90 mmHg.
+6. One explanation of HELLPS is that platelet disposition at the sites of endothelial damage caused by intense vasospasm may amount for the depleted platelet levels.
+7. Definitive treatment can only be accomplished through delivery of the fetus(es).
+8. Eclampsia can occur after birth for up to six weeks until hormone levels return to pre-pregnancy levels.
+

@@ -1,0 +1,49 @@
+Ectopic Pregnancy/Rupture
+=============================
+
+Overview
+----------------
+An ectopic pregnancy is one in which the fetus implants anywhere outside of the uterus. This can occur in the fallopian tubes, interstitial portion of the tube, horn of the uterus, cervix, abdomen, or the ovary. Generally the patient will begin complaining of cramping, dull abdominal pain within 3 - 5 weeks of the first missed menstrual period. However, if the ectopic pregnancy ruptures the fallopian tube, the patient may complain of sudden, sharp abdominal pain. The pain may be concentrated on one side of the abdomen, or may be generalized. There may or may not be vaginal bleeding, as blood loss may be concealed in the pelvic cavity causing referred shoulder pain. Blood in the peritoneal cavity may cause a blue tinge around the umbilicus, known as Cullen’s sign. Depending on the amount of blood loss, the patient may also exhibit signs shock.
+
+HPI
+-----------
+• Due date
+• Time, amount of any vaginal bleeding
+• Sensation of fetal activity
+• Past medical and delivery history
+• Medications
+• Trauma
+• Recent infection
+• Drug use and / or smoking
+
+Signs and Symptoms
+-----------------
+• Abdominal pain
+• Vaginal bleeding
+• Uterine tenderness to palpation
+• Fetal demise
+• Rigid, board-like abdomen on palpation
+• Shock
+
+Considerations
+-------------------
+• Abdominal trauma
+• Appendicitis
+• Ovarian cysts or torsion
+• Shock (Hemorrhagic, Hypovolemic)
+
+Management
+------------------------------
+[management]
+
+Ectopic Pregnancy
+-----------------------
+<image>ectopic_pregnancy
+
+PEARLS:
+-----------------------------------------
+1. Risk factors of fallopian tube narrowing or constriction include: previous pelvic inflammatory disease (causing scarring), previous inflammatory processes (from infections), endometriosis, developmental abnormalities, and adhesions from previous abdominal or tubal surgeries, tubal sterilization, and use of low-dose progesterone oral contraceptives. Other causes include smoking and IUD use.
+2. If the fetus dies at an early gestation, there is no harm to the fallopian tube. However, if the fetus continues to grow within the fallopian tube, it will rupture the wall of the fallopian tube, causing bleeding.
+3. Slow blood loss will cause pain and lower abdominal pressure.
+4. Rapid blood loss will cause a sudden drop in blood pressure, and may lead to severe hemorrhage, shock, and / or death.
+

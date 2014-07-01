@@ -1,0 +1,56 @@
+Abruptio Placenta
+===========================
+OVERVIEW:
+-----------------------------
+Abruptio placenta (placental abruption) refers to premature separation of the normally implanted placenta from the uterine wall after the 20th week of gestation and prior to birth. Patients with abruptio placenta typically present with bleeding, uterine contractions, and fetal distress. A significant cause of third-trimester bleeding associated with both fetal and maternal morbidity and mortality, abruptio placenta must be considered whenever bleeding is encountered in the second half of pregnancy. The frequency of placental abruption in the United States is approximately 1% of all pregnancies, and a severe abruption leading to fetal death occurs in 0.12% of pregnancies (1:830). This mortality rate approaches 100% when > 50% of the placenta is involved. Placental Abruption begins with arterial hemorrhaging into the deciduas basalis. A hematoma is formed and progresses in size causing the expanding abruption. As the abruption continues, more vessels become involved, further contributing to the expanding retro-placental hematoma. Abruptio placenta is a surgical emergency and should be transported without delay with interventions completed during transport.
+
+HPI
+---------------
+• Due date
+• Time contractions started
+• Duration and time between contractions
+• Time, amount of any vaginal bleeding
+• Sensation of fetal activity
+• Past medical and delivery history
+• Medications
+• Trauma
+
+Signs and Symptoms
+----------------------
+• Abdominal pain
+• Uterine contractions
+• Vaginal bleeding
+• Uterine tenderness to palpation
+• Rigid, board-like abdomen on palpation
+• Back pain
+• Signs of shock
+• Lack of fetal heart tones
+• Fetal demise
+
+Considerations
+-------------------
+• Abdominal trauma
+• Appendicitis
+• Ovarian cysts or torsion
+• Placenta previa
+• Pre-eclampsia
+• Preterm labor
+• Spontaneous abortion
+• Shock (Hemorrhagic, Hypovolemic)
+
+Management
+-----------------------------
+[management]
+
+Types of Placental Abruption
+-----------------------------------
+<image>types_placental_abruption
+
+PEARLS:
+-----------------
+1. The uterus will often contract during an episode of abruption and the separation of the placenta can be partial (marginal) or complete.
+2. 90% of all abruptions involve vaginal bleeding and are teamed with external hemorrhage; while the remaining 10% may have no vaginal bleeding noted and are called a “concealed” abruption. In these cases, the bleeding is contained by the part of the placenta attached to the uterine wall and may be diagnosed mistakenly as premature labor. Shock eventually ensues from the concealed blood loss.
+3. Abruptio placenta associated with trauma is less common and is usually due to direct trauma to the abdomen. However, it is a complication in 1 - 5% of minor injuries that occur during pregnancy and up to 40 - 50% of major trauma injuries that occur during pregnancy.
+4. Placental abruption is more common in African American women than in either white or Latin American women.
+5. An increased risk of placental abruption has been demonstrated in patients younger than 20 years and those older than 35 years.
+

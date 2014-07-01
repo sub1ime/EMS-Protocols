@@ -1,0 +1,56 @@
+Beta Blocker Overdose
+==========================
+OVERVIEW:
+--------------------
+Beta blockers are a type of drug generally used to treat hypertension. Although the specific ingredients vary among manufacturers, the main ingredient among them all is a beta-adrenergic blocking substance. This substance blocks the effects of epinephrine on the body. Medical complications of beta-blocker overdose include hypotension, bradycardia, heart failure, impaired atrio-ventricular conduction, bronchospasm and, occasionally, seizures. Unfortunately, the history of poisoning / overdose is notoriously unreliable whether it is obtained from the patient, friends and family members or emergency services personnel. Despite the possible inaccuracies, the most important historical factors include <b>what</b> poison was involved, <b>how much</b> was taken, <b>how</b> it was taken, <b>when</b> it was taken, <b>why</b> it was taken, and especially <b>what else</b> was taken. Poison Control may be contacted at any time for information on poisoning (1-800-222-1222) but <b>only Medical Control may give patient treatment orders</b>.
+
+HPI
+--------------
+• Use or suspected use of a potentially toxic substance
+• Substance ingested, route, and quantity used
+• Time of use
+• Reason (suicidal, accidental, criminal)
+• Available medications in home
+• Past medical history
+
+Signs and Symptoms
+------------------
+• Mental status changes
+• Hypotension
+• Bradycardia
+
+Considerations
+-------------------
+• Co-ingestions
+• Cardiac medications
+• Anti-hypertensive medications
+
+Management
+-------------------
+[management]
+
+Common Beta Blocker Medications
+---------------------------
+• Acebutolol (Sectral)
+• Atenolol (Apoatenolol)
+• Bisoprolol (Zebeta)
+• Labetalol (Normodyne)
+• Metoprolol (Toprol, Lopressor)
+• Nadolol (Corgard)
+• Sotalol (Betapace)
+• Penbutolol (Levatol)
+• Pindolol (Novopindol)
+• Propranolol (Inderal)
+• Bystolic (nebivolol)
+
+PEARLS:
+----------------------
+1. Bradycardia with associated hypotension and shock (systolic BP < 80 mm Hg, HR < 60 BPM) defines severe beta-blocker toxicity. Bradycardia by itself is not necessarily helpful as a warning sign because slowing of the heart rate and dampening of tachycardia in response to stress is observed with therapeutic levels.
+2. Glucagon increases heart rate and myocardial contractility, and improves atrio-ventricular conduction. These effects are unchanged by the presence of beta-receptor blocking drugs. This suggests that glucagon's mechanism of action may bypass the betaadrenergic receptor site. Because it may bypass the beta-receptor site, glucagon can be considered as an alternative therapy for profound beta-blocker intoxications.
+3. Be prepared to manage the airway after Glucagon administration due to possible emesis.
+4. While case reports have documented hypotension in the absence of bradycardia, blood pressure usually does not fall before the onset of bradycardia. Bradycardia may be isolated or accompanied by mild conduction disturbances affecting the entire cardiac conduction system from the sinus node to the intraventricular Purkinje system.
+5. Cardiac pacing may be effective in increasing the rate of myocardial contraction. Electrical capture is not always successful and, if capture does occur, blood pressure is not always restored. Reserve cardiac pacing for patients unresponsive to pharmacological therapy. Multiple case reports describe complete neurological recovery, even with profound hypotension, if a cardiac rhythm can be sustained.
+6. Agents with combined alpha- and beta-selective properties (Dopamine and Epinephrine) may be necessary to maintain blood pressure. A beta-agonist may competitively antagonize the effect of the beta-blocker. The amount of beta-agonist required might be several orders of magnitude above those recommended in standard ACLS protocols.
+7. Do not rely on patient history of ingestion, especially in suicide attempts.
+8. Bring bottles and contents to ER with patient.
+

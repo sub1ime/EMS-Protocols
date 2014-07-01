@@ -1,0 +1,79 @@
+Calcium Channel Blocker Overdose
+==================================
+OVERVIEW:
+------------------
+Overdose by immediate-release agents is characterized by rapid progression to hypotension, brady-arrhythmias, and cardiac arrest. Overdose by extended-release formulations can result in delayed onset of arrhythmias, shock, delayed cardiac collapse, and bowel ischemia. Unfortunately, the history of poisoning / overdose is notoriously unreliable whether it is obtained from the patient, friends and family members or emergency services personnel. Despite the possible inaccuracies, the most important historical factors include <b>what</b> poison was involved, <b>how much</b> was taken, <b>how</b> it was taken, <b>when</b> it was taken, <b>why</b> it was taken, and especially <b>what else</b> was taken. Poison Control may be contacted at any time for information on poisoning (1-800-222-1222) but <b>only Medical Control may give patient treatment orders</b>.
+
+HPI
+-------------
+• Use or suspected use of a potentially toxic substance
+• Substance ingested, route, and quantity used
+• Time of use
+• Reason (suicidal, accidental, criminal)
+• Available medications in home
+• Past medical history
+
+Signs and Symptoms
+----------------
+• Mental status changes
+• Hypotension
+• Bradycardia, other dysrhythmias
+
+Considerations
+------------------
+• Co-ingestions
+• Cardiac medications
+• Anti-hypertensive medications
+
+Management
+-----------------------
+[management]
+
+Common Calcium Channel Blocker Medications
+---------------------------------------------
+• Amlodipine (Norvasc)
+• Bepridil (Vascor)
+• Diltiazem (Cardizem)
+• Felodipine (Plendil)
+• Isradipine (Dynacirc)
+• Nicardipine (Cardene)
+• Nifedipine (Adalat, Procardia)
+• Nimodipine (Nimotop)
+• Nisoldipine (Sular)
+• Verapamil (Calan, Isoptin)
+
+Dopamine IV Infusion
+-----------------------------
+Add 400 mg of Dopamine to 250 ml of NS (1600 mcg / ml) and attach 60 gtts IV tubing
+
+*The following is in microdrops / minute (mL / hr)
+<table><tr><td>Mcg / min
+<td>50Kg
+
+110 Lb<td>60 Kg
+
+132 Lb<td>70 Kg
+
+154 Lb<td>80 Kg
+
+176 Lb<td>90 Kg
+
+198 Lb<td>100 Kg
+
+220 Lb<td>125 Kg
+
+275 Lb<tr><td>5.0 mcg<td>9<td>11<td>13<td>15<td>17<td>19<td>23<tr><td>10.0 mcg<td>19<td>23<td>26<td>30<td>34<td>38<td>47<tr><td>15.0 mcg<td>28<td>34<td>39<td>45<td>51<td>56<td>70<tr><td>20.0 mcg<td>38<td>45<td>53<td>60<td>68<td>75<td>94
+
+PEARLS:
+---------------
+1. Aggressive cardiovascular support is necessary for management of massive calcium channel blocker overdose. While calcium may overcome some adverse effects of calcium channel blockers, it rarely restores normal cardiovascular status.
+2. Consider using calcium only if a witness confirms a CCB overdose; calcium may induce fatal arrhythmias in digoxin overdose, which can present with similar findings.
+3. Empiric use of glucagon (adults: 5 - 15 mg IV) may be warranted for patients with an unknown overdose presenting with bradycardia or hypotension.
+4. Atropine may be tried if hemodynamically significant bradycardia occurs; however, heart block is usually resistant to atropine in CCB toxicity. Mid-dose dopamine (5 - 10 mcg / kg / min) may improve heart rate and contractility.<sup>1</sup>
+5. According to many case reports, glucagon has been used with good results. However, vasopressors are frequently necessary for adequate resuscitation and should be administered early if hypotension occurs. 
+6. Be prepared to manage the airway after Glucagon administration due to possible emesis. 
+7. Do not rely on patient history of ingestion, especially in suicide attempts.
+8. Bring bottles and contents to ER with patient.
+
+<sup>1</sup> <i>MedScape: Emergent Management of Calcium Channel Blocker Toxicity ; Author B. Zane Horowitz, MD, FACMT</i>
+
