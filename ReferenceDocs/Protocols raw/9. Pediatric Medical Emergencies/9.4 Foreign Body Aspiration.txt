@@ -1,0 +1,45 @@
+Foreign Body Aspiration
+===========================
+OVERVIEW:
+----------------------
+Airway obstruction is one of the most readily treatable yet immediately life-threatening emergencies faced by pre-hospital providers. Approximately 3000 deaths occur each year in the United States from choking. Most of these deaths are in children younger than four years of age. In children, you should consider the possibility of foreign body aspiration in any patient who presents with ongoing respiratory distress or resolved respiratory distress. The child may have a history of a sudden onset of respiratory distress with choking and cough, by an absence of symptoms and then followed by delayed stridor or wheezing. This cycle occurs when the foreign body is not cleared from the airway but passes distally into the smaller airways. In children, a foreign body may also lodge in the esophagus, causing stridor. Patients may present with any degree of obstruction from simple hoarseness cleared with a cough to complete obstruction requiring a surgical airway, such as a cricothyrotomy. Significant airway obstruction can occur at any time. Early recognition and treatment is essential to a successful outcome. Because of this, it is important to distinguish this problem from more serious conditions that cause sudden respiratory failure, but are treated differently.
+
+HPI
+---------------------
+• Age
+• What was happening at onset? (Missing Toys?)
+• Fever
+• Traumatic mechanism
+• Improvement or worsening with movement
+• Past medical / surgical history
+• Medications
+
+Signs and Symptoms
+----------------------
+• Stridor, hoarseness, wheezing
+• Ineffective respirations
+• Universal sign of choking
+• Tachycardia
+• Tachypnea
+• Flushing, cyanosis, chills, diaphoresis
+• Presence of drooling, trismus, angio-neurotic edema
+
+Considerations
+------------------
+• Croup
+• Epiglottitis
+• Angio-neurotic edema
+• Traumatic obstruction
+• Chemical or thermal injury
+• Abscesses
+• Tumors and cysts
+
+Management
+---------------
+[management]
+
+PEARLS:
+-----------------
+1. Abnormal auscultative sounds are more inspiratory if the foreign body is in the extra-thoracic trachea. If the object is in the intra-thoracic trachea, noises will be symmetric but sound more prominent in the central airways. The sounds are a coarse wheeze (sometimes referred to as an inspiratory stridor) heard with the same intensity over the entire chest.
+2. Once the foreign body passes the carina, the breath sounds are usually asymmetric. However, remember that the chest of younger patients transmits sound well, and the stethoscope head is often bigger than the lobes being auscultated. A lack of asymmetry should not dissuade the provider from considering the diagnosis.
+

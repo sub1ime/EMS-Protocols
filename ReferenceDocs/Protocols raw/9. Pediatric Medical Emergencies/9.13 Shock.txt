@@ -1,0 +1,67 @@
+Shock
+==================
+OVERVIEW:
+---------------
+Shock is defined as a state of inadequate tissue perfusion. This may result in acidosis, derangements of cellular metabolism, potential end-organ damage, and death. Early in the shock process, patients are able to compensate for decreased perfusion by increased stimulation of the sympathetic nervous system, leading to tachycardia and tachypnea. Later, compensatory mechanisms fail, causing a decreased mental status, hypotension, and death. Early cellular injury may be reversible if definitive therapy is delivered promptly.
+
+HPI
+-----------------
+• Blood loss (vaginal or gastrointestinal)
+• Fluid loss (vomiting, diarrhea)
+• Fever
+• Infection
+• Medications
+• Allergic Reaction
+• Pregnancy, ectopic
+• Trauma
+
+Signs and Symptoms
+------------------------
+• Restlessness, confusion
+• Weakness, dizziness
+• Weak, rapid pulse
+• Pale, cool, clammy skin
+• Delayed capillary refill
+• Hypotension
+• Coffee-ground emesis
+• Tarry stools
+
+Considerations
+--------------------
+• Hypovolemic
+• Cardiogenic
+• Septic
+• Neurogenic
+• Anaphylactic
+• Ectopic pregnancy
+• Dysrhythmia
+• Pulmonary embolus
+• Tension pneumothorax
+• Medication effect / overdose
+• Vaso-vagal
+• Trauma
+
+Management
+-------------------------
+[management]
+
+Classes of Shock
+----------------------
+<b>Hypovolemic</b>
+Caused by hemorrhage, burns, or dehydration.
+
+<b>Distributive</b>
+Maldistribution of blood, caused by poor vasomotor tone in neurogenic shock, sepsis, anaphylaxis, severe hypoxia, or metabolic shock.
+
+<b>Cardiogenic</b>
+Caused by necrosis of the myocardial tissue, or by arrhythmias.
+
+<b>Obstructive</b>
+Caused by impairment of cardiac filling, found in pulmonary embolism, tension pneumothorax, or cardiac Tamponade.
+
+PEARLS:
+----------------------
+1. GI bleeding may be a less obvious cause of hypovolemic shock if it has been gradual. Ask patient about possible melena, hematemesis, and hematochezia.
+2. Ectopic pregnancy may be a less obvious cause of hypovolemic shock. Consider this diagnosis in all female patients of child-bearing age if there is a
+complaint of abdominal or pelvic pain.
+

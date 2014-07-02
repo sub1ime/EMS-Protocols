@@ -11,7 +11,7 @@ public class DbHandler extends SQLiteAssetHelper {
 	
 	// database specific schema
 	public static final String DATABASE_NAME = "ODEMSA_sqlite";
-	public static final int DATABASE_VERSION = 22;
+	public static final int DATABASE_VERSION = 23;
 	
 	public DbHandler(Context ctx){
 		super(ctx, DATABASE_NAME, null, DATABASE_VERSION);

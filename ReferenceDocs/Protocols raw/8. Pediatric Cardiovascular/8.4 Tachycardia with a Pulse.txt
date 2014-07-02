@@ -1,0 +1,86 @@
+Tachycardia with a Pulse
+==============================
+OVERVIEW:
+-----------------
+Tachycardia is an abnormally fast rhythm of the heart. It is most commonly caused by a reentry mechanism that involves an accessory pathway or the AV conduction system. SVT is the most common tachyarrhythmia producing cardiovascular compromise during infancy.
+
+HPI
+---------------
+• Past medical history
+• Medications, toxin ingestion (aminophylline, diet pills, thyroid supplements, decongestants, digoxin)
+• Drugs (nicotine, cocaine)
+• Respiratory distress
+• Congenital heart disease
+• Syncope, near syncope
+
+Signs and Symptoms
+-----------------------
+• Heart rate:
+   o Child > 180 / min
+   o Infant > 220 / min
+• QRS < 0.08 seconds
+• Pale or cyanosis
+• Diaphoresis
+• Tachypnea
+• Vomiting
+• Hypotension
+• Altered mental status
+• Pulmonary congestion
+• Syncope
+
+Considerations
+------------------
+• Heart disease (congenital)
+• Hypo / hyperthermia
+• Hypovolemia
+• Anemia
+• Electrolyte imbalance
+• Anxiety, pain, emotional stress
+• Fever, infection, sepsis
+• Hypoxia
+• Hypoglycemia
+• Medication, toxin, drugs
+• Pulmonary embolus
+• Trauma
+
+Infant Dosing Chart
+------------------------
+Ensure you are operating according to the specifications of the manufacturer of your particular monitor.
+
+<table><tr><td>Age<td>Term<td>6 months<tr><td>Weight (lb/kg)<td>6.6 lb
+3 kg<td>17.6 lb
+8 kg<tr><td>Defibrillation 2 joules / kg<td>6 joules<td>16 joules<td>Defibrillation 4 joules / kg<td>12 joules<td>32 joules<tr><td>Epinephrine 1:10,000 (1 mg / 10 ml)
+0.01 mg / kg<td>0.03 mg<td>0.08mg<tr><td>Amiodarone 5 mg / kg<td>15 mg<td>40 mg<tr><td>Magnesium Sulfate
+25 - 50 mg / kg<td>75 mg<td>200 mg
+
+Pediatric Dosing Chart
+--------------------------
+Ensure you are operating according to the specifications of the manufacturer of your particular monitor.
+
+<table><tr><td>Age<td>1 years<td>3 years<td>6 years<td>8 years<td>10 years<td>12 years<td>14 years<tr><td>Weight (lb/kg)<td>22 lb
+10 kg<td>30.8 lb
+14 kg<td>44 lb
+20 kg<td>55 lb
+25 kg<td>75 lb
+34 kg<td>88 lb
+40 kg<td>110 lb
+50 kg<tr><td>Defibrillation (2 joules / kg)<td>20 joules<td>28 joules<td>40 joules<td>50 joules<td>68 joules<td>80 joules<td>100 joules<tr><td>Defibrillation (4 joules / kg)<td>40 joules<td>56 joules<td>80 joules<td>100 joules<td>136 joules<td>160 joules<td>200 joules<tr><td>Epinephrine 1:10,000 (1 mg / 10 ml)
+0.01 mg / kg<td>0.1 mg<td>0.14 mg<td>0.2 mg<td>0.25 mg<td>0.34 mg<td>0.4 mg<td>0.5 mg<tr><td>Amiodarone 5 mg / kg<td>50 mg<td>70 mg<td>100 mg<td>125 mg<td>170 mg<td>200 mg<td>250 mg<tr><td>Magnesium Sulfate
+25 - 50 mg / kg<td>250 mg<td>350 mg<td>500 mg<td>625 mg<td>850 mg<td>1 gm<td>1.25 gm
+
+Amiodarone Drip
+------------------------
+• (5 mg / kg over 40 minutes)
+• Dilute calculated volume of Amiodarone in 50 ml D 5 W
+• Using a 60 gtts / mL administration set, flow infusion at 60 gtts. (1 mL / min, 1 gtt / sec)
+
+PEARLS:
+-------------------
+1. SVT is often diagnosed in infants because of symptoms of congestive heart failure. SVT usually presents differently in older children. Common signs and symptoms of SVT in infants include: poor feeding, rapid breathing, irritability, unusual sleepiness, pale or blue skin color, and vomiting. SVT is initially well tolerated in most infants and older children. It can, however, lead to heart failure and clinical evidence of shock, particularly if baseline myocardial function is impaired by congenital heart disease or cardiomyopathy. It can ultimately cause cardiovascular collapse. 
+2. Approved vagal maneuvers include coughing, bearing down as if attempting a bowel movement. <u><b>Carotid sinus massage and / or ocular massage is not approved</b></i>.
+
+Pediatric Tachycardia
+--------------------------
+<image>pediatric_tachycardia
+
+

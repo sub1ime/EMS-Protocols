@@ -1,0 +1,122 @@
+Unconscious / Syncope / AMS
+============================
+OVERVIEW:
+--------------------
+Although each of these presentations has unique considerations, prehospital treatment is similar. The unconscious patient is one of the most difficult patient-management problems in pre-hospital care. Causes range from benign problems to potentially lifethreatening cardiopulmonary or central nervous system disorders. In the usual clinical approach to a patient, the provider first obtains a history, performs a physical examination, and then administers treatment. However, this sequence must be altered for patients that are unconscious or with an altered level of consciousness. Simple syncope may be the result of a wide variety of medical problems, although the major cause of syncope is a lack of oxygenated blood to the brain. In this situation it is quickly remedied when the patient collapses, improving circulation to the brain. Altered LOC is such a major variance from normal neurological function that immediate supportive efforts may be required. Efforts should be made to obtain as much of an HPI as possible from family members or bystanders.
+
+HPI
+---------------------
+• Cardiac history, stroke, seizures
+• Occult blood loss (GI, ectopic)
+• Females (LMP, vaginal bleeding)
+• Fluid loss (nausea, vomiting, diarrhea)
+• Past medical history
+• Recent trauma
+• Complaint prior to event
+
+Signs and Symptoms
+--------------------
+• Loss of consciousness with recovery
+• Lightheadedness, dizziness
+• Palpitations, slow or rapid pulse
+• Pulse irregularity
+• Decreased blood pressure
+
+Considerations
+-------------------
+• Vaso-vagal
+• Orthostatic hypotension
+• Cardiac syncope / dysrhythmia
+• Micturation
+• Psychiatric
+• Hypoglycemia
+• Seizure
+• Shock
+• GI Bleed
+• Ectopic Pregnancy
+• Toxicological (ETOH)
+• Medication effect (hypertension)
+
+Management
+-------------------------------
+[management]
+
+Pediatric Dosage Chart
+----------------------------
+Age
+Weight
+(lb / kg)
+Narcan IV
+0.1 mg/kg
+
+PreTerm
+3.3 lb
+1.5 kg
+0.15 ml
+
+6.6 lb
+3 kg
+
+3
+months
+13.2 lb
+6 kg
+
+6
+months
+17.6 lb
+8 kg
+
+0.3 ml
+
+0.6 ml
+
+0.8 ml
+
+Term
+
+B
+•
+
+EN
+•
+
+I
+•
+
+P
+•
+
+1 year
+
+3 years
+
+6 years
+
+8 years
+
+22 lb
+10 kg
+
+30.8 lb
+14 kg
+
+44 lb
+20 kg
+
+55 lb
+25 kg
+
+1.0 ml
+
+1.4 ml
+
+2.0 ml
+
+2.0 ml
+
+PEARLS:
+--------------
+1. Assess for signs and symptoms of trauma if questionable or suspected fall with syncope.
+2. Consider dysrhythmias, GI bleed, ectopic pregnancy, and seizure as possible causes of syncope.
+

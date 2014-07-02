@@ -1,0 +1,69 @@
+Pain Management
+=========================
+OVERVIEW:
+-----------------
+The practice of pre-hospital emergency medicine requires expertise in a wide variety of pharmacological and non-pharmacological techniques to treat acute pain resulting from a myriad of injuries and illness. One of the most essential missions for all healthcare providers should be the relief and / or prevention of pain and suffering. Approaches to pain relief must be designed to be safe and effective in the organized chaos of the prehospital environment. The degree of pain and the hemodynamic status of the patient will determine the rapidity of care.
+
+HPI
+----------------
+• Age
+• Location
+• Duration
+• Severity (1-10)
+• Past medical history
+• Medications
+• Drug allergies
+
+Signs and Symptoms
+---------------------
+• Severity (pain scale)
+• Quality (sharp, dull, etc)
+• Radiation
+• Relation to movement, respiration
+• Increased with palpation of area
+
+Considerations
+----------------------
+• Musculoskeletal
+• Visceral (abdominal)
+• Cardiac
+• Pleural, respiratory
+• Neurogenic
+• Renal (colic)
+
+Management
+----------------------------------
+[management]
+
+Universal Pain Assessment Tool
+------------------------------------
+<image>universal_pain_assessment_tool
+
+Pediatric Dosage Chart
+--------------------------------
+<table><tr><td>Term<td>6 months<td>1 year<td>3 years<td>6 years<td>8 years<td>10 years<td>12 years<td>14 years<tr><td>Weight (lb / kg)<td>6.6 lb
+3 kg<td>17 lb
+8 kg<td>22 lb
+10 kg<td>30 lb
+14 kg<td>44 lb
+20 kg<td>55 lb
+20 kg<td>75 lb
+34 kg<td>88 lb
+40 kg<td>110 lb
+50 kg<tr><td>Fentanyl<td>3 mcg<td>8 mcg<td>10 mcg<td>14 mcg<td>20 mcg<td>25 mcg<td>34 mcg<td>40 mcg<td>50 mcg<tr><td>Morphine Sulfate
+0.1 mg/kg<td><td><td>1.0 mg<td>1.4 mg<td>2.0 mg<td>2.5 mg<td>3.5 mg<td>4.0 mg<td>5.0 mg
+
+PEARLS:
+-----------------------
+1. Pain severity (0 - 10) is a vital sign that should be recorded before and after IV or IM medication administration and upon arrival at destination.
+2. Contraindications to opiate administration include hypotension, head injury, and respiratory depression.
+3. All patients should have drug allergies ascertained prior to administration of pain medication.
+4. Patients receiving narcotic analgesics should be administered oxygen.
+5. Narcotic analgesia was historically contraindicated in the pre-hospital setting for abdominal pain of unknown etiology. It was thought that analgesia would hinder the ER physician or surgeon’s evaluation. Recent studies have demonstrated opiate administration may alter the physical examination findings, but these changes result in no significant increase in management errors. <sup>1</sup>
+6. Fentanyl is contraindicated for patients who have taken MAOIs within past 14 days, and used with caution in patients with head injuries, increased ICP, COPD, and liver or kidney dysfunction.
+
+
+<sup>1</sup> JAMA. 2006; 296(14):1764-74 (ISSN: 1538-3598) Ranji SR; Goldman LE; Simel DL; Shojania KG
+
+
+

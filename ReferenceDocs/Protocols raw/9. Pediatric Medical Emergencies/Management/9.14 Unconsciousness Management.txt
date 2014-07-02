@@ -1,0 +1,15 @@
+Unconsciousness - peds
+
+=============================
+1. Perform general patient management.
+2. Maintain patient in a supine position and assess for
+C-spine precautions.
+3. Administer oxygen to maintain SPO 2 94 - 99%
+4. Assess blood glucose level. Refer to Pediatric
+Hypoglycemia Protocol.
+5. Establish IV of Normal Saline. Keep at KVO rate
+unless hypotensive. If hypotensive, refer to Pediatric
+Shock protocol.
+6. If unconsciousness is unknown, consider NARCAN
+0.1 mg / kg slow IVP, max dose of 2 mg.
+7. Transport and reassess as needed.

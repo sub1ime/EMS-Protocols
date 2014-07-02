@@ -1,0 +1,82 @@
+Hypoglycemia
+==================
+OVERVIEW:
+---------------
+Symptomatic hypoglycemia is defined as a blood glucose level < 60 mg / dL with signs of altered mental status and / or unconsciousness. The many signs and symptoms that are associated with hypoglycemia can be divided into two broad categories: adrenergic and neurologic. The adrenergic stimulation is due to the increased epinephrine levels and the neurologic due to central nervous system dysfunction from the decreased glucose levels.
+
+HPI
+-------------
+• History of diabetes
+• Onset of symptoms
+• Medications
+• Fever or recent infection
+• Alcohol consumption
+• Last meal
+
+Signs and Symptoms
+------------------------
+• Anxiety, agitation, and / or confusion
+• Cool, clammy skin
+• Diaphoresis
+• Seizure
+• Decreased visual acuity, blindness
+• Abnormal/ hostile behavior
+• Tachycardia
+• Hypertension
+• Dizziness, headache, weakness
+
+Considerations
+-------------------
+• Hypoxia
+• Seizure
+• Stroke
+• Brain trauma
+• Alcohol intoxication
+• Toxin/ substance abuse
+• Medication effect / overdose
+
+Mnagement
+------------------------
+[management]
+
+Procedure for making Dextrose 25% and 10%
+------------------------------------------------
+<b>Dextrose 25%</b>
+In 50 ml syringe, mix 25 ml of Dextrose 50% with 25 ml Normal Saline. Mixture will yield 50 ml of Dextrose 25%
+
+<b>Dextrose 10%</b>
+In 50 ml syringe, mix 10 ml of Dextrose 50% with 40 ml Normal Saline. Mixture will yield 50 ml of Dextrose 10%
+
+Pediatric Dosage Chart
+----------------------------
+<table><tr><td>Age<td>Pre-Term<td>Term<td>3 months<td>6 months<td>1 year<td>3 years<td>6 years<td>8 years<tr><td>Weight (lb / kg)<td><td>6.6 lb
+3 kg<td>13.2 lb
+6 kg<td>17.6 lb
+8 kg<td>22 lb
+10 kg<td>30.8 lb
+14 kg<td>44 lb
+20 kg<td>55 lb
+25 kg<tr><td>Glucagon 0.1 mg / kg<td><td>0.3 mg<td>0.6 mg<td>0.8 mg<td>1.0 mg<td>1.0 mg<td>1.0 mg<td>1.0 mg<tr><td>Dextrose 10%
+2.0 ml / kg<td>3.0 mL<td>6.0 mL<td><td><td><td><td><td><tr><td>Dextrose 25%
+2.0 ml / kg<td><td><td>12.0 mL
+(3 gm)<td>16.0 mL
+(4 gm)<td>20.0 mL
+(5 gm)<td>28.0 mL
+(7 gm)<td>40.0 mL
+(10 gm)<td>50.0 mL
+(12.5 gm)
+
+PEARLS:
+----------------
+1. Hypoglycemia is the most common metabolic problem in neonates.
+2. Use aseptic techniques to draw blood from finger. Allow alcohol to dry completely prior to puncturing finger for blood glucose level. Alcohol may cause inaccurate readings. Do not blow on or fan site to dry faster.
+3. Blood glucose levels should be taken from extremity opposite IV and medication administration for most accurate reading.
+4. After puncturing finger, use only moderate pressure to obtain blood. Excessive pressure may cause rupture of cells causing inaccurate results.
+5. Know your specific agency’s glucometer parameters for a “HI” and “LO” reading.
+6. When administering IV fluids, a minimum amount should be delivered as large amounts may lower blood glucose level and impede original goal of administering Dextrose.
+7. Patients who are consuming aspirin, acetaminophen, anti-psychotic drugs, betablockers, oral diabetic medications, or antibiotics such as sulfa-based, tetracycline, and amoxicillin that experience a hypoglycemic episode are at a greater risk for relapse. These patients should be strongly encouraged to accept transport.
+8. An inadequate amount of glucose for heat production, combined with profound diaphoresis, may place a hypoglycemic patient at greater risk for hypothermia. Keep patient warm as needed. Glucagon causes a breakdown of stored glycogen to glucose. Glucagon may not
+9. work if glycogen stores are previously depleted due to liver dysfunction, alcoholism, or malnutrition. Effects of Glucagon may take up to 30 minutes.
+10. Any patient that has had a hypoglycemic episode without a clear reason should be transported for further evaluation.
+
+

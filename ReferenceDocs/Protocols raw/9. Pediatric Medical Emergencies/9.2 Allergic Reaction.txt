@@ -1,0 +1,60 @@
+Allergic Reaction
+=========================
+OVERVIEW:
+----------------
+Acute respiratory emergencies in the pediatric patient are common. When not properly treated, respiratory distress can result in significant morbidity and mortality. Anaphylaxis in children commonly results from insect stings and, less frequently, from food or medications. Signs of shock as well as upper and lower airway obstruction are frequently present. If the reaction involves the respiratory system, signs similar to severe asthma may be present (cyanosis, wheezing, and respiratory arrest). Patients with allergic reactions frequently have local or generalized swelling while anaphylaxis can be characterized by wheezing, airway compromise, and/ or hypotension.
+
+HPI
+------------
+• Onset and location
+• Insect sting or bite
+• Food allergy / exposure
+• New clothing, soap, detergent
+• Past history of reactions
+• Medication history
+
+Signs and Symptoms
+----------------------
+• Itching or hives
+• Coughing / wheezing or respiratory distress
+• Chest or throat constriction
+• Difficulty swallowing
+• Hypotension or shock
+• Edema
+
+Considerations
+----------------
+• Urticaria (rash only)
+• Anaphylaxis (systemic effect)
+• Shock (vascular effect)
+• Angioedema (drug induced)
+• Aspiration / airway obstruction
+• Vaso-vagal event
+• Asthma
+
+Management
+----------------------------
+[management]
+
+Pediatric Drug Chart
+---------------------------
+<table><tr><td>Term<td>6 months<td>1 year<td>3 years<td>6 years<td>8 years<td>10 years<td>12 years<td>14 years<tr><td>Weight (lb / kg)<td>6.6 lb
+3 kg<td>17 lb
+8 kg<td>22 lb
+10 kg<td>30 lb
+14 kg<td>44 lb
+20 kg<td>55 lb
+20 kg<td>75 lb
+34 kg<td>88 lb
+40 kg<td>110 lb
+50 kg<tr><td>Epinephrine 1:1,000 (1 mg / mL)
+0.01 mg/kg<td>0.03 mg<td>0.08 mg<td>0.1 mg<td>0.14 mg<td>0.2mg<td>0.25 mg<td>0.3 mg<td>0.3 mg<td>0.3 mg<tr><td>Diphenhydramine
+1 mg/kg<td>3.0 mg<td>8.0 mg<td>10.0 mg<td>14.0 mg<td>20.0 mg<td>25 mg<td>34.0 mg<td>40.0 mg<td>50.0 mg<tr><td>Prednisone
+1 - 2 mg/kg<td><td><td><td>20.0 mg<td>20.0 mg<td>20.0 mg<td>40.0 mg<td>40.0 mg<td>60.0 mg
+
+PEARLS:
+-------------
+1. The most important component of respiratory distress is airway control.
+2. Any pediatric patient presenting with substernal and intercostal retractions is in immediate need of treatment and transport. Do not delay transport with treatments that can be completed enroute.
+3. Avoid intravenous initiation or medication administration into same extremity as bite or allergen site.
+

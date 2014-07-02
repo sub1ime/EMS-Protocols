@@ -1,0 +1,51 @@
+Bradycardia
+=========================
+
+OVERVIEW:
+------------------
+Bradycardia is the most common dysrhythmia in the pediatric population. Bradycardia, in pediatric patients, typically is the result of some form of respiratory depression and initial treatment should be directed to ensuring that the patient is breathing adequately and providing supplemental oxygenation and ventilation as needed. Since the etiology of bradycardia is usually hypoxemia, initial management is ventilation and oxygenation while perfusion is maintained with chest compressions in children with a heart rate of less than 60 beats per minute. Symptomatic bradycardia is defined in pediatrics as hypotension or other Signs and / or Symptoms of poor perfusion, with a (relative to age) bradycardia. Most bradycardia is hypoxia related, and will usually respond to oxygenation.
+
+HPI
+--------------
+• Past medical history
+• Foreign body exposure
+• Respiratory distress or arrest
+• Apnea
+• Possible toxic or poison Environmental exposure
+• Congenital disease
+• Medication (maternal or infant)
+
+Signs and Symptoms
+-------------------
+• Heart rate < 60 bpm
+• Delayed capillary refill or cyanosis
+• Mottled, cool skin
+• Hypotension or arrest
+• Altered mental status
+
+Considerations
+-------------------
+• Respiratory effort
+• Respiratory obstruction
+• Foreign body, secretions
+• Croup, epiglottitis
+• Hypovolemia
+• Hypothermia
+• Infection, sepsis
+• Medication, toxin
+• Hypoglycemia
+• Trauma
+
+PEARLS:
+-----------
+1. Pharmacological treatment of bradycardia is based upon the presence or absence of significant signs and symptoms (symptomatic vs. asymptomatic).
+2. Although noninvasive pacing may be attempted, typically bradycardias of hypoxic etiology do not respond. First line therapy is prompt airway support, ventilation and oxygenation.
+3. Capture thresholds in children are similar to those in adults. Studies indicate no relationship between body surface area, weight, and capture thresholds and although many children will achieve capture between 50 - 100 mA, higher current requirements are possible. The pacing rate must be set high enough to perfuse the patient.
+4. Electrical capture during transcutaneous pacing is defined as an electrical stimulus marker followed by a wide QRS complex, with no underlying intrinsic rhythm, followed by a T-wave. This should occur for each electrical complex.
+5. Mechanical capture is confirmed when the patient’s pulse matches the displayed pace rate. Because pacing stimuli generally causes muscular contractions that can be mistaken for a pulse, you should never take a pulse on the left side of the body to confirm mechanical capture. Pectoral muscle contractions due to pacing also do not indicate mechanical capture. To avoid mistaking muscular response to pacing stimuli for arterial pulsations, use ONLY the (1) Femoral artery or (2) Right brachial or radial artery for confirming mechanical capture.
+
+Pediatric Bradycardia
+--------------------------
+<image>pediatric_bradycardia
+
+

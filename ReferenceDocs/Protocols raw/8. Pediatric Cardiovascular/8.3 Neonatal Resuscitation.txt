@@ -1,0 +1,40 @@
+Neonatal Resuscitation
+===================================
+OVERVIEW:
+--------------------
+The majority of newborns will require only warmth, stimulation, and occasionally some oxygen after birth. That treatment is recommended before attempting the more aggressive interventions of positive-pressure ventilation (PPV) and chest compressions. Remember that a newborn’s cardiac output is rate dependent. Bradycardia usually is the result of hypoxia. Once the hypoxia is corrected, the heart rate may spontaneously correct itself. A “newborn” is defined as within one month of age post delivery.
+
+Management
+------------------------------
+[management]
+
+APGAR Score – 1st and 5th Minute Post Birth
+----------------------------------------------------------
+<b>APGAR Score – 1st & 5th Minute Post Birth</b>
+<table><tr><td>Sign<td>0 Points<td>1 Point<td>2 Points<tr><td><b>Activity</b> (Muscle Tone)<td>Flaccid<td>Some Flexion<td>Active Motion<tr><td><b>Pulse</b><td>Absent<td>< 100<td>> 100<tr><td><b>Grimace</b> (Reflex Irritability)<td>No Response<td>Some<td>Vigorous<tr><td><b>Appearance</b> (Skin Color)<td>Blue, Pale<td>Blue Extremities<td>Fully Pink<tr><td><b>Respirations</b><td>Absent<td>Slow, Irregular<td>Strong Cry
+
+Supportive Care
+--------------------------
+• Maintain airway. Suction as needed with bulb syringe. 
+• Obtain blood glucose sample. If BGL is < 40 mg/dL, administer Dextrose 10% 2cc / kg (0.5 g / kg) slow IV / IO push. Repeat as necessary.
+• Maintain warmth via blankets and Porta-Warm mattress or skin-to-skin.
+
+Procedure for making Dextrose 10%
+---------------------------------------------
+In 50 ml syringe, mix 10 ml of Dextrose 50% with 40 ml Normal Saline. Mixture will yield 50 ml of Dextrose 10%
+
+Ped Drug Chart
+------------------------
+<table><tr><td>Age<td>Pre-Term<td>Term<tr><td>Weight (lb / kg)<td>3.3 lbs
+1.5 kg<td>6.6 lbs
+3.0 kg<tr><td>Epinephrine 1:10,000 (1 mg / 10 ml)
+0.01 mg / kg<td>0.015 mg<td>0.03 mg<tr><td>Dextrose 10%
+2.0 ml / kg<td>3.0 ml<td>6.0 ml
+
+PEARLS:
+------------------
+1. The primary measure of adequate initial ventilation is prompt improvement in heart rate.
+2. In the presence of thick meconium and an infant who is limp, aggressive suctioning is required.
+3. A 3:1 ratio of compressions to ventilations with 90 compressions and 30 breaths should be used to achieve approximately 120 events per minute to maximize ventilation at an achievable rate. Each event should be allotted approximately ½ second, with exhalation occurring during the first compression following, each ventilation.
+4. Arterial saturations of a term infant at birth can be as low as 60% and can require more than 10 minutes to reach saturations of > 90%. Hyperoxia can be toxic, particularly to the preterm baby. 
+

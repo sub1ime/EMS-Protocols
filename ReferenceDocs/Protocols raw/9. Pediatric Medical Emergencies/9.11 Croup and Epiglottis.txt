@@ -1,0 +1,46 @@
+Respiratory Distress–Croup/Epiglottitis
+========================================
+OVERVIEW:
+--------------------
+Croup (or laryngotracheobronchitis) is an acute viral infection of the upper airway, leading to swelling and the classical symptoms of a "barking" cough, stridor, and hoarseness. It may produce mild, moderate, or severe symptoms, which often worsen at night. It is often treated with a single dose of oral steroids; occasionally epinephrine is used in more severe cases. Epiglottitis is swelling of the epiglottis, which leads to breathing problems. Swelling of the epiglottis is usually caused by the bacteria Haemophilus influenza (H. influenza), although it may be caused by other bacteria or viruses. Upper respiratory infections can lead to epiglottitis. Medicines or diseases that weaken the immune system can make adults more prone to epiglottitis. Epiglottitis is most common in children between 2 and 6 years old. Respiratory Syncytial Virus (RSV) is a very common virus that leads to mild, cold-like symptoms in adults and older healthy children. It can be more serious in young babies, especially to those in certain high-risk groups. RSV is the most common germ that causes lung and airway infections in infants and young children. Most infants have had this infection by two years of age. Outbreaks of RSV infections typically begin in the fall and run into the spring.
+
+HPI
+---------------
+• Time of onset
+• Possibility of foreign body
+• Medical history
+• Medications
+• Fever or respiratory infection
+• Other sick siblings
+• History of trauma
+
+Signs and Symptoms
+---------------------
+• Wheezing or stridor
+• Respiratory retractions
+• See-saw respirations
+• Diaphoresis
+• Tripod position
+• Increased heart rate
+• Altered LOC
+• Anxious appearance
+
+Considerations
+-----------------
+• Asthma
+• Aspiration
+• Foreign body
+• Infection
+• Pneumonia
+• Congenital heart disease
+• Trauma
+
+Management
+--------------------------------------------------
+[management]
+
+PEARLS:
+--------------
+1. The most important component of respiratory distress is airway control.
+2. Any pediatric patient presenting with substernal and intercostal retractions is in immediate need of treatment and transport. Do not delay on scene with treatments that can be completed enroute.
+

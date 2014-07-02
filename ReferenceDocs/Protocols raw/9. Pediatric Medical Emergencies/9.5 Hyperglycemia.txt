@@ -1,0 +1,40 @@
+Hyperglycemia
+===================
+OVERVIEW:
+----------------
+Diabetes mellitus is the most common endocrine disorder of childhood, affecting approximately 2 / 1,000 school-age children in the United States. Symptomatic hyperglycemia is defined as a blood glucose level > 300 mg/dl with signs of severe dehydration, altered mental status, and/ or shock. Hyperglycemia is usually the result of an inadequate supply of insulin to meet the body’s needs. Most pre-hospital care should be focused around the treatment of severe dehydration and support of vital functions.
+
+HPI
+------------------
+• History of diabetes
+• Onset of symptoms
+• Medications
+
+Signs and Symptoms
+--------------------------
+• Anxiety, agitation, and / or confusion
+• Dry, red, and / or warm skin
+• Fruity / acetone smell on breath
+• Kussmaul respirations
+• Dry mouth, intensive thirst
+• Abnormal/ hostile behavior
+• Tachycardia
+• Dizziness / headache
+
+Considerations
+---------------------
+• Hypoxia
+• Brain trauma
+• Alcohol intoxication
+• Toxin / substance abuse
+• Medication effect / overdose
+
+Management
+---------------
+[management]
+
+PEARLS:
+----------------------
+1. Know your specific agency’s glucometer parameters for a “HI” and “LO” reading.
+2. It is estimated that 2 - 8% of all hospital admissions are for the treatment of DKA, while mortality for DKA is between 2 - 10%. Published mortality rates for HHS vary, but the trend is that the older the patient and higher the osmolarity, the greater the risk of death.
+

@@ -1,0 +1,39 @@
+Fever - Ped
+
+======================
+1. Perform general patient management.
+2. Support life-threatening problems associated with
+3.
+4.
+5.
+6.
+7.
+
+8.
+
+9.
+10.
+
+airway, breathing, and circulation.
+Administer oxygen to maintain SPO 2 94 - 99%
+If the patient is having a seizure, refer to the Pediatric
+Seizure protocol.
+If temperature is greater than 106° F / 41°C, refer to
+Hyperthermia Patient Care Protocol.
+Begin passive cooling by removing excess and
+constrictive clothing. Avoid over-exposure.
+Obtain blood glucose sample. If glucose is < 60 mg / dL
+or > 300 mg / dL, refer to Pediatric Hypoglycemia or
+Hyperglycemia Patient Care Protocol.
+Establish an IV of normal saline at KVO. Titrate to a
+systolic pressure appropriate for child:
+a.
+Birth to 1 month - 60 mmHg
+b.
+1 month to 1 year - > 70 mmHg
+c.
+Greater than 1 year - 70 + [2 x Age (years)]
+If hypoperfusion is suspected, refer to the Pediatric
+Shock protocol.
+Perform ongoing assessment as indicated and transport
+promptly.

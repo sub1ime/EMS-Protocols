@@ -1,0 +1,34 @@
+Shock - peds
+
+================
+1. Perform general patient management.
+2. Support life-threatening problems associated with
+airway, breathing, and circulation.
+3. Assess for signs of shock including, but not limited to:
+• Restlessness, altered mental status, hypoperfusion
+(cool, pale, moist skin), tachypnea (rapid breathing),
+rapid, weak pulse, orthostatic hypotension (blood
+pressure suddenly drops on standing up), nausea
+and thirst.
+4. Administer oxygen to maintain SPO 2 94 - 99%. Support
+respirations as necessary with a BVM.
+5. Transport as soon as possible.
+6. Control external bleeding with direct pressure, then
+tourniquet if direct pressure is inadequate.
+7. Establish a large bore IV or IO of Normal Saline. If time
+permits, establish second access.
+• Do not delay transport to establish vascular access
+8. Maintain systolic BP appropriate for patient:
+a. Birth to 1 month - 60 mmHg
+b. 1 month to 1 year - > 70 mmHg
+c. Greater than 1 year - 70 + [2 x Age (years)]
+9. Give a 20 mL / kg bolus. If no improvement after first 20
+mL / kg bolus, may repeat once. While administering a
+fluid bolus, frequently reassess perfusion for
+improvement. If perfusion improves, slow the IV to KVO
+and monitor closely. If patient develops fluid overload
+respiratory distress (dyspnea, crackles, rhonchi,
+decreasing SpO 2 ), slow the IV to KVO.
+10. Place the patient on the cardiac monitor.
+11. Transport and perform ongoing assessment as
+indicated.

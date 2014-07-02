@@ -1,0 +1,86 @@
+Seizure
+=======================
+OVERVIEW:
+---------------
+A seizure is a period of altered neurologic function caused by abnormal neuronal electrical discharges. Generalized seizures begin with an abrupt loss of consciousness. If motor activity is present, it symmetrically involves all four extremities. Episodes that develop over minutes to hours are less likely to be seizures; most seizures only last 1 - 2 minutes. Patients with seizure disorders tend to have stereotype, or similar, seizures with each episode and are less likely to have inconsistent or highly variable attacks. True seizures are usually not provoked by emotional stress. Most seizures are followed by a postictal state of lethargy and confusion.
+
+HPI
+--------------
+• Reported, witnessed
+• Seizure activity description
+• Previous seizure history
+• Medic alert tag information
+• Seizure medications
+• History of trauma
+• History of diabetes mellitus
+• History of pregnancy
+
+Signs and Symptoms
+------------------------
+• Decreased mental status
+• Sleepiness
+• Incontinence
+• Observed seizure activity
+• Evidence of trauma
+
+Considerations
+-------------
+• CNS (head) trauma
+• Tumor
+• Metabolic, hepatic, renal failure
+• Diabetic
+• Hypoxia
+• Electrolyte abnormality
+• Drugs, medications, non-compliance
+• Infection, fever, meningitis
+• Alcohol withdrawal
+• Hyperthermia
+
+Management
+---------------------------
+[management]
+
+Types of Seizures
+-----------------------
+<b>Generalized</b>
+• Absence (Petit-Mal)
+• Atonic (Drop Attack)
+• Myoclonic (Brief bilateral jerking)
+• Tonic-Clonic (GrandMal)
+
+<b>Simple Partial</b>
+• Focal / Local: Localized twitching of hand, arm, leg, face, or eyes. Patient may be conscious or unconscious
+
+<b>Complex Partial</b>
+• Temporal Lobe
+• Psychomotor
+
+Pediatric Dosing Chart
+--------------------------
+<table><tr><td>Age<td>Pre-Term<td>Term<td>3 months<td>6 months<td>1 year<td>3 years<td>6 years<td>8 years<tr><td>Weight
+(lb / kg)<td>3.3 lb
+1.5 kg<td>6.6 lb
+3 kg<td>13.2 lb
+6 kg<td>17.6 lb
+8 kg<td>22 lb
+10 kg<td>30.8 lb
+14 kg<td>44 lb
+20 kg<td>55 lb
+25 kg<tr><td>Midazolam IV<td>0.3 mg<td>0.6 mg<td>1.3 mg<td>1.7 mg<td>2.2 mg<td>3.1 mg<td>4.4 mg<td>5.5 mg<tr><td>Diazepam IV
+(5.0 mg/mL)
+0.3 mg/kg<td>0.1 mL<td>0.2 mL<td>0.4 mL<td>0.5 mL<td>0.6 mL<td>0.84 mL<td>1.2 mL<td>1.5 mL<tr><td>Diazepam PR
+(5.0 mg/mL)
+0.5 mg/kg<td>0.15 mL<td>0.3 mL<td>0.6 mL<td>0.8 mL<td>1.0 mL<td>1.4 mL<td>2.0 mL<td>2.0 mL
+
+PEARLS:
+--------------------
+1. Respirations during an active seizure should be considered ineffective and airway maintenance should occur per assessment.
+2. Status epilepticus is defined as two or more consecutive seizures without a period of consciousness or recovery. This is a true emergency requiring rapid airway support, treatment, and transport.
+3. Grand Mal seizures are generalized in nature and associated with loss of consciousness, incontinence, and possibly tongue trauma.
+4. Focal seizures affect only a specific part of the body and are not usually associated with loss of consciousness.
+5. Jacksonian seizures are seizures, which start as focal in nature and become generalized.
+6. Petit Mal seizures may be localized to a single muscle group or may not involve visible seizure activity all. Always examine pupils for nystagmus, which would alert provider to continued seizure activity. 
+7. Be prepared for airway problems and continued seizures.
+8. Investigate possibility of trauma and substance abuse.
+9. Be prepared to assist ventilations as dosages of benzodiazepines are increased.
+

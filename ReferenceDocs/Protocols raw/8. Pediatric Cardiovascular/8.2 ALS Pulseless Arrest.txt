@@ -1,0 +1,69 @@
+ALS Pulseless Arrest
+============================
+OVERVIEW:
+-------------------
+During cardiac arrest, there is no effective pumping activity, pulse, or blood pressure. Most commonly, the rhythms that cause pulseless arrest are: ventricular fibrillation, ventricular tachycardia, pulseless electrical activity or asystole. The ECG of ventricular fibrillation shows a fine to coarse zigzag pattern without discernible P waves or QRS complexes. Ventricular fibrillation / ventricular tachycardia is most commonly seen in patients with severe ischemic heart disease and is the most frequently encountered rhythm in sudden cardiac death in adults. Defibrillation is required to stop VF / VT. It constitutes the most important aspect of therapy for VF / VT. The sooner the shocks are given, the more likely they are to be successful.
+
+HPI
+---------
+• Estimated down time
+• Past medical history
+• Medications
+• Events leading to arrest
+• Renal failure / dialysis
+• DNR or living will
+
+Signs and Symptoms
+-----------------
+• Unresponsive, apneic, pulseless
+• Ventricular fibrillation or pulseless ventricular tachycardia on ECG
+
+Considerations
+------------------
+• Asystole
+• Artifact / Device failure
+• Cardiac
+• Endocrine / metabolic
+• Drugs
+• Respiratory Arrest
+
+POSSIBLE CAUSES OF PULSELESS ARREST
+----------------------------------------------
+<Table><tr><td>A<td>Alcohol, Abuse, Acidosis<tr><td>E<td>Endocrine, Electrolytes, Encephalopathy<tr><td>I<td>Insulin<tr><td>O<td>Oxygenation, Overdose, Opiates<tr><td>U<td>Uremia<tr><td>T<td>Toxidromes, Trauma, Temperature, Tumor<tr><td>I<td>Infection, Intussusception<tr><td>P<td>Psychogenic, Porphyria, Pharmacological<tr><td>S<td>Space occupying lesion, Sepsis, Seizure, Shock
+
+Infant Dosing Chart
+-------------------------
+Ensure you are operating according to the specifications of the manufacturer of your particular monitor.
+
+<table><tr><td>Age<td>Term<td>6 months<tr><td>Weight (lb/kg)<td>6.6 lb
+3 kg<td>17.6 lb
+8 kg<tr><td>Defibrillation 2 joules / kg<td>6 joules<td>16 joules<td>Defibrillation 4 joules / kg<td>12 joules<td>32 joules<tr><td>Epinephrine 1:10,000 (1 mg / 10 ml)
+0.01 mg / kg<td>0.03 mg<td>0.08mg<tr><td>Amiodarone 5 mg / kg<td>15 mg<td>40 mg<tr><td>Magnesium Sulfate
+25 - 50 mg / kg<td>75 mg<td>200 mg
+
+Pediatric Dosing Chart
+-----------------------
+Ensure you are operating according to the specifications of the manufacturer of your particular monitor.
+
+<table><tr><td>Age<td>1 years<td>3 years<td>6 years<td>8 years<td>10 years<td>12 years<td>14 years<tr><td>Weight (lb/kg)<td>22 lb
+10 kg<td>30.8 lb
+14 kg<td>44 lb
+20 kg<td>55 lb
+25 kg<td>75 lb
+34 kg<td>88 lb
+40 kg<td>110 lb
+50 kg<tr><td>Defibrillation (2 joules / kg)<td>20 joules<td>28 joules<td>40 joules<td>50 joules<td>68 joules<td>80 joules<td>100 joules<tr><td>Defibrillation (4 joules / kg)<td>40 joules<td>56 joules<td>80 joules<td>100 joules<td>136 joules<td>160 joules<td>200 joules<tr><td>Epinephrine 1:10,000 (1 mg / 10 ml)
+0.01 mg / kg<td>0.1 mg<td>0.14 mg<td>0.2 mg<td>0.25 mg<td>0.34 mg<td>0.4 mg<td>0.5 mg<tr><td>Amiodarone 5 mg / kg<td>50 mg<td>70 mg<td>100 mg<td>125 mg<td>170 mg<td>200 mg<td>250 mg<tr><td>Magnesium Sulfate
+25 - 50 mg / kg<td>250 mg<td>350 mg<td>500 mg<td>625 mg<td>850 mg<td>1 gm<td>1.25 gm
+
+PEARLS:
+----------------
+1. If airway maintainable initially with BVM, delay advanced airway insertion until after initial medication administration. The best airway is an effective airway with the least potential complications.
+2. Do not stop CPR to give ventilations once advanced airway has been secured.
+3. CPR should not be stopped for any reason, if at all avoidable, other than to check for rhythm change. Any stop of compressions should kept as short as possible, preferably a maximum of 10 seconds. IV / IO access and advanced airway placement should be performed while compressions are being performed.
+4. Pay close attention to rate of manual ventilation. Hyperventilation produces decrease in preload, cardiac output, coronary perfusion, and cerebral blood flow.
+
+Pediatric Cardiac Arrest
+----------------------------
+<image>pediatric_arrest
+

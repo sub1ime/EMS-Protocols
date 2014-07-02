@@ -1,0 +1,198 @@
+Medical Assessment
+==========================
+OVERVIEW:
+------------------------------
+Few encounters cause greater anxiety for medical providers than a pediatric patient experiencing a life-threatening situation. Although pediatric calls only account for approximately 10% of all EMS calls, they can be among the most stressful. Pre-hospital providers need to be prepared to face these challenges, as prompt recognition and treatment of potentially life-threatening diseases in children in the field may have a significant impact on the outcome of the patient. Of the 10% of EMS calls that involve pediatric patients, fewer than 5% are for life- or limb-threatening situations. When EMS does respond to a pediatric call, treatment such as administering oxygen, starting an IV or performing endotracheal intubation can be involved in more than 50% of the cases.
+
+PRIMARY ASSESSMENT:
+-------------------------------
+Approach to the pediatric patient varies with the patient's age and the nature of illness or injury. It is critical that EMS providers be cognizant of the emotional and physiological needs of a child throughout the assessment. It is equally important to identify the needs of the child's family members. In this stressful environment, family members will be trying to find the cause of injury or illness in their child and may be unruly when the answers they seek are not available or are contrary to what is expected.
+
+The key to pediatric assessment in EMS is to identify and manage immediate life threats. It is often easy to determine whether a child is sick just by looking at him. Sick kids look sick. If a child is active, appropriate and alert, he is not sick. The opposite is true as well. If a child is inactive and non-interactive, assume he is sick until proven otherwise. The most widely accepted approach to forming a general impression in a child is using the Pediatric Assessment Triangle. This tool is especially useful because the assessment criteria are determined during the general impression. This assessment can be performed from across the room, before contact with the patient is ever made.
+
+<image>pediatric_assessment_triangle
+
+AIRWAY:
+-----------------------------
+The patient’s airway should be assessed to determine whether it is patent, maintainable, or not maintainable. For any patient who may have a traumatic injury, cervical spine precautions should be utilized while the airway is evaluated. Assessment of the patient’s level of consciousness, in conjunction with assessment of the airway, provides an impression of the effectiveness of the patient’s current airway status. If an airway problem is identified, the appropriate intervention should be initiated. The decision to use a particular intervention depends on the nature of the patient’s problem and the potential for complications during transport. Specific equipment, such as a pulse oximetry or capnography, help provide continuous airway evaluation during transport.
+
+In addition, it is important to also be able to identify differences between adult and pediatric anatomy and physiology. The anatomical and physiologic variations between adults and children can cause confusion if the EMS provider does not fully understand these differences.
+
+Summary of Primary Airway Assessment
+--------------------------------
+• Airway: Patent, maintainable, un-maintainable
+• Level of consciousness
+• Skin appearance: Ashen, pale, gray, cyanotic, or mottled
+• Preferred posture to maintain airway
+• Airway clearance
+• Sounds of obstruction
+
+Differences in the Pediatric Airway
+----------------------------------------
+• Larger tongue in relation to free space in oropharynx.
+• Trachea is more pliable and smaller in diameter with immature tracheal rings
+• Epiglottis is large and is more u-shaped or oblong
+• Larynx is at the level of the 1<sup>st</sup> or 2<sup>nd</sup> vertebrae
+• Mainstem bronchi has less angle
+
+BREATHING:
+----------------------
+The assessment of ventilation begins with noting whether the patient is breathing. Patients presenting with apnea or severe respiratory distress, require immediate intervention. If the patient has any difficulty with ventilation, the problem must be identified and the appropriate intervention initiated. Emergent interventions may include manual ventilation of the patient via bag valve mask, endotracheal intubation, and / or needle thoracentesis.
+
+Normal respirations in an infant can be irregular and, as a result, respiratory rates should be assessed over a minimum of 30 seconds, but ideally 60 seconds. The variability of respiration in infants may not produce an accurate rate when only observed for 15 seconds. It is important to note that the variable rate of respiration in infants may include cessation in breathing for up to 20 seconds. Anything greater than 20 seconds should be considered abnormal and will require intervention.
+
+Summary of Primary Breathing Assessment
+-------------------------------------------
+• Rate and depth of respirations
+• Cyanosis
+• Work of breathing
+• Use of accessory muscles
+• Flaring of nostrils
+• Presence of bilateral breath sounds
+• Presence of adventitious breath sounds
+• Asymmetric chest movements
+• Oxygen saturation measured with pulse oximetry
+
+CIRCULATION:
+------------------
+Palpation of both the peripheral and the central pulse provides information about the patient’s circulatory status. The quality, location, and rate of the patient’s pulses should be noted along with the temperature of the patient’s skin being assessed while obtaining the pulses. Observation of the patient’s level of consciousness may also help evaluate the patient’s perfusion status initially.
+
+Although the pediatric and adult hearts share identical anatomy, several important distinctions need to be made between the adult and pediatric cardiovascular systems. First, the adult heart increases its stroke volume by increasing inotropy (strengthening contractions) and chronotropy (increasing heart rate). In contrast, the pediatric heart can only increase chronotropy in an attempt to increase stroke volume. The pediatric heart has low compliance as it relates to volume; therefore, it cannot compensate well by increasing stroke volume. Consequently, heart rate should be seen as a significant clinical marker when monitoring cardiac output in the fetus, neonate and pediatric patient. When the pediatric patient becomes bradycardic, it should be assumed that cardiac output has been drastically reduced. Bradycardia is most commonly caused by hypoxia. Bradycardia may be an early sign of hypoxia in the neonate; however, it is an ominous sign of severe hypoxia in the infant and child.
+
+Capillary refill time is typically quite accurate in children and considered to be reliable in most cases. Just as in the adult patient, environmental factors like cold ambient temperatures can influence capillary refill times and should be taken into consideration. For this reason, capillary refill time should be assessed closer to the core in areas like the kneecap or forearm. Normal capillary refill time is less than two to three seconds. 
+
+Summary of Primary Circulation Assessment
+------------------------------------------------
+• Pulse rate and quality
+• Skin appearance: Color
+• Peripheral pulses
+• Skin temperature
+• Level of consciousness
+• Urinary output
+• Blood Pressure
+• Cardiac monitor
+• Invasive monitor
+
+DISABILITY:
+-------------------
+The basic, primary neurological assessment includes assessment of the level of consciousness; the size, shape, and response of the pupils; and motor sensory function. The simple method if AVPU should be used to evaluate the patient’s overall level of consciousness.
+
+The Glasgow Coma Scale (GCS) provides assessment of the patient’s level of consciousness and motor function and may serve as a predictor of morbidity and
+mortality after brain injury. If the patient has an altered mental status, it must be determined whether the patient has ingested any toxic substances, such as alcohol or other drugs, or may be hypoxic because of illness or injury. A patient with an altered mental status may pose a safety problem during transport. Use of chemical sedation or physical restraint may be necessary to ensure safe transport of the patient and EMS providers.
+
+Summary of Primary Disability (Neurological) Assessment
+----------------------------------------------------------------
+A - Alert
+V - Responds to verbal stimuli
+P - Responds to painful stimuli
+U - Unresponsive
+
+Glasgow Coma Scale (GCS)
+-------------------------------
+<table><tr><td><td>Infant < 1 year<td>Child 1 - 4 yrs<tr><td>Eye Opening<td>4 - Spontaneous
+3 - To voice
+2 - To Pain
+1 - No Response<td>4 - Spontaneous
+3 - To voice
+2 - To Pain
+1 - No Response<tr><td>Verbal Response<td>5 - Coos, Babbles
+4 - Irritable cry, consolable
+3 - Cries persistently to pain
+2 - Moans to pain
+1 - No response<td>5 - Speaks, interacts, social
+4 - Confused speech, consolable
+3 - Inappropriate, inconsolable
+2 - Incomprehensible, agitated
+1 - No response<tr><td>Motor Response<td>6 - Spontaneous
+5 - Withdraws (touch)
+4 - Withdraws (pain)
+3 - Decorticate flexion
+2 - Decerebrate extension
+1 - No response<td>6 - Spontaneous
+5 - Localizes (pain)
+4 - Withdraws (pain)
+3 - Decorticate flexion
+2 - Decerebrate extension
+1 - No response
+
+EXPOSURE:
+---------------
+As much of the patient’s body as possible should exposed for examination, depending on complaint, with the effects of the environment on the patient kept in mind. Discovery of hidden problems before the patient is loaded for transport may allow time to intervene and avoid disastrous complications. Although exposure for examination is emphasized most frequently in care of the trauma patient, it is equally important in the primary assessment of the patient with a medical illness.
+
+The pre-hospital provider should always look under dressings or clothing, which may hide complications or potential problems. Clothing may hide bleeding that occurs as a result of thrombolytic therapy or rashes that may indicate potentially contagious conditions. In inter-facility transport, intravenous access can be wrongly assumed underneath a bulky cover. Once patient assessment has been completed, keep in mind that the patient must be kept warm. Hypothermia can cause cardiac arrhythmias, increased stress response, and hypoxia.
+
+Summary of Primary Exposure Assessment
+-------------------------------------------
+• Identification of injury, active bleeding, or indication of a serious illness.
+• Appropriate tube placement:
+   o Endotracheal tubes,
+   o Chest tubes, feeding tubes,
+   o Naso-gastric or oro-gastric tubes, and urinary catheters.
+• Intravenous access:
+   o Peripheral
+   o Central
+   o Intraosseous
+
+SECONDARY FOCUSED ASSESSMENT:
+---------------------------------------
+The secondary assessment is performed after the primary assessment is completed and involves evaluation of the patient from head to toe. Illness specific information is collected by means of inspection, palpation, and auscultation during the secondary assessment. Whether the patient has had an injury or is critically ill, the pre-hospital provider should observe, and listen to the patient. 
+
+The secondary assessment begins with an evaluation of the patient’s general appearance. The pre-hospital provider should observe the surrounding environment and evaluate its effects on the patient. Is the patient aware of the environment? Is there appropriate interaction between the patient and the environment?
+
+Determination of the amount of pain the patient has as a result of illness or injury is also an important component of the patient assessment. Baseline information should be obtained about the pain the patient has so that the effectiveness of interventions can be assessed during transport. Pain relief is one of the most important interventions for prehospital patient care providers.
+
+Assessment Acronyms:
+-------------------------<b>S.A.M.P.L.E.</b>
+S - Signs and Symptoms
+A - Allergies
+M - Medications
+P - Pertinent Past Medical History
+L - Last Oral Intake
+E - Events Leading Up to the Event
+
+
+<b>O.P.Q.R.S.T.</b>
+O - Onset:<i>(When did the problem/pain begin?)</i>
+P - Provocation:<i>(What makes the problem/pain worse?)</i>
+Q - Quality:<i>(Can you describe the problem/pain?)</i>
+R - Radiation:<i>(Does the pain move anywhere?)</i>
+S - Severity:<i>(On a scale of 1-10, how bad is the pain?)</i>
+T - Time:<i>(Does the condition come and go? Duration?)</i>
+
+Summary of Secondary Assessment
+---------------------------------------------
+<table><tr><td>Skin<td>• Presence of petechia, purpura, abrasions, bruises, scars, or birthmarks
+• Lacerations, uncontrolled hemorrhage
+• Rashes
+• Abnormal skin turgor
+• Temperature
+• Signs of abuse or neglect<tr><td>Head and Neck<td>• Gross visual examination
+• Presence of lacerations, contusions, raccoon eyes, Battle’s sign, or drainage from the nose, mouth, and ears
+• Abnormal extra-ocular movements
+• Position of the trachea
+• Neck veins
+• Swallowing difficulties
+• Nuchal rigidity
+• Presence of lymphadenopathy or neck masses<tr><td>Eyes, Ears, and Nose<td>• Lack of tearing, Drainage, Sunken eyes
+• Color of sclera
+• Gross assessment of the hearing
+• Signs of infection or drainage<tr><td>Mouth and Throat<td>• Mucous membranes
+• Drooling
+• Breath odor
+• Drainage
+• Airway obstruction<tr><td>Thorax, Lungs, and Cardiovascular System<td>• Breath sounds
+• Heart Sounds<tr><td>Abdomen<td>• Shape and size
+• Bowel sounds
+• Tenderness
+• Firmness
+• Masses (i.e., suprapubic masses)
+• Color of drainage from naso-gastric or orogastric tubes<tr><td>Genitourinary<td>• Rectal bleeding
+• Color of urine
+• Urine output<tr><td>Extremities and Back<td>• Gross motor and sensory function
+• Peripheral & Central pulse comparison
+• Lack of use of an extremity
+• Deformity, angulation
+• Wounds, abrasions
+• Vertebral column, flank, buttocks
+
+

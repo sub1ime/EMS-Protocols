@@ -1,0 +1,66 @@
+Respiratory Distress/Asthma
+==============================
+OVERVIEW:
+-----------------
+Respiratory distress is characterized by a clinically recognizable increase in work of breathing while respiratory failure is characterized by ineffective respirations with a decreased level of consciousness. Acute respiratory emergencies in the pediatric patient are common. When not properly treated, respiratory distress can result in significant morbidity and mortality. One of the common causes of respiratory distress is asthma. The treatment of patients in severe asthmaticus must be prompt and efficient. Decisive intervention is mandatory to insure the best outcome. Appearance of the child reflects the adequacy of oxygenation and ventilation. An increased effort to breathe may indicate an airway obstruction or lack of oxygenation. Decreased breathing effort may indicate impending respiratory failure.
+
+HPI
+-------------
+• Time of onset
+• Possibility of foreign body
+• Medical history
+• Medications
+• Fever or respiratory infection
+• Other sick siblings
+• History of trauma
+
+Signs and Symptoms
+----------------------
+• Wheezing or stridor
+• Respiratory retractions
+• See-saw respirations
+• Diaphoresis
+• Tripod position
+• Increased heart rate
+• Altered LOC
+• Anxious appearance
+
+Considerations
+-----------------------
+• Asthma
+• Aspiration
+• Foreign body
+• Infection
+• Pneumonia, croup, epiglottitis
+• Congenital heart disease
+• Medication or toxin
+• Trauma
+
+Management
+----------------------------
+[management]
+
+Pediatric Dosage Chart
+----------------------------
+<table><tr><td>Term<td>6 months<td>1 year<td>3 years<td>6 years<td>8 years<td>10 years<td>12 years<td>14 years<tr><td>Weight (lb / kg)<td>6.6 lb
+3 kg<td>17 lb
+8 kg<td>22 lb
+10 kg<td>30 lb
+14 kg<td>44 lb
+20 kg<td>55 lb
+20 kg<td>75 lb
+34 kg<td>88 lb
+40 kg<td>110 lb
+50 kg<tr><td>Prednisone
+1-2 mg/kg<td><td><td><td>20.0 mg<td>20.0 mg<td>20.0 mg<td>40.0 mg<td>40.0 mg<td>60.0 mg<tr><td>Magnesium Sulfate
+40-45 mg/kg<td><td><td><td><td><td>800 mg<td>1.5 gm<td>1.5 gm<td>2.0 gm<tr><td>Epinephrine 1:1,000
+(1 mg / mL)
+0.01 mg / kg<td>0.03 mg<td>0.08 mg<td>0.1 mg<td>0.14 mg<td>0.2 mg<td>0.25 mg<td>0.3 mg<td>0.3 mg<td>0.3 mg
+
+PEARLS:
+----------------
+1. The most important component of respiratory distress is airway control.
+2. Any pediatric patient presenting with substernal and intercostal retractions is in immediate need of treatment and transport. Do not delay on scene with treatments that can be completed enroute.
+3. Intramuscular epinephrine administration assists with bronchodilation throughout lung tissue. In children < 8 years of age, it should be administered in the lateral thigh for optimal drug delivery. In children > 8 years of age, the deltoid can be used.
+4. With repeated nebulized treatments, patients will become tachycardic. Benefits of further treatments should be weighed against the risks of tachycardia. Don’t hesitate to call medical control for concerns or questions.
+

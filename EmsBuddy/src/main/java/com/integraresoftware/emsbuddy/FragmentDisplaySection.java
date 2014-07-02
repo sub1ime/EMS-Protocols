@@ -22,8 +22,8 @@ import com.integraresoftware.emsbuddy.data.SectionContract;
 import com.integraresoftware.emsbuddy.data.SubsectionContract;
 import com.integraresoftware.emsbuddy.data.SubtitlesContract;
 
-/**
- * Created by chris on 11/28/13.
+/*
+Display the different sections that are inside a protocol for the user to choose which to see
  */
 public class FragmentDisplaySection extends ListFragment implements LoaderCallbacks<Cursor> {
 

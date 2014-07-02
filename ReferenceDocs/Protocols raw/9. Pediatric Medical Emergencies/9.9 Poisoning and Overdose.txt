@@ -1,0 +1,52 @@
+Poisoning/ Overdose
+========================
+OVERVIEW:
+--------------------
+Ingestion and overdose are among the most common pediatric “accidents.” The substance usually is a medication prescribed for family members or for the child. Other commonly ingested poisons include cleaning chemicals, plants and anything that fits in a child’s mouth. Primary manifestations may be a depressed mental status and / or respiratory and cardiovascular compromise. Contact Medical Control for patient care orders. Contact Poison Control (804-828-1222 or 800-222-1222) for advice. <b>Do not confuse Poison Control with Medical Control</b>.
+
+HPI
+--------------------
+• Use or suspected use of a potentially toxic substance
+• Substance ingested, route, and quantity used
+• Time of use
+• Reason (suicidal, accidental, criminal)
+• Available medications in home
+
+Signs and Symptoms
+------------------------
+• Mental status changes
+• Hypotension / hypertension
+• Hypothermia / hyperthermia
+• Decreased respiratory rate
+• Tachycardia, other dysrhythmias
+• Seizures
+
+Considerations
+------------------
+• Acetaminophen (Tylenol)
+• Depressants
+• Stimulants
+• Anticholinergic
+• Cardiac medications
+• Solvents, alcohols
+• Cleaning agents
+• Insecticides
+
+Management
+----------------------
+[management]
+
+Pediatric Dose Chart
+-------------------------------
+<table><tr><td>Age<td>Pre-Term<td>Term<td>3 months<td>6 months<td>1 year<td>3 years<td>6 years<td>8 years<tr><td>Weight
+(lb / kg)<td>3.3 lb
+1.5 kg<td>6.6 lb
+3 kg<td>13.2 lb
+6 kg<td>17.6 lb
+8 kg<td>22 lb
+10 kg<td>30.8 lb
+14 kg<td>44 lb
+20 kg<td>55 lb
+25 kg<tr><td>Narcan IV
+0.1 mg / kg<td>0.15 mL<td>0.3 mL<td>0.6 mL<td>0.8 mL<td>1.0 mL<td>1.4 mL<td>2.0 mL<td>2.0 mL
+

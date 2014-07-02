@@ -1,0 +1,65 @@
+Fever
+======================
+OVERVIEW:
+------------------
+Fever is a common chief complaint of children encountered in the pre-hospital environment. Patients with fever present in many different ways, depending on the age of the patient, the rate of rise of the temperature, the magnitude of the fever, the etiology of the fever, and the underlying health of the patient. The patient’s skin will be warm to the touch, and may be flushed on observation. The patient may also complain of being warm and perspiring. It is important to recognize that fever represents a symptom of an underlying illness and the actual illness must be determined and treated. Flu-like symptoms may accompany fevers, but it should not be assumed that fevers with these symptoms are minor, as there may be a serious underlying medical condition. Febrile seizures usually are self-limiting and typically occur once from a rapid rise in temperature, usually above 101.8°F / 38.7°C. If more than one seizure occurs, causes other than fever should be suspected. The first occurrence of a seizure warrants the most concern, because the benign nature of the illness has not been established.
+
+HPI
+------------
+• Age
+• Duration of fever
+• Severity of fever
+• Any previous decrease or elevation of fever since onset
+• Past medical history
+• Medications
+• Immuno-compromised (transplant, HIV, diabetes, cancer)
+• Recent illness or socialization with others with illness.
+• Vaccinations
+• Poor PO intake
+• Urine production, decrease in diapers
+• Last acetaminophen dose
+
+Signs and Symptoms
+----------------------------
+• Altered mental status
+• Unconsciousness
+• Hot, dry, or flushed skin
+• Tachycardia
+• Hypotension, shock
+• Seizures
+• Nausea, vomiting
+• Weakness, dizziness, syncope
+• Restlessness
+• Loss of appetite
+• Decreased urine output
+• Rapid, shallow respirations
+• Associated symptoms (helpful in localizing source): Myalgias, cough, chest pain, headache, dysuria, abdominal pain, mental status changes, rash
+
+Considerations
+------------------
+• Infection, sepsis
+• Neoplasm’s, cancer, tumors, lymphomas
+• Medication or drug reaction
+• Connective tissue disease
+• Vasculitis
+• Thermoregulatory disorder
+• Hyperthyroid
+• Heat Stroke
+• Drug fever
+
+Management
+--------------------------
+[management]
+
+PEARLS:
+---------------------
+1. Fevers with rashes are abnormal and should be considered very serious.
+2. Fevers in infant’s ≤ 3 months old should be considered very serious.
+3. Patient may seize if temperature change is rapid, be cautious and prepared to manage both seizure activity and airway at all times.
+4. If fever is present with hypotension, it may indicate the patient is in septic shock.
+5. Febrile seizures are more likely in children with a history of febrile seizures.
+6. It is important to know if an elevation in temperature signals the abrupt onset of fever or represents the gradual worsening of a long-term fever.
+7. Cooling in the pre-hospital environment with water, alcohol, or ice is discouraged.
+8. Fevers in children of 104°F / 40°C for greater than 24 hours should be considered serious.
+9. A common error in the treatment of fever is to wrap the patient in multiple layers of clothing and blankets. This only contributes to the rise in temperature.
+

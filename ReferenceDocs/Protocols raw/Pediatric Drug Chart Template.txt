@@ -1,0 +1,22 @@
+Pediatric Drug Chart Template
+===================================
+
+<table><tr><td>Term<td>6 months<td>1 year<td>3 years<td>6 years<td>8 years<td>10 years<td>12 years<td>14 years<tr><td>Weight (lb / kg)<td>6.6 lb
+3 kg<td>17 lb
+8 kg<td>22 lb
+10 kg<td>30 lb
+14 kg<td>44 lb
+20 kg<td>55 lb
+20 kg<td>75 lb
+34 kg<td>88 lb
+40 kg<td>110 lb
+50 kg
+
+<tr><td>Epinephrine 1:1,000 (1 mg / mL)
+0.01 mg/kg<td>0.03 mg<td>0.08 mg<td>0.1 mg<td>0.14 mg<td>0.2mg<td>0.25 mg<td>0.3 mg<td>0.3 mg<td>0.3 mg
+
+<tr><td>Diphenhydramine
+1 mg/kg<td>3.0 mg<td>8.0 mg<td>10.0 mg<td>14.0 mg<td>20.0 mg<td>25 mg<td>34.0 mg<td>40.0 mg<td>50.0 mg
+
+<tr><td>Prednisone
+1 - 2 mg/kg<td><td><td><td>20.0 mg<td>20.0 mg<td>20.0 mg<td>40.0 mg<td>40.0 mg<td>60.0 mg

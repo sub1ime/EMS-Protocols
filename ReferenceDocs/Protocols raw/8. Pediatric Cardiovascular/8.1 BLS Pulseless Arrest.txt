@@ -1,0 +1,19 @@
+BLS Pulseless Arrest
+===================
+
+Simplified Ped Arrest Chart
+------------------------------
+<image>simplified_adult_bls_arrest
+
+POSSIBLE CAUSES OF PULSELESS ARREST
+---------------------------------------
+<Table><tr><td>A<td>Alcohol, Abuse, Acidosis<tr><td>E<td>Endocrine, Electrolytes, Encephalopathy<tr><td>I<td>Insulin<tr><td>O<td>Oxygenation, Overdose, Opiates<tr><td>U<td>Uremia<tr><td>T<td>Toxidromes, Trauma, Temperature, Tumor<tr><td>I<td>Infection, Intussusception<tr><td>P<td>Psychogenic, Porphyria, Pharmacological<tr><td>S<td>Space occupying lesion, Sepsis, Seizure, Shock
+
+PEARLS:
+---------------
+1. If airway is maintainable initially with a BVM, delay rescue airway insertion until after initial defibrillation. The best airway is an effective airway with the least potential complications.
+2. Continue CPR while AED is charging.
+3. CPR should not be stopped for any reason, if at all avoidable, other than to check rhythm immediately prior to defibrillation. Any stop of compressions should kept as short as possible, preferably a maximum of 10 seconds. Alternate airway placement should be performed during compressions.
+4. Pay close attention to rate of manual ventilation. Hyperventilation produces decrease in preload, cardiac output, coronary perfusion, and cerebral blood flow.
+5. AED’s may be used for patients all ages. For children less than 8 years of age, use an AED equipped with a pediatric attenuator. If an AED with pediatric attenuator is not available, use a standard AED.
+

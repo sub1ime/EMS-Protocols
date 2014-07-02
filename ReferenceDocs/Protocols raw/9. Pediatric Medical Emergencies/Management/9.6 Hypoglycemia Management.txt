@@ -1,0 +1,37 @@
+Hypoglycemia Peds
+
+=====================
+1. Perform general patient management.
+2. Support life-threatening problems associated with
+airway, breathing, and circulation.
+3. Assess for signs of trauma. Provide spinal
+immobilization as necessary.
+4. Administer oxygen to maintain SPO 2 94 - 99%
+5. For altered mental status, perform rapid glucose
+determination.
+6. If glucose < 60 mg / dL or clinical signs and symptoms
+indicate hypoglycemia:
+a. If the patient can protect airway, give Oral
+Glucose15 grams. Repeat in 15 minutes if
+necessary.
+7. If glucose < 60 mg / dL or clinical signs and symptoms
+indicate hypoglycemia and oral glucose is
+contraindicated: Establish an IV of normal saline at
+KVO
+a. If the patient is < 30 days old, administer
+DEXTROSE 10% (2 cc / kg) via IV or IO.
+b. If the patient is > 30 days old, but < 8 years old,
+administer DEXTROSE 25% (2 cc / kg) via IV or
+IO.
+c. If the patient is > 8 years old, administer
+DEXTROSE 50% (0.5 mg / kg, max 25 mg) via
+IV or IO.
+d. If unable to establish an IV, alternatively
+administer GLUCAGON
+• Under 20 kg: 0.5 mg IM
+• >20 kg 1 mg IM
+8. For signs and symptoms of hypovolemic shock or
+dehydration, follow the Pediatric Shock protocol.
+9. Place on cardiac monitor per patient assessment.
+10. Transport and perform ongoing assessment as
+indicated.
