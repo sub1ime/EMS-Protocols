@@ -43,77 +43,17 @@ Management
 
 Pediatric Dosage Chart
 ----------------------------
-Age
-Weight
-(lb / kg)
-Narcan IV
-0.1 mg/kg
-
-PreTerm
-3.3 lb
-1.5 kg
-0.15 ml
-
-6.6 lb
-3 kg
-
-3
-months
-13.2 lb
-6 kg
-
-6
-months
-17.6 lb
-8 kg
-
-0.3 ml
-
-0.6 ml
-
-0.8 ml
-
-Term
-
-B
-•
-
-EN
-•
-
-I
-•
-
-P
-•
-
-1 year
-
-3 years
-
-6 years
-
-8 years
-
-22 lb
-10 kg
-
-30.8 lb
-14 kg
-
-44 lb
-20 kg
-
-55 lb
-25 kg
-
-1.0 ml
-
-1.4 ml
-
-2.0 ml
-
-2.0 ml
+<table><tr><td>Age<td>Pre-Term<td>Term<td>3 months<td>6 months<td>1 year<td>3 years<td>6 years<td>8 years<tr><td>Weight
+(lb / kg)<td>3.3 lb
+1.5 kg<td>6.6 lb
+3 kg<td>13.2 lb
+6 kg<td>17.6 lb
+8 kg<td>22 lb
+10 kg<td>30.8 lb
+14 kg<td>44 lb
+20 kg<td>55 lb
+25 kg<tr><td>Narcan IV
+0.1 mg/kg<td>0.15 mL<td>0.3 mL<td>0.6 mL<td>0.8 mL<td>1.0 mL<td>1.4 mL<td>2.0 mL<td>2.0 mL
 
 PEARLS:
 --------------

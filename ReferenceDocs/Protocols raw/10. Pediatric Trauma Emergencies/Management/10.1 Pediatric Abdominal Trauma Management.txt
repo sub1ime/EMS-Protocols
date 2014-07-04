@@ -1,0 +1,22 @@
+Pediatric Abdominal Trauma
+
+=====================================
+1. Maintain scene and provider safety.
+2. Perform general patient management.
+3. Administer supplemental oxygen to maintain SPO 2
+94 - 99%. If need to assist ventilations with BVM,
+maintain C-spine precautions.
+4. Identify mechanism of injury.
+5. Establish large bore IV’s of normal saline. Titrate to
+an appropriate systolic blood pressure:
+a. Birth to 1 month - 60 mmHg
+b. 1 month to 1 year - > 70 mmHg
+c. Greater than 1 year - 70 + [2 x Age (years)]
+6. Treat pain if indicated. Refer to Pediatric Pain
+Management protocol.
+7. Consider ONDANSETRON (ZOFRAN) 0.1mg / kg
+slow IVP over 2 – 5 minutes, max 4.0 mg per dose
+as needed per Pediatric Nausea and vomiting
+protocol.
+8. Transport to the appropriate hospital per Trauma
+Triage Scheme and reassess as indicated.

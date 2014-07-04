@@ -1,0 +1,45 @@
+Electrical Injuries
+=====================
+Overview
+-------------------
+The vast majority of electrical injuries are caused by generated electricity, such as that encountered in power lines and household outlets. Relative to the external damage caused by electrical injuries, internal damage is often more severe, and can include damage to muscles, blood vessels, organs, and nerves. Damaged muscle releases myoglobin and potassium, which can precipitate in the kidneys and cause acute renal failure.
+
+Electrical current as low as 20 mA can cause respiratory arrest and as little as 50 mA can cause ventricular fibrillation. Although long-bone fractures and spinal injuries can occur due to falls after electrocution, they can additionally occur due to severe tetanic muscle spasms with high amplitude electrocutions. Before treating any patient with an electrical injury, ensure your personal safety. Do not touch the patient, if the patient is still in contact with the electrical source.
+
+HPI
+--------
+• Lightning or electrical exposure
+• Single or multiple victims
+• Trauma secondary to fall from high wire or
+• MVC into line
+• Duration of exposure
+• Voltage and current (AC / DC)
+
+Signs and Symptoms
+---------------------
+• Burns
+• Pain
+• Entry and exit wounds
+• Hypotension and shock
+• Cardiac and / or respiratory arrest
+
+Considerations
+---------------
+• Cardiac arrest
+• Respiratory arrest
+• Seizure
+• Burns
+• Multisystem trauma
+
+Management
+-------------------------
+[management]
+
+PEARLS:
+---------------
+1. Ventricular fibrillation and asystole are the common presenting dysrhythmias associated with electrical injuries.
+2. Injuries are often hidden. The most severe injuries will occur internally in the muscles, vessels, organs, and nerves.
+3. Do not overlook other trauma (i.e., falls).
+4. Lightning is a massive DC shock most often leading to asystole as a dysrhythmia.
+5. In lightning injuries, most of the current will travel over the body surface producing flash burns over the body that appears as freckles.
+

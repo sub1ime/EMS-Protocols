@@ -1,0 +1,56 @@
+Head Injury
+===================
+OVERVIEW:
+-------------
+Brain injury and its accompanying pathologic processes continue to be the leading cause of mortality associated with trauma. Whether the injury is due to a blunt or penetrating mechanism, bleeding or swelling of the brain and surrounding tissue may lead to an increase in pressure within the cranial cavity, otherwise known as intracranial pressure, (ICP). If pressure within the skull is not controlled, neurologic changes may produce signs and symptoms ranging from headache to coma with loss of protective reflexes. Blunt force trauma may result in scalp injury, skull fracture, and meningeal and brain tissue injury. Penetrating trauma may produce focal or diffuse injury, depending on the velocity of the penetrating object. Although the pre-hospital provider cannot reverse the brain tissue damage from the initial / primary brain injury that has already occurred, they can play a major role in preventing or limiting the processes that exacerbate and lead to a secondary brain injury. The pre-hospital provider’s goal is to focus on reversing any hypoxia, hypotension, hypercarbia, acidosis, or increasing intracranial pressure.
+
+HPI
+---------
+• Time of injury
+• Mechanism: blunt vs penetrating
+• Loss of consciousness
+• Bleeding
+• Past medical history
+• Medications
+• Evidence of multisystem trauma
+
+Signs and Symptoms
+--------------------
+• Pain, swelling, bleeding
+• Altered mental status, unconsciousness
+• Respiratory distress, failure
+• Vomiting
+• Seizure
+• Major traumatic mechanism of injury
+
+Considerations
+------------------
+• Skull fracture
+• Brain injury (concussion, contusion, hemorrhage, or laceration)
+• Epidural hematoma
+• Subdural hematoma
+• Subarachnoid hemorrhage
+• Spinal injury
+• Abuse
+
+Management
+------------------
+[management]
+
+PEARLS:
+---------------
+1. Hyperventilation is not recommended with head-injury patients.
+2. One of the most important indicators of worsening head injury is a change in LOC and / or GCS.
+3. Increased ICP may cause hypertension and bradycardia (Cushing’s response).
+4. Hypotension usually indicates injury or shock unrelated to the head injury and should be treated aggressively.
+5. A decrease of two (2) or more in the patient’s GCS should be considered due to a severe head injury until proven otherwise.
+6. Supine positioning may also increase ICP transiently. The patient may benefit from a reverse Trendelenburg position; however, it may reduce cerebral blood flow, especially if the head is elevated greater than 30°. If the patient is immobilized to a backboard, slightly elevate (15° or less) the head end of the board.
+7. Recognize that “normal” blood pressure is not as important as “normal for the patient” when assessing maintenance of adequate cerebral blood flow and
+adequate cerebral perfusion.
+
+Glasgow Coma Scale Modified for Pediatric Patients
+-------------------------------------------------------
+Glasgow Coma Scale Modified for Pediatric Patients
+<table><tr><td>Eye Opening Response<td>< 1 year<tr><td>4<td>Spontaneous<tr><td>3<td>To shout<tr><td>2<td>To pain<tr><td>1<td>None<tr><td>Verbal Response<td>0 to 2 years<tr><td>5<td>Babbles, coos appropriately<tr><td>4<td>Cries but inconsolably<tr><td>3<td>Persistent crying or screaming in pain<tr><td>2<td>Grunts or moans to pain<tr><td>1<td>None<tr><td>Motor Response<td>< 1 year<tr><td>6<td>Spontaneous<tr><td>5<td>Localizes pain<tr><td>4<td>Withdraws to pain<tr><td>3<td>Abnormal flexion to pain (decerebrate)<tr><td>2<td>Abnormal extension to pain (decordicate)<tr><td>1<td>None
+
+

@@ -1,0 +1,60 @@
+Burns
+===============
+OVERVIEW:
+--------------------
+Burns are a devastating form of trauma associated with high mortality rates, lengthy rehabilitation, cosmetic disfigurement, and permanent physical disabilities. Thermal, chemical, electrical, (nuclear) radiation or solar sources may cause burns. Burns can affect more than just the skin. Burns are classified by degree, 1° (superficial) some reddening to skin, 2° (partial thickness) has blistering and deep reddening to the skin, and 3° (full thickness) causes damage to all skin layers and is either charred / black or white / leathery with little or no pain at the site. The patient’s palm equals 1% of body surface area when determining the area affected. Scald injuries are more common in younger children while flame injuries are more common in older children and account for the most fatalities. Smoke inhalation is the most common cause of death in the first hour after a burn injury. Children who have burn injuries are at a greater risk than adults for shock and hypothermia because of their proportionately large body surface.
+
+HPI
+----------
+• Type of exposure (heat, gas, chemical)
+• Inhalation injury
+• Time of injury
+• Past medical history
+• Medications
+• Other trauma
+
+Signs and Symptoms
+-------------------------
+• Burns, pain, swelling
+• Dizziness
+• Loss of consciousness
+• Hypotension/ shock
+• Airway compromise, distress
+• Singed facial or nasal hair
+• Hoarseness, wheezing
+
+Considerations
+--------------------
+• Superficial (1°), red and painful
+• Partial thickness (2°), blistering
+• Full thickness (3°), painless and charred leathery skin
+• Chemical, Thermal, Radiation
+
+Management
+-------------------------
+[management]
+
+Parkland Formula for Fluid Resuscitation
+-----------------------------------------------------
+(2 - 4 ml x Patient weight in KG) X BSA = 24 hour fluid requirement
+Administer ½ of 24 hour requirement over first 8 hours.
+
+**Normal Saline or Lactated Ringers are fluids of choice in burn patients.**
+
+<b>Do not administer the entire first 8 hours IV fluid bolus during the initial resuscitation. Excessive fluid resuscitation can lead to compartment syndromes.</b>
+
+PEARLS:
+------------------
+1. Remove patient’s clothing as appropriate. Remove rings, bracelets and other constricting items in areas of burn, if possible.
+2. Critical burns: burns over > 25% TBSA; 2° burns > 10% TBSA; 2° and 3° burns to the face, eyes, hands, or feet; electrical burns; respiratory burns; deep chemical burns; burns with extremes of age or chronic disease; and burns with associated major traumatic injury. These patients should be transferred directly to a Burn Center.
+3. Have a high index of suspicion and a low intubation threshold when treating burn patients with possible airway involvement. Early intubation is recommended in significant inhalation injuries.
+4. Circumferential burns to extremities are dangerous due to potential vascular compromise secondary to soft tissue swelling.
+5. Burn patients are prone to hypothermia – never cool burns that involve > 15% TBSA.
+6. Never overlook the possibility of multi-system trauma.
+7. Burns are extremely painful. Strongly consider pain management medications as needed.
+8. Assess for potential child abuse and follow appropriate reporting mechanism as needed.
+9. Keep the child warm and protect from hypothermia. Be cautious with cool dressings.
+
+<image>ped_burn_chart
+
+

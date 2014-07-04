@@ -1,0 +1,57 @@
+Abdominal Trauma
+=======================
+OVERVIEW:
+------------------
+Blunt and penetrating traumas are major causes of morbidity and mortality in the United States. Pediatric abdominal anatomy differs from adults in several unique ways. There is significantly less protection due to thinner muscle walls and less fat. Ribs protecting the thoracic abdomen have increased flexibility more easily allowing the ribs to injure the abdominal organs. Solid organs within the pediatric abdomen have a larger surface area thus a greater area is exposed for potential injury. The organ attachments are also more elastic, increasing the chances of tearing and shearing injuries. Lastly, the bladder extends to the umbilicus in the pediatric patient, increasing its chance for injury. When performing a focused abdominal assessment, be organized, efficient, and thorough. Initial abdominal examinations only identify injury about 65% of the time; secondary exams are needed when there is a high index of suspicion for abdominal trauma. A proper abdominal examination involves exposing the entire abdomen from the nipple line to the groin and using a standard examination sequence of inspection, auscultation, percussion, and palpation.
+
+HPI
+--------------
+• Time of injury
+• Mechanism: blunt vs penetrating
+• Loss of consciousness
+• Damage to structure, vehicle
+• Location in structure or vehicle
+• Speed, details of MVC
+• Restraints, protective devices
+• Medical history
+• Medications
+• Evidence of multisystem trauma
+
+Signs and Symptoms
+--------------------------------
+• Pain, swelling, bleeding
+• Deformity, lesions
+• Altered mental status, unconsciousness
+• Respiratory distress, failure
+• Hypotension, shock
+• Arrest
+• Significant mechanism of injury
+
+Considerations
+------------------------
+• Intra-abdominal bleeding
+• Pelvis fracture
+• Abuse
+
+Management
+-----------------------------
+[management]
+
+Impaled objects
+-------------------------
+Stabilize impaled objects in place with bulky dressings.
+
+Severe hemorrhage from open penetrating injury
+---------------------------------------------------------------
+Control bleeding with well-aimed direct pressure directly on the bleeding source. Once controlled apply dry, sterile dressing.
+
+Evisceration with protruding abdominal contents
+-----------------------------------------------------------
+Loosely wrap any protruding abdominal contents with a sterile dressing moistened with Normal Saline and cover in entirety with an occlusive dressing over top.
+
+PEARLS:
+--------------
+1. The amount of external bleeding is not an indicator of the potential severity of internal bleeding associated with an underlying trauma.
+2. Abdominal eviscerations are a surgical emergency. The protruding organ requires careful cleaning and evaluation prior to reinsertion. Do not attempt to reinsert the organs in the pre-hospital setting.
+3. Impaled objects in the abdomen often tamponade internal hemorrhage, and removing them may trigger significant internal bleeding. Remember that any bump against the object moves the distal end in the organ and worsens damage.
+
