@@ -1,23 +1,43 @@
 Thoracic Trauma
-
+protocolid=44
 =================================
-1. Maintain scene and provider safety.
-2. Perform general patient management.
-3. Administer oxygen, to maintain SPO 2 94 - 99%. If
-needed, assist ventilations with BVM, maintain C-spine
-precautions.
-4. If airway remains unstable, consider placement of
-definitive airway (Supraglottic / dual lumen / ETT I and P
-only).
-5. Identify mechanism of injury.
-6. Assess breath sounds. Stabilize any chest injuries.*
-7. If patient has clinical findings consistent with tension
-pneumothorax and has hypotension/signs of shock,
-perform needle decompression* per protocol.
-8. Establish large bore IV’s of normal saline. Titrate to
-systolic blood pressure of 90 to 100 mmHg.
-9. Place patient on cardiac monitor per assessment.
-10. Treat pain if indicated. Refer to pain management
-protocol.
-11. Transport to the appropriate hospital per trauma triage
-scheme and reassess patient as indicated.
+EMTP/EMTI
+-------------------
+<table><tr><td>1.<td>Maintain scene and provider safety.
+<tr><td>2.<td>Perform general patient management.
+<tr><td>3.<td>Administer oxygen, to maintain <i><u>SPO</u></i><sub>2</sub> 94 - 99%. If needed, assist ventilations with BVM, maintain C-spine precautions.
+<tr><td>4.<td>If airway remains unstable, consider placement of definitive airway (<i><u>Supraglottic / dual lumen</u></i> / <i><u>ETT</u></i> I and P only).
+<tr><td>5.<td>Identify mechanism of injury.
+<tr><td>6.<td>Assess breath sounds. Stabilize any chest injuries.*
+<tr><td>7.<td>If patient has clinical findings consistent with tension pneumothorax and has hypotension/signs of shock, perform <i><u>needle decompression</u></i>* per protocol.
+<tr><td>8.<td>Establish large bore IV’s of normal saline. Titrate to systolic blood pressure of 90 to 100 mmHg.
+<tr><td>9.<td>Place patient on cardiac monitor per assessment.
+<tr><td>10.<td>Treat pain if indicated. Refer to <i><u>pain management protocol</u></i>.
+<tr><td>11.<td>Transport to the appropriate hospital per <i><u>trauma triage scheme</u></i> and reassess patient as indicated.
+
+EMTEN
+-------------
+<table><tr><td>1.<td>Maintain scene and provider safety.
+<tr><td>2.<td>Perform general patient management.
+<tr><td>3.<td>Administer oxygen, to maintain <i><u>SPO</u></i><sub>2</sub> 94 - 99%. If needed, assist ventilations with BVM, maintain C-spine precautions.
+<tr><td>4.<td>Identify mechanism of injury.
+<tr><td>5.<td>Assess breath sounds. Stabilize any chest injuries.*
+<tr><td>6.<td>Establish large bore IV’s of normal saline. Titrate to systolic blood pressure of 90 to 100 mmHg.
+<tr><td>7.<td>Transport to the appropriate hospital per <i><u>trauma triage scheme</u></i> and reassess patient as indicated.
+
+EMTB
+-------
+<table><tr><td>1.<td>Maintain scene and provider safety.
+<tr><td>2.<td>Perform general patient management.
+<tr><td>3.<td>Administer oxygen, to maintain <i><u>SPO</u></i><sub>2</sub> 94 - 99%. If needed, assist ventilations with BVM, maintain C-spine precautions.
+<tr><td>4.<td>Identify mechanism of injury.
+<tr><td>5.<td>Assess breath sounds. Stabilize any chest injuries.*
+<tr><td>6.<td>Transport to the appropriate hospital per <i><u>trauma triage scheme</u></i> and reassess patient as indicated.
+
+EMTA
+-------------
+<table><tr><td>1.<td>Maintain scene and provider safety.
+<tr><td>2.<td>Perform general patient management.
+<tr><td>3.<td>Administer oxygen, to maintain <i><u>SPO</u></i><sub>2</sub> 94 - 99%. If needed, assist ventilations with BVM, maintain C-spine precautions.
+<tr><td>4.<td>Identify mechanism of injury.
+

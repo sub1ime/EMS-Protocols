@@ -1,0 +1,44 @@
+Hyperglycemia
+protocolid=24
+===================
+EMTP/I
+---------------------
+<table><tr><td>1.<td>Perform general patient management.
+<tr><td>2.<td>Support life-threatening problems associated with airway, breathing, and circulation.
+<tr><td>3.<td>Assess for signs of trauma. Provide spinal immobilization as necessary.
+<tr><td>4.<td>Administer oxygen to maintain <i><u>SPO</u></i><sub>2</sub> 94 - 99%
+<tr><td>5.<td>For altered mental status, perform rapid glucose determination.
+<tr><td>6.<td>If glucose greater than 300 mg / dL, start an IV of normal saline.
+<tr><td>7.<td>For signs and symptoms of hypovolemic shock or dehydration, follow the <i><u>Shock protocol</u></i>.
+<tr><td>8.<td>Place on cardiac monitor and obtain / interpret <i><u>12 lead ECG</u></i> as indicated.
+<tr><td>9.<td>Transport and perform ongoing assessment as indicated.
+
+EMTEN
+--------------
+<table><tr><td>1.<td>Perform general patient management.
+<tr><td>2.<td>Support life-threatening problems associated with airway, breathing, and circulation.
+<tr><td>3.<td>Assess for signs of trauma. Provide spinal immobilization as necessary.
+<tr><td>4.<td>Administer oxygen to maintain <i><u>SPO</u></i><sub>2</sub> 94 - 99%
+<tr><td>5.<td>For altered mental status, perform rapid glucose determination.
+<tr><td>6.<td>If glucose greater than 300 mg / dL, start an IV of normal saline.
+<tr><td>7.<td>For signs and symptoms of hypovolemic shock or dehydration, follow the <i><u>Shock protocol</u></i>.
+<tr><td>8.<td>Transport and perform ongoing assessment as indicated.
+
+EMTB
+------------
+<table><tr><td>1.<td>Perform general patient management.
+<tr><td>2.<td>Support life-threatening problems associated with airway, breathing, and circulation.
+<tr><td>3.<td>Assess for signs of trauma. Provide spinal immobilization as necessary.
+<tr><td>4.<td>Administer oxygen to maintain <i><u>SPO</u></i><sub>2</sub> 94 - 99%
+<tr><td>5.<td>For altered mental status, perform rapid glucose determination.
+<tr><td>6.<td>For signs and symptoms of hypovolemic shock or dehydration, follow the <i><u>Shock protocol</u></i>.
+<tr><td>7.<td>Transport and perform ongoing assessment as indicated.
+
+EMTA
+-------------
+<table><tr><td>1.<td>Perform general patient management.
+<tr><td>2.<td>Support life-threatening problems associated with airway, breathing, and circulation.
+<tr><td>3.<td>Assess for signs of trauma. Provide spinal immobilization as necessary.
+<tr><td>4.<td>Administer oxygen to maintain <i><u>SPO</u></i><sub>2</sub> 94 - 99%
+<tr><td>5.<td>For signs and symptoms of hypovolemic shock or dehydration, follow the <i><u>Shock protocol</u></i>.
+

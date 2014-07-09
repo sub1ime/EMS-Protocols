@@ -1,19 +1,21 @@
 Elder Abuse
-
+protocolid=42
 ==========================
-1. Perform general patient management.
-2. Support life-threatening problems; C-spine precautions.
-3. Administer oxygen, to maintain SPO 2 94 - 99%. Support
-respirations as necessary with a BVM.
-4. Observe and record objectively the surroundings and
-conditions of the scene and patient.
-5. Refer to the appropriate Medical or Trauma Patient Care
-protocol for obvious injuries / illnesses.
-6. UNDER VIRGINIA LAW, EMS PROVIDERS ARE
-MANDATORY REPORTERS OF SUSPECTED ELDER
-ABUSE. (VA code 63.2-1606) Report suspicions to the
-receiving facility emergency department attending
-physician on arrival, or report suspicions immediately to
-Adult Protective Services. APS Hotline: 888-83-ADULT
-(888-832-3858).
-7. Transport as soon as possible.
+EMTP/EMTI/EMTEN/EMTB
+-----------------------
+<table><tr><td>1.<td>Perform general patient management.
+<tr><td>2.<td>Support life-threatening problems; C-spine precautions.
+<tr><td>3.<td>Administer oxygen, to maintain <i><u>SPO</u></i><sub>2</sub> 94 - 99%. Support respirations as necessary with a BVM.
+<tr><td>4.<td>Observe and record objectively the surroundings and conditions of the scene and patient.
+<tr><td>5.<td>Refer to the appropriate <i><u>Medical</u></i> or <i><u>Trauma</u></i> Patient Care protocol for obvious injuries / illnesses.
+<tr><td>6.<td>UNDER VIRGINIA LAW, EMS PROVIDERS ARE MANDATORY REPORTERS OF SUSPECTED ELDER ABUSE. (<i><u>VA code 63.2-1606</u></i>) Report suspicions to the receiving facility emergency department attending physician on arrival, or report suspicions immediately to Adult Protective Services. <b>APS Hotline: 888-83-ADULT (888-832-3858)</b>.
+<tr><td>7.<td>Transport as soon as possible.
+
+EMTA
+-----------
+<table><tr><td>1.<td>Perform general patient management.
+<tr><td>2.<td>Support life-threatening problems; C-spine precautions.
+<tr><td>3.<td>Administer oxygen, to maintain <i><u>SPO</u></i><sub>2</sub> 94 - 99%. Support respirations as necessary with a BVM.
+<tr><td>4.<td>Observe and record objectively the surroundings and conditions of the scene and patient.
+<tr><td>5.<td>Refer to the appropriate <i><u>Medical</u></i> or <i><u>Trauma</u></i> Patient Care protocol for obvious injuries / illnesses.
+<tr><td>6.<td>UNDER VIRGINIA LAW, EMS PROVIDERS ARE MANDATORY REPORTERS OF SUSPECTED ELDER ABUSE. (<i><u>VA code 63.2-1606</u></i>) Report suspicions to the receiving facility emergency department attending physician on arrival, or report suspicions immediately to Adult Protective Services. <b>APS Hotline: 888-83-ADULT (888-832-3858)</b>.

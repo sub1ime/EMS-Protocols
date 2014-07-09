@@ -211,7 +211,7 @@ public class FragmentDisplaySubsection extends Fragment implements
                 LinearLayout.LayoutParams.WRAP_CONTENT, 10);
         llTitle.addView(ll, lpt);
 
-        // if there is text before the image we want to place it after the image
+        // if there is text before the image we want to place it before the image
         if(imageStringLocation[0].length() > 2) {
             // we need a scrollview to put the ll in so we can scroll down if needed
             ScrollView sv = new ScrollView(activity);

@@ -1,25 +1,53 @@
 Difficult Airway
-
+protocolid=33
 ===========================
-1. Perform general patient management.
-2. Assess mechanism of injury and / or nature of illness.
-Protect C-spine if necessary.
-3. Administer Oxygen to maintain SPO 2 94 - 99%
-4. Assess patient ability to control airway and adequacy of
-ventilations. Do not hypo or hyperventilate.
-5. Use head-tilt-chin-lift or jaw thrust as appropriate to open
-airway. Use oral or nasal airway adjuncts to support as
-appropriate.
-6. Support ventilations with two man bag-valve-mask
-ventilations if personnel is available.
-7. If unable to maintain airway, consider oral (I or P) or
-nasal (P only) intubation.
-8. If unable to successfully intubate, attempt to use an
-alternative airway to secure airway.
-9. If still unable to maintain airway, consider medication
-facilitated intubation* or use alternative airway as a
-rescue device.
-10. If still unable to maintain airway, consider surgical
-airway.*
-11. Transport promptly.
-12. Continuously monitor patient’s airway.
+EMTP
+-----------------
+<table><tr><td>1.<td>Perform general patient management.
+<tr><td>2.<td>Assess mechanism of injury and / or nature of illness. Protect C-spine if necessary.
+<tr><td>3.<td>Administer Oxygen to maintain <i><u>SPO</u></i><sub>2</sub> 94 - 99%
+<tr><td>4.<td>Assess patient ability to control airway and adequacy of ventilations. Do not hypo or hyperventilate.
+<tr><td>5.<td>Use head-tilt-chin-lift or jaw thrust as appropriate to open airway. Use oral or nasal airway adjuncts to support as appropriate.
+<tr><td>6.<td>Support ventilations with two man bag-valve-mask ventilations if personnel is available.
+<tr><td>7.<td>If unable to maintain airway, consider oral (I or P) or nasal (P only) intubation.
+<tr><td>8.<td>If unable to successfully intubate, attempt to use an <i><u>alternative airway</u></i> to secure airway.
+<tr><td>9.<td>If still unable to maintain airway, consider medication facilitated intubation* or use alternative airway as a rescue device.
+<tr><td>10.<td>If still unable to maintain airway, consider <i><u>surgical airway</u></i>.*
+<tr><td>11.<td>Transport promptly.
+<tr><td>12.<td>Continuously monitor patient’s airway.
+
+EMTI
+-----------
+<table><tr><td>1.<td>Perform general patient management.
+<tr><td>2.<td>Assess mechanism of injury and / or nature of illness. Protect C-spine if necessary.
+<tr><td>3.<td>Administer Oxygen to maintain <i><u>SPO</u></i><sub>2</sub> 94 - 99%
+<tr><td>4.<td>Assess patient ability to control airway and adequacy of ventilations. Do not hypo or hyperventilate.
+<tr><td>5.<td>Use head-tilt-chin-lift or jaw thrust as appropriate to open airway. Use oral or nasal airway adjuncts to support as appropriate.
+<tr><td>6.<td>Support ventilations with two man bag-valve-mask ventilations if personnel is available.
+<tr><td>7.<td>If unable to maintain airway, consider oral (I or P) or nasal (P only) intubation.
+<tr><td>8.<td>If unable to successfully intubate, attempt to use an <i><u>alternative airway</u></i> to secure airway.
+<tr><td>9.<td>Transport promptly.
+<tr><td>10.<td>Continuously monitor patient’s airway.
+
+EMTEN/EMTB
+--------
+<table><tr><td>1.<td>Perform general patient management.
+<tr><td>2.<td>Assess mechanism of injury and / or nature of illness. Protect C-spine if necessary.
+<tr><td>3.<td>Administer Oxygen to maintain <i><u>SPO</u></i><sub>2</sub> 94 - 99%
+<tr><td>4.<td>Assess patient ability to control airway and adequacy of ventilations. Do not hypo or hyperventilate.
+<tr><td>5.<td>Use head-tilt-chin-lift or jaw thrust as appropriate to open airway. Use oral or nasal airway adjuncts to support as appropriate.
+<tr><td>6.<td>Support ventilations with two man bag-valve-mask ventilations if personnel is available.
+<tr><td>7.<td>If unable to successfully intubate, attempt to use an <i><u>alternative airway</u></i> to secure airway.
+<tr><td>8.<td>Transport promptly.
+<tr><td>9.<td>Continuously monitor patient’s airway.
+
+EMTA
+-----------
+<table><tr><td>1.<td>Perform general patient management.
+<tr><td>2.<td>Assess mechanism of injury and / or nature of illness. Protect C-spine if necessary.
+<tr><td>3.<td>Administer Oxygen to maintain <i><u>SPO</u></i><sub>2</sub> 94 - 99%
+<tr><td>4.<td>Assess patient ability to control airway and adequacy of ventilations. Do not hypo or hyperventilate.
+<tr><td>5.<td>Use head-tilt-chin-lift or jaw thrust as appropriate to open airway. Use oral or nasal airway adjuncts to support as appropriate.
+<tr><td>6.<td>Support ventilations with two man bag-valve-mask ventilations if personnel is available.
+<tr><td>7.<td>Continuously monitor patient’s airway.
+

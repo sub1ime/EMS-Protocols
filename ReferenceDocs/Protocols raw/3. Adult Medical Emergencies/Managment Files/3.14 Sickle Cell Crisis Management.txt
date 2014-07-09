@@ -1,15 +1,38 @@
 Sickle Cell Crisis
-
+protocolid=31
 ================================
-Perform general patient management.
-Administer oxygen to maintain SPO 2 94 - 99%
-Determine patient’s pain score assessment.
-Consider differential diagnoses for patient’s pain.
-Establish IV of Normal Saline per patient assessment.
-Administer bolus if needed.
-6. If significant pain, refer to Pain Management protocol.
-Sickle cell patients may be given higher doses of
-FENTANYL and MORPHINE SULFATE.
-7. Repeat the patient’s pain score assessment.
-8. Transport in position of comfort and reassess as
-indicated.
+EMTP/EMTI
+--------------
+<table><tr><td>1.<td>Perform general patient management.
+<tr><td>2.<td>Administer oxygen to maintain <i><u>SPO</u></i><sub>2</sub> 94 - 99%
+<tr><td>3.<td>Determine patient’s pain score assessment.
+<tr><td>4.<td>Consider differential diagnoses for patient’s pain.
+<tr><td>5.<td>Establish IV of Normal Saline per patient assessment. Administer bolus if needed.
+<tr><td>6.<td>If significant pain, refer to <i><u>Pain Management</u></i> protocol. Sickle cell patients may be given higher doses of <i><u>FENTANYL</u></i> and <i><u>MORPHINE SULFATE</u></i>.
+<tr><td>7.<td>Repeat the patient’s pain score assessment.
+<tr><td>8.<td>Transport in position of comfort and reassess as indicated.
+
+EMTEN
+------------
+<table><tr><td>1.<td>Perform general patient management.
+<tr><td>2.<td>Administer oxygen to maintain <i><u>SPO</u></i><sub>2</sub> 94 - 99%
+<tr><td>3.<td>Determine patient’s pain score assessment.
+<tr><td>4.<td>Consider differential diagnoses for patient’s pain.
+<tr><td>5.<td>Establish IV of Normal Saline per patient assessment. Administer bolus if needed.
+<tr><td>6.<td>Transport in position of comfort and reassess as indicated.
+
+EMTB
+----------
+<table><tr><td>1.<td>Perform general patient management.
+<tr><td>2.<td>Administer oxygen to maintain <i><u>SPO</u></i><sub>2</sub> 94 - 99%
+<tr><td>3.<td>Determine patient’s pain score assessment.
+<tr><td>4.<td>Consider differential diagnoses for patient’s pain.
+<tr><td>5.<td>Transport in position of comfort and reassess as indicated.
+
+EMTA
+------
+<table><tr><td>1.<td>Perform general patient management.
+<tr><td>2.<td>Administer oxygen to maintain <i><u>SPO</u></i><sub>2</sub> 94 - 99%
+<tr><td>3.<td>Determine patient’s pain score assessment.
+<tr><td>4.<td>Consider differential diagnoses for patient’s pain.
+

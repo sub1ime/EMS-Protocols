@@ -1,0 +1,47 @@
+Nausea and vomitting managment
+protocolid=26
+==============================
+EMTI/EMTP
+-----------------
+<table><tr><td>1.<td>Perform general patient management.
+<tr><td>2.<td>Support life-threatening problems associated with airway, breathing, and circulation.
+<tr><td>3.<td>Administer oxygen to maintain <i><u>SPO</u></i><sub>2</sub> 94 - 99%
+<tr><td>4.<td>Allow the patient to lie in a comfortable position.
+<tr><td>5.<td>Establish an IV of normal saline per patient assessment.
+<tr><td>6.<td>Assess for signs of shock. If shock is suspected, follow the <i><u>Shock protocol</u></i>.
+<tr><td>7.<td>Place the patient on the cardiac monitor and obtain / interpret <i><u>12 lead ECG</u></i>.
+<tr><td>8.<td>For severe nausea or vomiting, if available, give <i><u>ODANSETRON (ZOFRAN)</u></i> administer 0.1 mg / kg IV / IM up to 4 mg over 2 to 5 minutes.*
+<tr><td>9.<td>May repeat <i><u>ODANSETRON IV</u></i> dosing in adult after 10 minutes if needed
+<tr><td>10.<td>Transport and perform ongoing assessment as indicated.
+
+EMTEN
+------------
+<table><tr><td>1.<td>Perform general patient management.
+<tr><td>2.<td>Support life-threatening problems associated with airway, breathing, and circulation.
+<tr><td>3.<td>Administer oxygen to maintain <i><u>SPO</u></i><sub>2</sub> 94 - 99%
+<tr><td>4.<td>Allow the patient to lie in a comfortable position.
+<tr><td>5.<td>Establish an IV of normal saline per patient assessment.
+<tr><td>6.<td>Assess for signs of shock. If shock is suspected, follow the <i><u>Shock protocol</u></i>.
+<tr><td>7.<td>Place the patient on the cardiac monitor and obtain / interpret <i><u>12 lead ECG</u></i>.
+<tr><td>8.<td>Transport and perform ongoing assessment as indicated.
+
+EMTB
+------------
+<table><tr><td>1.<td>Perform general patient management.
+<tr><td>2.<td>Support life-threatening problems associated with airway, breathing, and circulation.
+<tr><td>3.<td>Administer oxygen to maintain <i><u>SPO</u></i><sub>2</sub> 94 - 99%
+<tr><td>4.<td>Allow the patient to lie in a comfortable position.
+<tr><td>5.<td>Assess for signs of shock. If shock is suspected, follow the <i><u>Shock protocol</u></i>.
+<tr><td>6.<td>Place the patient on the cardiac monitor and obtain / interpret <i><u>12 lead ECG</u></i>.
+<tr><td>7.<td>Transport and perform ongoing assessment as indicated.
+
+EMTA
+----------
+<table><tr><td>1.<td>Perform general patient management.
+<tr><td>2.<td>Support life-threatening problems associated with airway, breathing, and circulation.
+<tr><td>3.<td>Administer oxygen to maintain <i><u>SPO</u></i><sub>2</sub> 94 - 99%
+<tr><td>4.<td>Allow the patient to lie in a comfortable position.
+<tr><td>5.<td>Assess for signs of shock. If shock is suspected, follow the <i><u>Shock protocol</u></i>.
+<tr><td>6.<td>Transport and perform ongoing assessment as indicated.
+
+

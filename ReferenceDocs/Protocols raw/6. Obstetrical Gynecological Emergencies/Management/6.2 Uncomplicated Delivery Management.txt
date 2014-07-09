@@ -1,58 +1,72 @@
 Uncomplicated Delivery
-
+protocolid=51
 ======================================
-1.
-2.
-3.
-4.
-5.
-6.
-7.
-8.
+EMTP/EMTI/EMTEN
+-----------------------
+<table><tr><td>1.<td>Perform general patient management.
+<tr><td>2.<td>Administer oxygen to maintain <i><u>SPO</u></i><sub>2</sub> > 94%.
+<tr><td>3.<td>If time permits, establish IV of Normal Saline at KVO.
+<tr><td>4.<td>Apply gloves, mask, gown, eye protection for infection control precautions.
+<tr><td>5.<td>Have mother lie with knees drawn up and spread apart.
+<tr><td>6.<td>Elevate buttocks - with blankets or pillow.
+<tr><td>7.<td>Create sterile field around vaginal opening. If available, use OB kit.
+<tr><td>8.<td>If the amniotic sac does not break, or has not broken, use a clamp to puncture the sac and push it away from the head and mouth as they appear.
+<tr><td>9.<td>When the head appears during crowning, place fingers on bony part of skull (not fontanelle or face) and exert very gentle pressure to prevent explosive delivery. Use caution to avoid fontanelle.
+<tr><td>10.<td>As the head is being born, determine if the umbilical cord is around the neck; slip over the shoulder or clamp, cut and unwrap.
+<tr><td>11.<td>After the head is born, support the head. Suctioning is no longer recommended at this point.
+<tr><td>12.<td>As the torso and full body are born, support the newborn with both hands.
+<tr><td>13.<td>As the feet are born, grasp the feet.
+<tr><td>14.<td>Wipe blood and mucus from mouth and nose with sterile gauze, suction mouth and nose.
+<tr><td>15.<td>Keep newborn level with vagina until the cord is cut.
+<tr><td>16.<td>Clamp, tie and cut umbilical cord (between the clamps) as pulsations cease. May consider delay cutting in infants that do not require resuscitation by one minute. Apply the first clamp approximately 4 inches from newborn and the second clamp approximately 6 inches from the newborn.
+<tr><td>17.<td>Obtain 1 and 5 minute APGAR scores.
+<tr><td>18.<td>Assign partner to monitor newborn and refer to <i><u>Neonatal Resuscitation Protocol</u></i>.
+<tr><td>19.<td>Observe for delivery of placenta while preparing mother and newborn for transport.
+<tr><td>20.<td>When delivered, wrap placenta in towel and put in plastic bag; transport placenta to hospital with mother.
+<tr><td>21.<td>Place sterile pad over vaginal opening, lower mother's legs, help her hold them together.
+<tr><td>22.<td>Record time of delivery and transport mother, newborn and placenta to hospital.
 
-9.
-Perform general patient management.
-Administer oxygen to maintain SPO 2 > 94%.
-If time permits, establish IV of Normal Saline at KVO.
-Apply gloves, mask, gown, eye protection for infection
-control precautions.
-Have mother lie with knees drawn up and spread apart.
-Elevate buttocks - with blankets or pillow.
-Create sterile field around vaginal opening. If available,
-use OB kit.
-If the amniotic sac does not break, or has not broken,
-use a clamp to puncture the sac and push it away from
-the head and mouth as they appear.
-When the head appears during crowning, place fingers
-on bony part of skull (not fontanelle or face) and exert
-very gentle pressure to prevent explosive delivery. Use
-caution to avoid fontanelle.
+EMTB
+-----------
+<table><tr><td>1.<td>Perform general patient management.
+<tr><td>2.<td>Administer oxygen to maintain <i><u>SPO</u></i><sub>2</sub> > 94%.
+<tr><td>3.<td>Apply gloves, mask, gown, eye protection for infection control precautions.
+<tr><td>4.<td>Have mother lie with knees drawn up and spread apart.
+<tr><td>5.<td>Elevate buttocks - with blankets or pillow.
+<tr><td>6.<td>Create sterile field around vaginal opening. If available, use OB kit.
+<tr><td>7.<td>If the amniotic sac does not break, or has not broken, use a clamp to puncture the sac and push it away from the head and mouth as they appear.
+<tr><td>8.<td>When the head appears during crowning, place fingers on bony part of skull (not fontanelle or face) and exert very gentle pressure to prevent explosive delivery. Use caution to avoid fontanelle.
+<tr><td>9.<td>As the head is being born, determine if the umbilical cord is around the neck; slip over the shoulder or clamp, cut and unwrap.
+<tr><td>10.<td>After the head is born, support the head. Suctioning is no longer recommended at this point.
+<tr><td>11.<td>As the torso and full body are born, support the newborn with both hands.
+<tr><td>12.<td>As the feet are born, grasp the feet.
+<tr><td>13.<td>Wipe blood and mucus from mouth and nose with sterile gauze, suction mouth and nose.
+<tr><td>14.<td>Keep newborn level with vagina until the cord is cut.
+<tr><td>15.<td>Clamp, tie and cut umbilical cord (between the clamps) as pulsations cease. May consider delay cutting in infants that do not require resuscitation by one minute. Apply the first clamp approximately 4 inches from newborn and the second clamp approximately 6 inches from the newborn.
+<tr><td>16.<td>Obtain 1 and 5 minute APGAR scores.
+<tr><td>17.<td>Assign partner to monitor newborn and refer to <i><u>Neonatal Resuscitation Protocol</u></i>.
+<tr><td>18.<td>Observe for delivery of placenta while preparing mother and newborn for transport.
+<tr><td>19.<td>When delivered, wrap placenta in towel and put in plastic bag; transport placenta to hospital with mother.
+<tr><td>20.<td>Place sterile pad over vaginal opening, lower mother's legs, help her hold them together.
+<tr><td>21.<td>Record time of delivery and transport mother, newborn and placenta to hospital.
 
-10. As the head is being born, determine if the umbilical cord
-is around the neck; slip over the shoulder or clamp, cut
-and unwrap.
-11. After the head is born, support the head. Suctioning is
-no longer recommended at this point.
-12. As the torso and full body are born, support the newborn
-with both hands.
-13. As the feet are born, grasp the feet.
-14. Wipe blood and mucus from mouth and nose with sterile
-gauze, suction mouth and nose.
-15. Keep newborn level with vagina until the cord is cut.
-16. Clamp, tie and cut umbilical cord (between the clamps)
-as pulsations cease. May consider delay cutting in
-infants that do not require resuscitation by one minute.
-Apply the first clamp approximately 4 inches from
-newborn and the second clamp approximately 6 inches
-from the newborn.
-17. Obtain 1 and 5 minute APGAR scores.
-18. Assign partner to monitor newborn and refer to Neonatal
-Resuscitation Protocol.
-19. Observe for delivery of placenta while preparing mother
-and newborn for transport.
-20. When delivered, wrap placenta in towel and put in plastic
-bag; transport placenta to hospital with mother.
-21. Place sterile pad over vaginal opening, lower mother's
-legs, help her hold them together.
-22. Record time of delivery and transport mother, newborn
-and placenta to hospital.
+EMTA
+-------------
+<table><tr><td>1.<td>Perform general patient management.
+<tr><td>2.<td>Administer oxygen to maintain <i><u>SPO</u></i><sub>2</sub> > 94%.
+<tr><td>3.<td>Apply gloves, mask, gown, eye protection for infection control precautions.
+<tr><td>4.<td>Have mother lie with knees drawn up and spread apart.
+<tr><td>5.<td>Elevate buttocks - with blankets or pillow.
+<tr><td>6.<td>Create sterile field around vaginal opening. If available, use OB kit.
+<tr><td>7.<td>If the amniotic sac does not break, or has not broken, use a clamp to puncture the sac and push it away from the head and mouth as they appear.
+<tr><td>8.<td>When the head appears during crowning, place fingers on bony part of skull (not fontanelle or face) and exert very gentle pressure to prevent explosive delivery. Use caution to avoid fontanelle.
+<tr><td>9.<td>As the head is being born, determine if the umbilical cord is around the neck; slip over the shoulder or clamp, cut and unwrap.
+<tr><td>10.<td>After the head is born, support the head. Suctioning is no longer recommended at this point.
+<tr><td>11.<td>As the torso and full body are born, support the newborn with both hands.
+<tr><td>12.<td>As the feet are born, grasp the feet.
+<tr><td>13.<td>Wipe blood and mucus from mouth and nose with sterile gauze, suction mouth and nose.
+<tr><td>14.<td>Keep newborn level with vagina until the cord is cut.
+<tr><td>15.<td>Obtain 1 and 5 minute APGAR scores.
+<tr><td>16.<td>Assign partner to monitor newborn and refer to <i><u>Neonatal Resuscitation Protocol</u></i>.
+
+

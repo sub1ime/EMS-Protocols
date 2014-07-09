@@ -1,0 +1,38 @@
+Dystonic / Extrapyramidal Reaction
+protocolid=23
+======================
+EMTP/EMTI
+-------------
+<table><tr><td>1.<td>Perform general patient management.
+<tr><td>2.<td>Administer oxygen to maintain <i><u>SPO</u></i><sub>2</sub> 94 - 99%
+<tr><td>3.<td>If patient is having a seizure, refer to the <i><u>Seizure protocol</u></i>.
+<tr><td>4.<td>Obtain a blood glucose sample. If < 60 mg / dl or > 300 mg / dL, refer to <i><u>Hypoglycemia</u></i> or <i><u>Hyperglycemia</u></i> protocol.
+<tr><td>5.<td>Place patient on cardiac monitor and obtain <i><u>12 lead ECG</u></i> if indicated.
+<tr><td>6.<td>Establish IV of Normal Saline, titrate to maintain systolic BP > 90 mmHg; alternatively may establish NaCl lock.
+<tr><td>7.<td>Administer <i><u>DIPHENHYDRAMINE</u></i> (Benadryl) 25 - 50 mg IV or IM.
+<tr><td>8.<td>Transport in position of comfort and reassess.
+
+EMTEN
+----------
+<table><tr><td>1.<td>Perform general patient management.
+<tr><td>2.<td>Administer oxygen to maintain <i><u>SPO</u></i><sub>2</sub> 94 - 99%
+<tr><td>3.<td>If patient is having a seizure, refer to the <i><u>Seizure protocol</u></i>.
+<tr><td>4.<td>Obtain a blood glucose sample. If < 60 mg / dl or > 300 mg / dL, refer to <i><u>Hypoglycemia</u></i> or <i><u>Hyperglycemia</u></i> protocol.
+<tr><td>5.<td>Establish IV of Normal Saline, titrate to maintain systolic BP > 90 mmHg; alternatively may establish NaCl lock.
+<tr><td>6.<td>Administer <i><u>DIPHENHYDRAMINE</u></i> (Benadryl) 25 - 50 mg IV or IM.
+<tr><td>7.<td>Transport in position of comfort and reassess.
+
+EMTB
+-------------
+<table><tr><td>1.<td>Perform general patient management.
+<tr><td>2.<td>Administer oxygen to maintain <i><u>SPO</u></i><sub>2</sub> 94 - 99%
+<tr><td>3.<td>If patient is having a seizure, refer to the <i><u>Seizure protocol</u></i>.
+<tr><td>4.<td>Obtain a blood glucose sample. If < 60 mg / dl or > 300 mg / dL, refer to <i><u>Hypoglycemia</u></i> or <i><u>Hyperglycemia</u></i> protocol.
+<tr><td>5.<td>Transport in position of comfort and reassess.
+
+EMTA
+----------
+<table><tr><td>1.<td>Perform general patient management.
+<tr><td>2.<td>Administer oxygen to maintain <i><u>SPO</u></i><sub>2</sub> 94 - 99%
+<tr><td>3.<td>If patient is having a seizure, refer to the <i><u>Seizure protocol</u></i>.
+

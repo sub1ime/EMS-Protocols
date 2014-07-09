@@ -1,6 +1,7 @@
 package com.integraresoftware.emsbuddy;
 
 import android.app.Activity;
+import android.content.Intent;
 import android.graphics.Color;
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
@@ -9,16 +10,20 @@ import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.ImageView;
 import android.widget.LinearLayout;
 import android.widget.TextView;
 
 import com.integraresoftware.android.emsbuddy.R;
+import com.integraresoftware.emsbuddy.data.SectionContract;
+import com.integraresoftware.emsbuddy.data.SubsectionContract;
 
 public class FragmentManagement extends Fragment {
 
     public static String TAG = "FragmentManagement";
     private String text;
     private Activity activity;
+	private Bundle args;
 
 
     public static Fragment newInstance () {
@@ -31,7 +36,7 @@ public class FragmentManagement extends Fragment {
     public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
         View rootView = inflater.inflate(R.layout.fragment_management_layout, container, false);
 
-        Bundle args = getArguments();
+        args = getArguments();
         text = args.getString("TEXT");
 
         /*text = formatText(text);
@@ -76,6 +81,36 @@ public class FragmentManagement extends Fragment {
             for (int q = 1; q <= mDataText.length - 1; q++) {
                 String mString = formatText(mDataText[q]);
 
+				// if this row is an image then do the following
+				if (mString.matches("<image>")) {
+					// get the name of the image
+					String[] imageName = mString.split("<image>");
+					final int imageIntLocation = activity.getResources().getIdentifier(
+							imageName[1], "drawable", activity.getPackageName());
+					// create imageview and add the image
+					ImageView iv = new ImageView(activity);
+					iv.setImageResource(imageIntLocation);
+					// set listener for the image
+					iv.setOnClickListener(new View.OnClickListener() {
+						@Override
+						public void onClick(View view) {
+							Intent i = new Intent(activity, ActivityZoomImage.class);
+							i.putExtra(SubsectionContract.COL_TITLE, args.getString(SubsectionContract.COL_TITLE));
+							i.putExtra(SectionContract.COL_COLOR, args.getInt(SectionContract.COL_COLOR));
+							i.putExtra(FragmentDisplaySection.PROTOCOL_SUBSECTION_TITLE, args.getString(FragmentDisplaySection.PROTOCOL_SUBSECTION_TITLE));
+							i.putExtra(SubsectionContract.ROW_ID, args.getInt(SubsectionContract.ROW_ID));
+							i.putExtra(FragmentDisplaySection.PROTOCOL_SUBSECTION, args.getInt(FragmentDisplaySection.PROTOCOL_SUBSECTION));
+							i.putExtra("imageId", imageIntLocation);
+							startActivity(i);
+						}
+					});
+					ll.addView(iv);
+					// the whole row is the image so we do not need another data cell
+					// so we break this section of the loop
+					break;
+				}
+
+				// if this is a sub-bullet then we need to add extra indentation
                 if (mString.matches("^[^\\d].*") && q == 1) {
                     TextView tv = new TextView(activity);
                     tv.setPadding(10, 0, 30, 0);

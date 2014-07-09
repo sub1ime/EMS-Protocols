@@ -75,3 +75,27 @@ emtp/emti
 <tr><td>14.<td>Transport to appropriate hospital. Patients with ECGs consistent with STEMI should be transported <i>ONLY</i> to PCI CAPABLE HOSPITALS.
 <tr><td>15.<td>Transport and perform ongoing assessment as indicated.
 
+=============================================================================================================
+
+Test Protocol with new format
+
+<12345>Perform general patient management.
+<12345>Support life-threatening problems associated with airway, breathing, and circulation.
+<12345>Treat dysrhythmias. Be prepared to initiate CPR and defibrillation, if necessary.
+<12345>Administer supplemental oxygen to maintain <i><u>SPO</u></i><sub>2</sub> 94 - 99%
+<12345>Obtain patient history. Reassure the patient.
+<2345>Place patient on cardiac monitor.
+<2345><bullet>Obtain a <i><u>12 lead ECG</i></u>, as soon as possible.
+<23><bullet>Consider ALS rendezvous, especially when the 12-lead indicates the patient is experiencing a STEMI.
+<2345><bullet>When a 12 lead ECG indicates <b>“***ACUTE MI***” notify closest appropriate Emergency PCI center (cath hospital)</b>.
+<2345>Transport as soon as feasible.
+<2345>Administer <i><u>ASPIRIN</u></i> 324 mg to <b>chew</b>.
+<345>Establish an IV of normal saline at KVO.
+<45>If history consistent with cocaine associated chest pain and 12 lead not indicative of STEMI, administer <i><u>MIDAZOLAM</u></i> 5 mg IV. Alternatively administer <i><u>DIAZEPAM</u></i> 2.5 - 5 mg IV. Skip to step 14
+<2345>Administer <i><u>NITROGLYCERIN</u></i>.
+<2345><bullet>Assist patient with PRESCRIBED NITROGLYCERIN. If the pain persists and B/P > 100 mmHg systolic, repeat nitroglycerin 0.4 mg SL in 3 to 5 minutes (up to total of three SL doses).
+<45><bullet>Administer nitroglycerin 0.4 mg SL. If the pain persists and B/P > 100 mmHg systolic, repeat nitroglycerin 0.4 mg SL in 3 to 5 minutes (up to total of three SL doses).
+<345>If pain persists following administration of nitroglycerin SL, apply one (1) inch of nitroglycerin paste.
+<45>If pain persists following administration of a minimum of 3 SL nitroglycerin and nitroglycerin paste, consider <i><u>FENTANYL</u></i> titrated to pain relief at 1 mcg / kg IV/IM, not to exceed 50 mcg per single dose. May repeat every 10 minutes. Alternatively, administer <i><u>MORPHINE</u></i> 0.1 mg / kg IV at 1 mg / min., not to exceed 10 mg, titrated to effect.
+<2345>Transport to appropriate hospital. Patients with ECGs consistent with STEMI should be transported <i>ONLY</i> to PCI CAPABLE HOSPITALS.
+<12345>Transport and perform ongoing assessment as indicated.

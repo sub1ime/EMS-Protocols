@@ -1,45 +1,69 @@
 Hyperthermia
-
+protocolid=47
 ===========================
-1. Perform general patient management.
-2. Support life-threatening problems associated with airway,
-breathing, and circulation.
-3. Remove the patient from the hot environment to a cool
-environment. Do not allow the patient to shiver with
-cooling techniques.
-4. Administer oxygen, to maintain SPO 2 94 - 99%. Support
-respirations as necessary with a BVM.
-5. Heat Cramps: Signs and symptoms include muscle
-twitching, followed by painful spasms, especially involving
-the lower extremities and abdomen, nausea and vomiting,
-weakness and diaphoresis.
-a. PO fluids may be given as long as the patient
-maintains a patent airway and is not vomiting.
-6. Heat Exhaustion: Signs and symptoms include: pallor,
-profuse sweating, orthostatic hypotension, headache,
-weakness, fatigue and thirst.
-a. Establish an IV of Normal Saline. Infuse the fluid
-amounts listed in the Shock protocol. If the patient
-develops signs and symptoms of fluid overload
-respiratory distress (dyspnea, crackles, rhonchi,
-decreasing SpO 2 ), slow the IV to KVO.
-b. Place on cardiac monitor.
-7. Heat Stroke: Signs and symptoms include: altered
-mental status, increased body temperature, minimal or no
-sweating, collapse, shortness of breath, shock, nausea
-and vomiting.
-a. Remove the patient’s clothing.
-b. Do not give anything by mouth.
-c. Spray the patient’s skin with a lukewarm water mist
-and fan the patient. Continue misting and fanning
-during transport.
-d. Wrap the patient with wet sheets if there is good
-ambient airflow present.
-e. Establish an IV / IO of Normal Saline. Infuse the
-fluid amounts listed in the Shock protocol. If the
-patient develops signs and symptoms of fluid
-overload respiratory distress (dyspnea, crackles,
-rhonchi, decreasing SpO 2 ), slow the IV to KVO.
-f. Place on cardiac monitor and obtain 12 lead ECG
-per assessment.
-8. Transport and perform ongoing assessment as indicated.
+EMTP/EMTI
+-------------------
+<table><tr><td>1.<td>Perform general patient management.
+<tr><td>2.<td>Support life-threatening problems associated with airway, breathing, and circulation.
+<tr><td>3.<td>Remove the patient from the hot environment to a cool environment. Do not allow the patient to shiver with cooling techniques.
+<tr><td>4.<td>Administer oxygen, to maintain <i><u>SPO</u></i><sub>2</sub> 94 - 99%. Support respirations as necessary with a BVM.
+<tr><td>5.<td><b>Heat Cramps:</b> Signs and symptoms include muscle twitching, followed by painful spasms, especially involving the lower extremities and abdomen, nausea and vomiting, weakness and diaphoresis.
+<tr><td>a.<td>PO fluids may be given as long as the patient maintains a patent airway and is not vomiting.
+<tr><td>6.<td><b>Heat Exhaustion:</b> Signs and symptoms include: pallor, profuse sweating, orthostatic hypotension, headache, weakness, fatigue and thirst.
+<tr><td>a.<td>Establish an IV of Normal Saline. Infuse the fluid amounts listed in the <i><u>Shock protocol</u></i>. If the patient develops signs and symptoms of fluid overload respiratory distress (dyspnea, crackles, rhonchi, decreasing <i><u>SPO</u></i><sub>2</sub> ), slow the IV to KVO.
+<tr><td>b.<td>Place on cardiac monitor.
+<tr><td>7.<td><b>Heat Stroke:</b> Signs and symptoms include: altered mental status, increased body temperature, minimal or no sweating, collapse, shortness of breath, shock, nausea and vomiting.
+<tr><td>a.<td>Remove the patient’s clothing.
+<tr><td>b.<td>Do not give anything by mouth.
+<tr><td>c.<td>Spray the patient’s skin with a lukewarm water mist and fan the patient. Continue misting and fanning during transport.
+<tr><td>d.<td>Wrap the patient with wet sheets if there is good ambient airflow present.
+<tr><td>e.<td>Establish an IV / IO of Normal Saline. Infuse the fluid amounts listed in the Shock protocol. If the patient develops signs and symptoms of fluid overload respiratory distress (dyspnea, crackles, rhonchi, decreasing <i><u>SPO</u></i><sub>2</sub> ), slow the IV to KVO. 
+<tr><td>f.<td>Place on cardiac monitor and obtain <i><u>12 lead ECG</u></i> per assessment.
+<tr><td>8.<td>Transport and perform ongoing assessment as indicated.
+
+EMTEN
+-----------
+<table><tr><td>1.<td>Perform general patient management.
+<tr><td>2.<td>Support life-threatening problems associated with airway, breathing, and circulation.
+<tr><td>3.<td>Remove the patient from the hot environment to a cool environment. Do not allow the patient to shiver with cooling techniques.
+<tr><td>4.<td>Administer oxygen, to maintain <i><u>SPO</u></i><sub>2</sub> 94 - 99%. Support respirations as necessary with a BVM.
+<tr><td>5.<td><b>Heat Cramps:</b> Signs and symptoms include muscle twitching, followed by painful spasms, especially involving the lower extremities and abdomen, nausea and vomiting, weakness and diaphoresis.
+<tr><td>a.<td>PO fluids may be given as long as the patient maintains a patent airway and is not vomiting.
+<tr><td>6.<td><b>Heat Exhaustion:</b> Signs and symptoms include: pallor, profuse sweating, orthostatic hypotension, headache, weakness, fatigue and thirst.
+<tr><td>a.<td>Establish an IV of Normal Saline. Infuse the fluid amounts listed in the <i><u>Shock protocol</u></i>. If the patient develops signs and symptoms of fluid overload respiratory distress (dyspnea, crackles, rhonchi, decreasing <i><u>SPO</u></i><sub>2</sub> ), slow the IV to KVO.
+<tr><td>7.<td><b>Heat Stroke:</b> Signs and symptoms include: altered mental status, increased body temperature, minimal or no sweating, collapse, shortness of breath, shock, nausea and vomiting.
+<tr><td>a.<td>Remove the patient’s clothing.
+<tr><td>b.<td>Do not give anything by mouth.
+<tr><td>c.<td>Spray the patient’s skin with a lukewarm water mist and fan the patient. Continue misting and fanning during transport.
+<tr><td>d.<td>Wrap the patient with wet sheets if there is good ambient airflow present.
+<tr><td>e.<td>Establish an IV / IO of Normal Saline. Infuse the fluid amounts listed in the Shock protocol. If the patient develops signs and symptoms of fluid overload respiratory distress (dyspnea, crackles, rhonchi, decreasing <i><u>SPO</u></i><sub>2</sub> ), slow the IV to KVO. 
+<tr><td>8.<td>Transport and perform ongoing assessment as indicated.
+
+EMTB
+--------
+<table><tr><td>1.<td>Perform general patient management.
+<tr><td>2.<td>Support life-threatening problems associated with airway, breathing, and circulation.
+<tr><td>3.<td>Remove the patient from the hot environment to a cool environment. Do not allow the patient to shiver with cooling techniques.
+<tr><td>4.<td>Administer oxygen, to maintain <i><u>SPO</u></i><sub>2</sub> 94 - 99%. Support respirations as necessary with a BVM.
+<tr><td>5.<td><b>Heat Cramps:</b> Signs and symptoms include muscle twitching, followed by painful spasms, especially involving the lower extremities and abdomen, nausea and vomiting, weakness and diaphoresis.
+<tr><td>a.<td>PO fluids may be given as long as the patient maintains a patent airway and is not vomiting.
+<tr><td>6.<td><b>Heat Stroke:</b> Signs and symptoms include: altered mental status, increased body temperature, minimal or no sweating, collapse, shortness of breath, shock, nausea and vomiting.
+<tr><td>a.<td>Remove the patient’s clothing.
+<tr><td>b.<td>Do not give anything by mouth.
+<tr><td>c.<td>Spray the patient’s skin with a lukewarm water mist and fan the patient. Continue misting and fanning during transport.
+<tr><td>d.<td>Wrap the patient with wet sheets if there is good ambient airflow present.
+<tr><td>7.<td>Transport and perform ongoing assessment as indicated.
+
+EMTA
+----------
+<table><tr><td>1.<td>Perform general patient management.
+<tr><td>2.<td>Support life-threatening problems associated with airway, breathing, and circulation.
+<tr><td>3.<td>Remove the patient from the hot environment to a cool environment. Do not allow the patient to shiver with cooling techniques.
+<tr><td>4.<td>Administer oxygen, to maintain <i><u>SPO</u></i><sub>2</sub> 94 - 99%. Support respirations as necessary with a BVM.
+<tr><td>5.<td><b>Heat Stroke:</b> Signs and symptoms include: altered mental status, increased body temperature, minimal or no sweating, collapse, shortness of breath, shock, nausea and vomiting.
+<tr><td>a.<td>Remove the patient’s clothing.
+<tr><td>b.<td>Do not give anything by mouth.
+<tr><td>c.<td>Spray the patient’s skin with a lukewarm water mist and fan the patient. Continue misting and fanning during transport.
+<tr><td>d.<td>Wrap the patient with wet sheets if there is good ambient airflow present.
+<tr><td>6.<td>Transport and perform ongoing assessment as indicated.
+

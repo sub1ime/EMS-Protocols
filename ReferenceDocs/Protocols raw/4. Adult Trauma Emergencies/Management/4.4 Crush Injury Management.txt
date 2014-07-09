@@ -1,48 +1,51 @@
 Crush Injuries
-
+protocolid=37
 ===========================================
-1. Perform general patient management.
-2. Support life-threatening problems.
-3. Administer oxygen to maintain a SPO 2 between 94 99%. Support respirations as necessary with a BVM.
-4. Consider activation of local and / or regional technical
-rescue team.
-5. Start an IV of normal saline and administer normal saline
-20 cc / kg bolus, prior to extrication if possible. Maintain
-perfusion by following the Medical Patient-Shock
-protocol. DO NOT USE LACTATED RINGERS.
-6. Apply BUT DO NOT TIGHTEN tourniquet on entrapped
-extremity BEFORE extrication. Tighten only if major
-hemorrhage occurs with extrication.
+EMTP/EMTI
+-----------
+<table><tr><td>1.<td>Perform general patient management.
+<tr><td>2.<td>Support life-threatening problems.
+<tr><td>3.<td>Administer oxygen to maintain a <i><u>SPO</u></i><sub>2</sub> between 94 - 99%. Support respirations as necessary with a BVM.
+<tr><td>4.<td>Consider activation of local and / or regional technical rescue team.
+<tr><td>5.<td>Start an IV of normal saline and administer normal saline 20 cc / kg bolus, prior to extrication if possible. Maintain perfusion by following the <i><u>Medical Patient-Shock protocol</u></i>. <b>DO NOT USE LACTATED RINGERS</b>.
+<tr><td>6.<td>Apply BUT DO NOT TIGHTEN <i><u>tourniquet</u></i> on entrapped extremity BEFORE extrication. Tighten only if major hemorrhage occurs with extrication.
+<tr><td>7.<td>Attach ECG monitor. Obtain / interpret <i><u>12 Lead ECG</u></i>. Carefully monitor for dysrhythmias before, immediately after release of pressure and during transport (i.e., peaked T waves, wide QRS, lengthening QT interval, loss of P wave). Contact Medical Control if hyperkalemia is suspected.**
+<tr><td>8.<td>Transport as soon as possible.
+<tr><td>9.<td>For pain control, consider analgesics
+<tr><td>a.<td><i><u>FENTANYL</u></i> 1 mcg / kg IV / IM, not to exceed 50 mcg single dose. Repeat dose in 10 minutes if necessary. Max total dose is 200 mcg.
+<tr><td>b.<td>If Fentanyl is unavailable, give <i><u>MORPHINE</u></i> 0.1 mg / kg IV at 1 mg / min, not to exceed 5 mg single dose with max total dose of 20 mg. If no IV established, administer <i><u>MORPHINE</u></i> 0.1 mg / kg IM, not to exceed 10 mg (1.0 mL); repeat IM dose in 10 minutes if necessary.
+<tr><td>10.<td>Consider the following options:
+<tr><td>a.<td>Continued boluses of normal saline.
+<tr><td>b.<td>For significant crush injuries, administer <i><u>SODIUM BICARBONATE</u></i> 1 mEq / kg IV bolus over 2 minutes. Consider administration of bicarb containing IV solution (One liter of D 5W with 2 amps bicarb infused at 150 cc / hour).
+<tr><td>c.<td>If ECG suggestive of hyperkalemia,** consider <i><u>ALBUTEROL</u></i> 5.0 mg via small volume nebulizer.
+<tr><td>d.<td>If ECG suggestive of hyperkalemia, consider <i><u>CALCIUM CHLORIDE</u></i> 8 mg / kg of 10% solution IV over 5 minutes.
+<tr><td>11.<td>Transport and perform ongoing assessment as indicated.
 
-A
-7. Attach ECG monitor. Obtain / interpret 12 Lead ECG.
-Carefully monitor for dysrhythmias before, immediately
-after release of pressure and during transport (i.e.,
-peaked T waves, wide QRS, lengthening QT interval,
-loss of P wave). Contact Medical Control if
-hyperkalemia is suspected.**
-8. Transport as soon as possible.
-9. For pain control, consider analgesics
-a. FENTANYL 1 mcg / kg IV / IM, not to exceed 50
-mcg single dose. Repeat dose in 10 minutes if
-necessary. Max total dose is 200 mcg.
-b. If Fentanyl is unavailable, give MORPHINE 0.1
-mg / kg IV at 1 mg / min, not to exceed 5 mg
-single dose with max total dose of 20 mg. If no
-IV established, administer MORPHINE 0.1 mg /
-kg IM, not to exceed 10 mg (1.0 mL); repeat IM
-dose in 10 minutes if necessary.
-10. Consider the following options:
-a. Continued boluses of normal saline.
-b. For significant crush injuries, administer SODIUM
-BICARBONATE 1 mEq / kg IV bolus over 2
-minutes. Consider administration of bicarb
-containing IV solution (One liter of D 5W with 2
-amps bicarb infused at 150 cc / hour).
-c. If ECG suggestive of hyperkalemia,** consider
-ALBUTEROL 5.0 mg via small volume nebulizer.
-d. If ECG suggestive of hyperkalemia, consider
-CALCIUM CHLORIDE 8 mg / kg of 10% solution
-IV over 5 minutes.
-11. Transport and perform ongoing assessment as
-indicated.
+EMTEN
+---------
+<table><tr><td>1.<td>Perform general patient management.
+<tr><td>2.<td>Support life-threatening problems.
+<tr><td>3.<td>Administer oxygen to maintain a <i><u>SPO</u></i><sub>2</sub> between 94 - 99%. Support respirations as necessary with a BVM.
+<tr><td>4.<td>Consider activation of local and / or regional technical rescue team.
+<tr><td>5.<td>Start an IV of normal saline and administer normal saline 20 cc / kg bolus, prior to extrication if possible. Maintain perfusion by following the <i><u>Medical Patient-Shock protocol</u></i>. <b>DO NOT USE LACTATED RINGERS</b>.
+<tr><td>6.<td>Apply BUT DO NOT TIGHTEN <i><u>tourniquet</u></i> on entrapped extremity BEFORE extrication. Tighten only if major hemorrhage occurs with extrication.
+<tr><td>7.<td>Transport as soon as possible.
+<tr><td>8.<td>Transport and perform ongoing assessment as indicated.
+
+EMTB
+-----------
+<table><tr><td>1.<td>Perform general patient management.
+<tr><td>2.<td>Support life-threatening problems.
+<tr><td>3.<td>Administer oxygen to maintain a <i><u>SPO</u></i><sub>2</sub> between 94 - 99%. Support respirations as necessary with a BVM.
+<tr><td>4.<td>Consider activation of local and / or regional technical rescue team.
+<tr><td>6.<td>Apply BUT DO NOT TIGHTEN <i><u>tourniquet</u></i> on entrapped extremity BEFORE extrication. Tighten only if major hemorrhage occurs with extrication.
+<tr><td>7.<td>Transport as soon as possible.
+<tr><td>8.<td>Transport and perform ongoing assessment as indicated.
+
+EMTA
+-------------
+<table><tr><td>1.<td>Perform general patient management.
+<tr><td>2.<td>Support life-threatening problems.
+<tr><td>3.<td>Administer oxygen to maintain a <i><u>SPO</u></i><sub>2</sub> between 94 - 99%. Support respirations as necessary with a BVM.
+<tr><td>4.<td>Consider activation of local and / or regional technical rescue team.
+

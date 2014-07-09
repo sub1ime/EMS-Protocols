@@ -1,0 +1,79 @@
+Behavioral Emergencies
+protocolid=20
+============================
+EMTP/EMTI
+---------------------
+<table><tr><td><td><b>For Non-violent and Non-aggressive Patients:</b>
+<tr><td>1.<td>Scene safety is a priority. Maintain scene and provider safety. Request police if indicated.
+<tr><td>2.<td>Perform general patient management.
+<tr><td>3.<td>Develop rapport with the patient. Speak in a calm, nonjudgmental / non-confrontational manner. Be aware of your own and the patient’s posture, body language, and position.
+<tr><td>4.<td>Remove disturbing persons and / or objects from the environment.
+<tr><td>5.<td>Encourage the patient to sit, relax, and talk. Do not touch the patient without permission.
+<tr><td>6.<td>Transport and Reassess if indicated.
+<tr><td><td>
+<b>For Violent or Aggressive Patients:</b>
+<tr><td>1.<tr><td>Assure scene safety. Request Police department if needed. Do not engage patient without police unless benefits outweigh risks to patient and providers.
+<tr><td>2.<tr><td>Perform general patient management.
+<tr><td>3.<tr><td>Support life-threatening problems associated with airway, breathing, and circulation.
+<tr><td>4.<tr><td>Assess for signs of trauma.
+<tr><td>5.<tr><td>Administer oxygen to maintain <i><u>SPO</u></i><sub>2</sub> 94 - 99%
+<tr><td>6.<tr><td>For altered mental status, perform rapid glucose determination.
+<tr><td>7.<tr><td>Control environmental factors; attempt to move patient to a private area free of family and bystanders. MAINTAIN ESCAPE ROUTE.
+<tr><td>8.<tr><td>Attempt de-escalation, utilize an empathetic approach. Ensure patient safety and comfort. AVOID CONFRONTATION.
+<tr><td>9.<tr><td>Ensure patient capacity to make decisions. If patient has capacity, consent to treat is required. If patient lacks capacity, consent to treat is not required.
+<tr><td>10.<tr><td>Physically restrain. Refer to <i><u>Clinical Procedures: Patient Restraint</u></i>.
+<tr><td>11.<tr><td>Chemical Restraint:
+<tr><td>a.<tr><td>If chemical agitation or alcohol withdrawal is suspected, refer to the appropriate <i><u>Toxicology-Poisoning / Overdose protocol</u></i>.
+<tr><td>b.<tr><td>If behavioral or alcohol related agitation is suspected, give <i><u>MIDAZOLAM</u></i> 0.1 mg / kg IV / IM (max single dose of 5 mg). If midazolam is unavailable, administer <i><u>DIAZEPAM</u></i> 0.25 mg / kg IV / IM (max single dose of 5 mg or a max dose of 10 mg). Contact Medical Control for repeat dosing.
+<tr><td>c.<tr><td>In adult patients, if behavioral or alcohol related agitation continues or escalates, give <i><u>GEODON</u></i> 20 mg IM if greater than 50  kg weight (10 mg IM if weight less than 50 kg).
+<tr><td>12.<tr><td>Transport as soon as possible.
+
+EMTEN/EMTB
+----------------
+<table><tr><td><td><b>For Non-violent and Non-aggressive Patients:</b>
+<tr><td>1.<td>Scene safety is a priority. Maintain scene and provider safety. Request police if indicated.
+<tr><td>2.<td>Perform general patient management.
+<tr><td>3.<td>Develop rapport with the patient. Speak in a calm, nonjudgmental / non-confrontational manner. Be aware of your own and the patient’s posture, body language, and position.
+<tr><td>4.<td>Remove disturbing persons and / or objects from the environment.
+<tr><td>5.<td>Encourage the patient to sit, relax, and talk. Do not touch the patient without permission.
+<tr><td>6.<td>Transport and Reassess if indicated.
+<tr><td><td>
+<b>For Violent or Aggressive Patients:</b>
+<tr><td>1.<tr><td>Assure scene safety. Request Police department if needed. Do not engage patient without police unless benefits outweigh risks to patient and providers.
+<tr><td>2.<tr><td>Perform general patient management.
+<tr><td>3.<tr><td>Support life-threatening problems associated with airway, breathing, and circulation.
+<tr><td>4.<tr><td>Assess for signs of trauma.
+<tr><td>5.<tr><td>Administer oxygen to maintain <i><u>SPO</u></i><sub>2</sub> 94 - 99%
+<tr><td>6.<tr><td>For altered mental status, perform rapid glucose determination.
+<tr><td>7.<tr><td>Control environmental factors; attempt to move patient to a private area free of family and bystanders. MAINTAIN ESCAPE ROUTE.
+<tr><td>8.<tr><td>Attempt de-escalation, utilize an empathetic approach. Ensure patient safety and comfort. AVOID CONFRONTATION.
+<tr><td>9.<tr><td>Ensure patient capacity to make decisions. If patient has capacity, consent to treat is required. If patient lacks capacity, consent to treat is not required.
+<tr><td>10.<tr><td>Physically restrain. Refer to <i><u>Clinical Procedures: Patient Restraint</u></i>.
+<tr><td>11.<tr><td>Chemical Restraint:
+<tr><td>a.<tr><td>If chemical agitation or alcohol withdrawal is suspected, refer to the appropriate <i><u>Toxicology-Poisoning / Overdose protocol</u></i>.
+<tr><td>12.<tr><td>Transport as soon as possible.
+
+EMTA
+---------------
+<table><tr><td><td><b>For Non-violent and Non-aggressive Patients:</b>
+<tr><td>1.<td>Scene safety is a priority. Maintain scene and provider safety. Request police if indicated.
+<tr><td>2.<td>Perform general patient management.
+<tr><td>3.<td>Develop rapport with the patient. Speak in a calm, nonjudgmental / non-confrontational manner. Be aware of your own and the patient’s posture, body language, and position.
+<tr><td>4.<td>Remove disturbing persons and / or objects from the environment.
+<tr><td>5.<td>Encourage the patient to sit, relax, and talk. Do not touch the patient without permission.
+<tr><td><td>
+<b>For Violent or Aggressive Patients:</b>
+<tr><td>1.<tr><td>Assure scene safety. Request Police department if needed. Do not engage patient without police unless benefits outweigh risks to patient and providers.
+<tr><td>2.<tr><td>Perform general patient management.
+<tr><td>3.<tr><td>Support life-threatening problems associated with airway, breathing, and circulation.
+<tr><td>4.<tr><td>Assess for signs of trauma.
+<tr><td>5.<tr><td>Administer oxygen to maintain <i><u>SPO</u></i><sub>2</sub> 94 - 99%
+<tr><td>6.<tr><td>For altered mental status, perform rapid glucose determination.
+<tr><td>7.<tr><td>Control environmental factors; attempt to move patient to a private area free of family and bystanders. MAINTAIN ESCAPE ROUTE.
+<tr><td>8.<tr><td>Attempt de-escalation, utilize an empathetic approach. Ensure patient safety and comfort. AVOID CONFRONTATION.
+<tr><td>9.<tr><td>Ensure patient capacity to make decisions. If patient has capacity, consent to treat is required. If patient lacks capacity, consent to treat is not required.
+<tr><td>10.<tr><td>Physically restrain. Refer to <i><u>Clinical Procedures: Patient Restraint</u></i>.
+<tr><td>11.<tr><td>Chemical Restraint:
+<tr><td>a.<tr><td>If chemical agitation or alcohol withdrawal is suspected, refer to the appropriate <i><u>Toxicology-Poisoning / Overdose protocol</u></i>.
+
+

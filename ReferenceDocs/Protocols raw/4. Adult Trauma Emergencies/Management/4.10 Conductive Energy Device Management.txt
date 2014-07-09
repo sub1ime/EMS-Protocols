@@ -1,17 +1,36 @@
 4.10 Conductive Energy Device Mangement
-
+protocolid=43
 ==================================
-1. Perform general patient assessment.
-2. Administer oxygen, to maintain SPO 2 94 - 99%. Support
-respirations as necessary with a BVM.
-3. Determine history of events between the time the
-weapon was used until EMS arrived.
-4. Per patient assessment (chest pain / palpitations) place
-patient on cardiac monitor and obtain / interpret 12 lead
-ECG. Refer to appropriate Cardiac Care protocol.
-5. Establish IV of Normal Saline at KVO rate, per
-assessment.
-6. If patient is agitated or combative, refer to Behavioral
-Emergencies protocol.
-7. Transport promptly in position of comfort and reassess
-as needed.
+EMTP/EMTI
+-------------------
+<table><tr><td>1.<td>Perform general patient assessment.
+<tr><td>2.<td>Administer oxygen, to maintain <i><u>SPO</u></i><sub>2</sub> 94 - 99%. Support respirations as necessary with a BVM.
+<tr><td>3.<td>Determine history of events between the time the weapon was used until EMS arrived.
+<tr><td>4.<td>Per patient assessment (chest pain / palpitations) place patient on cardiac monitor and obtain / interpret <i><u>12 lead ECG</u></i>. Refer to appropriate <i><u>Cardiac Care protocol</u></i>.
+<tr><td>5.<td>Establish IV of Normal Saline at KVO rate, per assessment.
+<tr><td>6.<td>If patient is agitated or combative, refer to <i><u>Behavioral Emergencies protocol</u></i>.
+<tr><td>7.<td>Transport promptly in position of comfort and reassess as needed.
+
+EMTEN
+-----------
+<table><tr><td>1.<td>Perform general patient assessment.
+<tr><td>2.<td>Administer oxygen, to maintain <i><u>SPO</u></i><sub>2</sub> 94 - 99%. Support respirations as necessary with a BVM.
+<tr><td>3.<td>Determine history of events between the time the weapon was used until EMS arrived.
+<tr><td>4.<td>Establish IV of Normal Saline at KVO rate, per assessment.
+<tr><td>5.<td>If patient is agitated or combative, refer to <i><u>Behavioral Emergencies protocol</u></i>.
+<tr><td>6.<td>Transport promptly in position of comfort and reassess as needed.
+
+EMTB
+-------------
+<table><tr><td>1.<td>Perform general patient assessment.
+<tr><td>2.<td>Administer oxygen, to maintain <i><u>SPO</u></i><sub>2</sub> 94 - 99%. Support respirations as necessary with a BVM.
+<tr><td>3.<td>Determine history of events between the time the weapon was used until EMS arrived.
+<tr><td>4.<td>If patient is agitated or combative, refer to <i><u>Behavioral Emergencies protocol</u></i>.
+<tr><td>5.<td>Transport promptly in position of comfort and reassess as needed.
+
+EMTA
+----------
+<table><tr><td>1.<td>Perform general patient assessment.
+<tr><td>2.<td>Administer oxygen, to maintain <i><u>SPO</u></i><sub>2</sub> 94 - 99%. Support respirations as necessary with a BVM.
+<tr><td>3.<td>Determine history of events between the time the weapon was used until EMS arrived.
+

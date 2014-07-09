@@ -1,0 +1,56 @@
+Hypoglycemia
+protocolid=25
+====================================
+EMTP/EMTI
+---------------
+<table><tr><td>1.<td>Perform general patient management.
+<tr><td>2.<td>Support life-threatening problems.
+<tr><td>3.<td>Assess for signs of trauma. Provide spinal immobilization as necessary.
+<tr><td>4.<td>Administer oxygen to maintain <i><u>SPO</u></i><sub>2</sub> 94 - 99%
+<tr><td>5.<td>For altered mental status, perform rapid glucose determination.
+<tr><td>6.<td>If glucose less than 60 mg / dL or clinical signs and symptoms indicate hypoglycemia and the patient is awake and able to swallow:
+<tr><td>a.<td>If the patient can protect airway, give Oral Glucose 15 grams. Repeat in 15 minutes if necessary.
+<tr><td>7.<td>If glucose less than 60 mg / dL or clinical signs and symptoms indicate hypoglycemia and oral glucose is contraindicated:
+<tr><td>a.<td>Establish an IV of normal saline at KVO.
+<tr><td>b.<td>Patient > 2 years old: Give <i><u>DEXTROSE 50%</u></i> 1 g / kg up to 25 g IV. Repeat once in 2 minutes if altered mental status persists.
+<tr><td>c.<td>If unable to establish an IV, alternatively administer <i><u>GLUCAGON</u></i> 1 mg IM / IN.
+<tr><td>8.<td>For signs and symptoms of hypovolemic shock or dehydration, follow the <i><u>Shock protocol</u></i>.
+<tr><td>9.<td>Place on cardiac monitor per patient assessment.
+<tr><td>10.<td>Transport and perform ongoing assessment as indicated.
+
+EMTEN
+-----------
+<table><tr><td>1.<td>Perform general patient management.
+<tr><td>2.<td>Support life-threatening problems.
+<tr><td>3.<td>Assess for signs of trauma. Provide spinal immobilization as necessary.
+<tr><td>4.<td>Administer oxygen to maintain <i><u>SPO</u></i><sub>2</sub> 94 - 99%
+<tr><td>5.<td>For altered mental status, perform rapid glucose determination.
+<tr><td>6.<td>If glucose less than 60 mg / dL or clinical signs and symptoms indicate hypoglycemia and the patient is awake and able to swallow:
+<tr><td>a.<td>If the patient can protect airway, give Oral Glucose 15 grams. Repeat in 15 minutes if necessary.
+<tr><td>7.<td>If glucose less than 60 mg / dL or clinical signs and symptoms indicate hypoglycemia and oral glucose is contraindicated:
+<tr><td>a.<td>Establish an IV of normal saline at KVO.
+<tr><td>b.<td>Patient > 2 years old: Give <i><u>DEXTROSE 50%</u></i> 1 g / kg up to 25 g IV. Repeat once in 2 minutes if altered mental status persists.
+<tr><td>c.<td>If unable to establish an IV, alternatively administer <i><u>GLUCAGON</u></i> 1 mg IM / IN.
+<tr><td>8.<td>For signs and symptoms of hypovolemic shock or dehydration, follow the <i><u>Shock protocol</u></i>.
+<tr><td>10.<td>Transport and perform ongoing assessment as indicated.
+
+EMTB
+-----------------
+<table><tr><td>1.<td>Perform general patient management.
+<tr><td>2.<td>Support life-threatening problems.
+<tr><td>3.<td>Assess for signs of trauma. Provide spinal immobilization as necessary.
+<tr><td>4.<td>Administer oxygen to maintain <i><u>SPO</u></i><sub>2</sub> 94 - 99%
+<tr><td>5.<td>For altered mental status, perform rapid glucose determination.
+<tr><td>6.<td>If glucose less than 60 mg / dL or clinical signs and symptoms indicate hypoglycemia and the patient is awake and able to swallow:
+<tr><td>a.<td>If the patient can protect airway, give Oral Glucose 15 grams. Repeat in 15 minutes if necessary.
+<tr><td>8.<td>For signs and symptoms of hypovolemic shock or dehydration, follow the <i><u>Shock protocol</u></i>.
+<tr><td>10.<td>Transport and perform ongoing assessment as indicated.
+
+EMTA
+-------------
+<table><tr><td>1.<td>Perform general patient management.
+<tr><td>2.<td>Support life-threatening problems.
+<tr><td>3.<td>Assess for signs of trauma. Provide spinal immobilization as necessary.
+<tr><td>4.<td>Administer oxygen to maintain <i><u>SPO</u></i><sub>2</sub> 94 - 99%
+<tr><td>8.<td>For signs and symptoms of hypovolemic shock or dehydration, follow the <i><u>Shock protocol</u></i>.
+

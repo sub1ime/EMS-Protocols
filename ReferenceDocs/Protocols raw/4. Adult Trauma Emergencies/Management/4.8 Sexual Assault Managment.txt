@@ -1,12 +1,26 @@
 Sexual Assault
-
+protocolid=41
 ========================
-1. Obtain general patient assessment.
-2. Support life-threatening problems associated with airway, breathing, and circulation.
-3. Assess for signs of trauma; take C-spine precautions per assessment.
-4. Administer Oxygen to maintain SPO 2 94 - 99%
-5. Perform wound care only to assess the severity and provide hemorrhage control.
-6. If an acute medical condition is noted, refer to appropriate Medical Patient protocol.
-7. If physical trauma is noted, refer to appropriate Trauma Patient protocol.
-8. Discourage the patient from changing clothes or bathing.
-9. Transport promptly in position of comfort to appropriate facility. Reassess as needed.
+EMTP/EMTI/EMTEN/EMTB
+----------------
+<table><tr><td>1.<td>Obtain general patient assessment.
+<tr><td>2.<td>Support life-threatening problems associated with airway, breathing, and circulation.
+<tr><td>3.<td>Assess for signs of trauma; take C-spine precautions per assessment.
+<tr><td>4.<td>Administer Oxygen to maintain <i><u>SPO</u></i><sub>2</sub> 94 - 99%
+<tr><td>5.<td>Perform wound care only to assess the severity and provide hemorrhage control.
+<tr><td>6.<td>If an acute medical condition is noted, refer to appropriate <i><u>Medical Patient protocol</u></i>.
+<tr><td>7.<td>If physical trauma is noted, refer to appropriate <i><u>Trauma Patient protocol</u></i>.
+<tr><td>8.<td>Discourage the patient from changing clothes or bathing.
+<tr><td>9.<td>Transport promptly in position of comfort to appropriate facility. Reassess as needed.
+
+EMTA
+-----------
+<table><tr><td>1.<td>Obtain general patient assessment.
+<tr><td>2.<td>Support life-threatening problems associated with airway, breathing, and circulation.
+<tr><td>3.<td>Assess for signs of trauma; take C-spine precautions per assessment.
+<tr><td>4.<td>Administer Oxygen to maintain <i><u>SPO</u></i><sub>2</sub> 94 - 99%
+<tr><td>5.<td>Perform wound care only to assess the severity and provide hemorrhage control.
+<tr><td>6.<td>If an acute medical condition is noted, refer to appropriate <i><u>Medical Patient protocol</u></i>.
+<tr><td>7.<td>If physical trauma is noted, refer to appropriate <i><u>Trauma Patient protocol</u></i>.
+<tr><td>8.<td>Discourage the patient from changing clothes or bathing.
+

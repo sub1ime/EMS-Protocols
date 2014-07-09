@@ -1,35 +1,44 @@
 Shock Managment
-
+protocolid = 30
 ==================================
-1. Perform general patient management.
-2. Support life-threatening problems associated with
-airway, breathing, and circulation.
-3. Assess for signs of shock including, but not limited to:
-• Restlessness, altered mental status, hypoperfusion
-(cool, pale, moist skin), tachypnea (rapid breathing),
-rapid, weak pulse, orthostatic hypotension (blood
-pressure suddenly drops on standing up), nausea
-and thirst.
-4. Administer oxygen per patient assessment to maintain
-SpO 2 between 94 - 99%. Support respirations as
-necessary with a BVM.
-5. Transport as soon as possible.
-6. Control external bleeding with direct pressure, then
-tourniquet if direct pressure is inadequate.
-7. If pregnant (uterine fundus above umbilicus), place the
-patient on her left side.
-8. Maintain body temperature by protecting the patient from
-the environment, removing wet clothing and covering the
-patient with a blanket.
-9. Establish a large bore IV or IO of Normal Saline. If time
-permits, establish second access.
+EMTP/EMTI/EMTEN
+------------------
+<table><tr><td>1.<td>Perform general patient management.
+<tr><td>2.<td>Support life-threatening problems associated with airway, breathing, and circulation.
+<tr><td>3.<td>Assess for signs of shock including, but not limited to:
+• Restlessness, altered mental status, hypoperfusion (cool, pale, moist skin), tachypnea (rapid breathing), rapid, weak pulse, orthostatic hypotension (blood pressure suddenly drops on standing up), nausea and thirst.
+<tr><td>4.<td>Administer oxygen per patient assessment to maintain <i><u>SPO</u></i><sub>2</sub> between 94 - 99%. Support respirations as necessary with a BVM.
+<tr><td>5.<td>Transport as soon as possible.
+<tr><td>6.<td>Control external bleeding with direct pressure, then tourniquet if direct pressure is inadequate.
+<tr><td>7.<td>If pregnant (uterine fundus above umbilicus), place the patient on her left side.
+<tr><td>8.<td>Maintain body temperature by protecting the patient from the environment, removing wet clothing and covering the patient with a blanket.
+<tr><td>9.<td>Establish a large bore IV or IO of Normal Saline. If time permits, establish second access.
 • Do not delay transport to establish vascular access.
-10. Give a 20 mL / kg bolus. If no improvement after the first
-20 mL / kg bolus, may repeat once. While administering
-a fluid bolus, frequently reassess perfusion for
-improvement. If perfusion improves, slow the IV to KVO
-and monitor closely. If patient develops fluid overload
-respiratory distress (dyspnea, crackles, rhonchi,
-decreasing SpO 2 ), slow the IV to KVO.
-11. Transport and perform ongoing assessment as
-indicated.
+<tr><td>10.<td>Give a 20 mL / kg bolus. If no improvement after the first 20 mL / kg bolus, may repeat once. While administering a fluid bolus, frequently reassess perfusion for improvement. If perfusion improves, slow the IV to KVO and monitor closely. If patient develops fluid overload respiratory distress (dyspnea, crackles, rhonchi, decreasing <i><u>SPO</u></i><sub>2</sub> ), slow the IV to KVO.
+<tr><td>11.<td>Transport and perform ongoing assessment as indicated.
+
+EMTB
+----------------------
+<table><tr><td>1.<td>Perform general patient management.
+<tr><td>2.<td>Support life-threatening problems associated with airway, breathing, and circulation.
+<tr><td>3.<td>Assess for signs of shock including, but not limited to:
+• Restlessness, altered mental status, hypoperfusion (cool, pale, moist skin), tachypnea (rapid breathing), rapid, weak pulse, orthostatic hypotension (blood pressure suddenly drops on standing up), nausea and thirst.
+<tr><td>4.<td>Administer oxygen per patient assessment to maintain <i><u>SPO</u></i><sub>2</sub> between 94 - 99%. Support respirations as necessary with a BVM.
+<tr><td>5.<td>Transport as soon as possible.
+<tr><td>6.<td>Control external bleeding with direct pressure, then tourniquet if direct pressure is inadequate.
+<tr><td>7.<td>If pregnant (uterine fundus above umbilicus), place the patient on her left side.
+<tr><td>8.<td>Maintain body temperature by protecting the patient from the environment, removing wet clothing and covering the patient with a blanket.
+<tr><td>9.<td>Transport and perform ongoing assessment as indicated.
+
+EMTA
+-----------
+<table><tr><td>1.<td>Perform general patient management.
+<tr><td>2.<td>Support life-threatening problems associated with airway, breathing, and circulation.
+<tr><td>3.<td>Assess for signs of shock including, but not limited to:
+• Restlessness, altered mental status, hypoperfusion (cool, pale, moist skin), tachypnea (rapid breathing), rapid, weak pulse, orthostatic hypotension (blood pressure suddenly drops on standing up), nausea and thirst.
+<tr><td>4.<td>Administer oxygen per patient assessment to maintain <i><u>SPO</u></i><sub>2</sub> between 94 - 99%. Support respirations as necessary with a BVM.
+<tr><td>5.<td>Transport as soon as possible.
+<tr><td>6.<td>Control external bleeding with direct pressure, then tourniquet if direct pressure is inadequate.
+<tr><td>7.<td>If pregnant (uterine fundus above umbilicus), place the patient on her left side.
+<tr><td>8.<td>Maintain body temperature by protecting the patient from the environment, removing wet clothing and covering the patient with a blanket.
+

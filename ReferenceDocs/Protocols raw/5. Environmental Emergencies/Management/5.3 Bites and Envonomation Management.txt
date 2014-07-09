@@ -1,30 +1,45 @@
 Bites and Envonomations
-
+protocolid=48
 ===================================
-1. Perform general patient management.
-2. Support life-threatening problems associated with
-airway, breathing, and circulation.
-3. Treat for shock and conserve body heat. Keep the
-patient calm.
-4. If applicable, locate the fang marks and clean the site
-with soap and water. Note: There may be only one fang
-mark.
-5. Remove any rings, bracelets, or other constricting items
-on the bitten / stung extremity.
-6. Keep any bitten / stung extremities immobilized – the
-application of a splint will help. Keep the injury at the
-level of the heart. When not possible, keep the injury
-below the level of the heart.
-7. DO NOT apply light constricting bands above and below
-the wound.
-8. If envenomation is suspected, every 15 minutes, use a
-pen to mark the border of the advancing edema and
-document the time.
-9. Consult Medical Control or Poison Control. For serious
-envenomation, the patient may need to be transported or
-evacuated to a hospital with the appropriate anti-venom.
-10. Start an IV of Normal Saline at KVO.
-11. For signs and symptoms of shock, follow the Shock
-protocol.
-12. Transport and perform ongoing assessment as
-indicated.
+EMTP/EMTI/EMTEN
+--------------------
+<table><tr><td>1.<td>Perform general patient management.
+<tr><td>2.<td>Support life-threatening problems associated with airway, breathing, and circulation.
+<tr><td>3.<td>Treat for shock and conserve body heat. Keep the patient calm.
+<tr><td>4.<td>If applicable, locate the fang marks and clean the site with soap and water. Note: There may be only one fang mark.
+<tr><td>5.<td>Remove any rings, bracelets, or other constricting items on the bitten / stung extremity.
+<tr><td>6.<td>Keep any bitten / stung extremities immobilized – the application of a splint will help. Keep the injury at the level of the heart. When not possible, keep the injury below the level of the heart.
+<tr><td>7.<td>DO NOT apply light constricting bands above and below the wound.
+<tr><td>8.<td>If envenomation is suspected, every 15 minutes, use a pen to mark the border of the advancing edema and document the time.
+<tr><td>9.<td>Consult Medical Control or Poison Control. For serious envenomation, the patient may need to be transported or evacuated to a hospital with the appropriate anti-venom.
+<tr><td>10.<td>Start an IV of Normal Saline at KVO.
+<tr><td>11.<td>For signs and symptoms of shock, follow the <i><u>Shock protocol</u></i>.
+<tr><td>12.<td>Transport and perform ongoing assessment as indicated.
+
+EMTB
+--------
+<table><tr><td>1.<td>Perform general patient management.
+<tr><td>2.<td>Support life-threatening problems associated with airway, breathing, and circulation.
+<tr><td>3.<td>Treat for shock and conserve body heat. Keep the patient calm.
+<tr><td>4.<td>If applicable, locate the fang marks and clean the site with soap and water. Note: There may be only one fang mark.
+<tr><td>5.<td>Remove any rings, bracelets, or other constricting items on the bitten / stung extremity.
+<tr><td>6.<td>Keep any bitten / stung extremities immobilized – the application of a splint will help. Keep the injury at the level of the heart. When not possible, keep the injury below the level of the heart.
+<tr><td>7.<td>DO NOT apply light constricting bands above and below the wound.
+<tr><td>8.<td>If envenomation is suspected, every 15 minutes, use a pen to mark the border of the advancing edema and document the time.
+<tr><td>9.<td>Consult Medical Control or Poison Control. For serious envenomation, the patient may need to be transported or evacuated to a hospital with the appropriate anti-venom.
+<tr><td>10.<td>For signs and symptoms of shock, follow the <i><u>Shock protocol</u></i>.
+<tr><td>11.<td>Transport and perform ongoing assessment as indicated.
+
+EMTA
+----------
+<table><tr><td>1.<td>Perform general patient management.
+<tr><td>2.<td>Support life-threatening problems associated with airway, breathing, and circulation.
+<tr><td>3.<td>Treat for shock and conserve body heat. Keep the patient calm.
+<tr><td>4.<td>If applicable, locate the fang marks and clean the site with soap and water. Note: There may be only one fang mark.
+<tr><td>5.<td>Remove any rings, bracelets, or other constricting items on the bitten / stung extremity.
+<tr><td>6.<td>Keep any bitten / stung extremities immobilized – the application of a splint will help. Keep the injury at the level of the heart. When not possible, keep the injury below the level of the heart.
+<tr><td>7.<td>DO NOT apply light constricting bands above and below the wound.
+<tr><td>8.<td>If envenomation is suspected, every 15 minutes, use a pen to mark the border of the advancing edema and document the time.
+<tr><td>9.<td>Consult Medical Control or Poison Control. For serious envenomation, the patient may need to be transported or evacuated to a hospital with the appropriate anti-venom.
+<tr><td>10.<td>For signs and symptoms of shock, follow the <i><u>Shock protocol</u></i>.
+

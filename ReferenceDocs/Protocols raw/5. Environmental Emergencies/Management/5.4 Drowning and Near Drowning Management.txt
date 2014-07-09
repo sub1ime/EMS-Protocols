@@ -1,19 +1,39 @@
 Drowning and Near Drowning Management
-
+protocolid=49
 =====================================
-1. Perform general patient management.
-2. Support life-threatening problems associated with
-airway, breathing, and circulation. Assess mechanism
-or injury and C-spine precautions.
-3. Administer oxygen to maintain SPO 2 94 - 99%.
-Consider supporting respirations with a BVM.
-4. If the patient is in critical respiratory distress, consider
-placement of orotracheal intubation.
-5. Remove wet clothing and prevent heat loss. If
-suspected, refer to Hypothermia protocol.
-6. Monitor capnography.
-7. Place patient on cardiac monitor and obtain / interpret 12
-lead ECG.
-8. Establish an IV of normal saline at KVO.
-9. Transport and perform ongoing assessment as
-indicated.
+EMTP/EMTI
+-----------------
+<table><tr><td>1.<td>Perform general patient management.
+<tr><td>2.<td>Support life-threatening problems associated with airway, breathing, and circulation. Assess mechanism or injury and C-spine precautions.
+<tr><td>3.<td>Administer oxygen to maintain <i><u>SPO</u></i><sub>2</sub> 94 - 99%. Consider supporting respirations with a BVM.
+<tr><td>4.<td>If the patient is in critical respiratory distress, consider placement of <b>orotracheal</b> intubation.
+<tr><td>5.<td>Remove wet clothing and prevent heat loss. If suspected, refer to <i><u>Hypothermia protocol</u></i>.
+<tr><td>6.<td>Monitor <i><u>capnography</u></i>.
+<tr><td>7.<td>Place patient on cardiac monitor and obtain / interpret <i><u>12 lead ECG</u></i>.
+<tr><td>8.<td>Establish an IV of normal saline at KVO.
+<tr><td>9.<td>Transport and perform ongoing assessment as indicated.
+
+EMTEN
+--------------
+<table><tr><td>1.<td>Perform general patient management.
+<tr><td>2.<td>Support life-threatening problems associated with airway, breathing, and circulation. Assess mechanism or injury and C-spine precautions.
+<tr><td>3.<td>Administer oxygen to maintain <i><u>SPO</u></i><sub>2</sub> 94 - 99%. Consider supporting respirations with a BVM.
+<tr><td>4.<td>Remove wet clothing and prevent heat loss. If suspected, refer to <i><u>Hypothermia protocol</u></i>.
+<tr><td>5.<td>Establish an IV of normal saline at KVO.
+<tr><td>6.<td>Transport and perform ongoing assessment as indicated.
+
+EMTB
+--------
+<table><tr><td>1.<td>Perform general patient management.
+<tr><td>2.<td>Support life-threatening problems associated with airway, breathing, and circulation. Assess mechanism or injury and C-spine precautions.
+<tr><td>3.<td>Administer oxygen to maintain <i><u>SPO</u></i><sub>2</sub> 94 - 99%. Consider supporting respirations with a BVM.
+<tr><td>4.<td>Remove wet clothing and prevent heat loss. If suspected, refer to <i><u>Hypothermia protocol</u></i>.
+<tr><td>5.<td>Transport and perform ongoing assessment as indicated.
+
+EMTA
+-----------
+<table><tr><td>1.<td>Perform general patient management.
+<tr><td>2.<td>Support life-threatening problems associated with airway, breathing, and circulation. Assess mechanism or injury and C-spine precautions.
+<tr><td>3.<td>Administer oxygen to maintain <i><u>SPO</u></i><sub>2</sub> 94 - 99%. Consider supporting respirations with a BVM.
+<tr><td>4.<td>Remove wet clothing and prevent heat loss. If suspected, refer to <i><u>Hypothermia protocol</u></i>.
+

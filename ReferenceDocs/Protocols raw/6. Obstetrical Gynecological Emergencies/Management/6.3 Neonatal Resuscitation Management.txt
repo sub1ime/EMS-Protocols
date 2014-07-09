@@ -1,33 +1,25 @@
 Neonatal Resuscitation
-
+protocolid=52
 =======================================
-If obvious obstruction to spontaneous breathing or
-requires positive pressure ventilation, gently suction the
-newborn’s mouth, then nostrils, with a bulb syringe for 3
-to 5 seconds. Don’t routinely suction an active baby.
-2. Evaluate respirations, heart rate (apical pulse or pulse
-at the base of the umbilical cord), and state of
-oxygenation. Obtain 1 minute APGAR.
-3. If respirations are inadequate, HR > 100 bpm:
-a. Initiate positive-pressure ventilation with a BVM
-NOT attached to oxygen. Deliver 40 to 60
-breaths per minute. Use only enough volume to
-make the newborn’s chest rise.
-b. If the newborn is vigorous (strong respiratory
-effort, good muscle tone, and a heart rate greater
-than 100 bpm), no routine suctioning is required.
-4. If respirations are inadequate and HR less than 100
-bpm:
-a. If the newborn is NOT vigorous (poor or absent
-respiratory effort, flaccid, lethargic), consider
-immediate meconium aspiration via endotracheal
-suctioning. Suctioning of meconium should not
-distract from the need for emergent oxygenation
-and ventilation of the newly born. In the patient
-with meconium aspiration and respiratory failure
-or apnea, quickly suction meconium and then
-begin BVM ventilations.
-b. Initiate positive-pressure ventilation with a BVM
-on room air. If no increase in HR after 90
-seconds, administer 100% oxygen.
-c. If HR is below 60 bpm, begin compressions.
+EMTP/EMTI
+-------------------
+<table><tr><td>1.<td>If obvious obstruction to spontaneous breathing or requires positive pressure ventilation, gently suction the newborn’s mouth, then nostrils, with a bulb syringe for 3 to 5 seconds. Don’t routinely suction an active baby.
+<tr><td>2.<td>Evaluate respirations, heart rate (apical pulse or pulse at the base of the umbilical cord), and state of oxygenation. Obtain 1 minute APGAR.
+<tr><td>3.<td>If respirations are inadequate, HR > 100 bpm:
+<tr><td>a.<td>Initiate positive-pressure ventilation with a BVM NOT attached to oxygen. Deliver 40 to 60 breaths per minute. Use only enough volume to make the newborn’s chest rise.
+<tr><td>b.<td>If the newborn is vigorous (strong respiratory effort, good muscle tone, and a heart rate greater than 100 bpm), no routine suctioning is required.
+<tr><td>4.<td>If respirations are inadequate and HR less than 100 bpm:
+<tr><td>a.<td>If the newborn is NOT vigorous (poor or absent respiratory effort, flaccid, lethargic), consider immediate meconium aspiration via endotracheal suctioning. Suctioning of meconium should not distract from the need for emergent oxygenation and ventilation of the newly born. In the patient with meconium aspiration and respiratory failure or apnea, quickly suction meconium and then begin BVM ventilations.
+<tr><td>b.<td>Initiate positive-pressure ventilation with a BVM on room air. If no increase in HR after 90 seconds, administer 100% oxygen.
+<tr><td>c.<td>If HR is below 60 bpm, begin compressions.
+
+EMTEN/EMTB/EMTA
+--------------------
+<table><tr><td>1.<td>If obvious obstruction to spontaneous breathing or requires positive pressure ventilation, gently suction the newborn’s mouth, then nostrils, with a bulb syringe for 3 to 5 seconds. Don’t routinely suction an active baby.
+<tr><td>2.<td>Evaluate respirations, heart rate (apical pulse or pulse at the base of the umbilical cord), and state of oxygenation. Obtain 1 minute APGAR.
+<tr><td>3.<td>If respirations are inadequate, HR > 100 bpm:
+<tr><td>a.<td>Initiate positive-pressure ventilation with a BVM NOT attached to oxygen. Deliver 40 to 60 breaths per minute. Use only enough volume to make the newborn’s chest rise.
+<tr><td>b.<td>If the newborn is vigorous (strong respiratory effort, good muscle tone, and a heart rate greater than 100 bpm), no routine suctioning is required.
+<tr><td>4.<td>If respirations are inadequate and HR less than 100 bpm:
+<tr><td>a.<td>Initiate positive-pressure ventilation with a BVM on room air. If no increase in HR after 90 seconds, administer 100% oxygen.
+<tr><td>b.<td>If HR is below 60 bpm, begin compressions.

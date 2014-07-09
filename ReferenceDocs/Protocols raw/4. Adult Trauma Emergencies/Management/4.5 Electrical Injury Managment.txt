@@ -1,20 +1,37 @@
 Electrical Injuries
-
+protocolid=38
 =====================================
-1. Perform general patient management. Do not touch the
-patient if they are in contact with the electrical source.
-2. Support life-threatening problems.
-3. Administer oxygen to maintain SPO 2 94 - 99%.
-Consider supporting respirations with a BVM.
-4. Determine extent of any burn injuries. Refer to the
-Burns protocol. Avoid initiating IVs in areas of burn
-unless absolutely necessary.
-5. Place patient on cardiac monitor; obtain/interpret 12
-Lead ECG. Refer to the appropriate Cardiac Care
-protocol for dysrhythmias. If hyperkalemia is suspected,
-contact Medical Control.
-6. Establish an IV of normal saline at KVO.
-7. Consider administration of pain management per Pain
-Management protocol.
-8. Transport to a trauma facility and perform ongoing
-assessment as indicated.
+EMTP/EMTI
+----------------
+<table><tr><td>1.<td>Perform general patient management. Do not touch the patient if they are in contact with the electrical source.
+<tr><td>2.<td>Support life-threatening problems.
+<tr><td>3.<td>Administer oxygen to maintain <i><u>SPO</u></i><sub>2</sub> 94 - 99%. Consider supporting respirations with a BVM.
+<tr><td>4.<td>Determine extent of any burn injuries. Refer to the <i><u>Burns protocol</u></i>. Avoid initiating IVs in areas of burn unless absolutely necessary.
+<tr><td>5.<td>Place patient on cardiac monitor; obtain/interpret <i><u>12 Lead ECG</u></i>. Refer to the appropriate <i><u>Cardiac Care protocol</u></i> for dysrhythmias. If hyperkalemia is suspected, contact Medical Control.
+<tr><td>6.<td>Establish an IV of normal saline at KVO.
+<tr><td>7.<td>Consider administration of pain management per <i><u>Pain Management protocol</u></i>.
+<tr><td>8.<td>Transport to a trauma facility and perform ongoing assessment as indicated.
+
+EMTEN
+------------
+<table><tr><td>1.<td>Perform general patient management. Do not touch the patient if they are in contact with the electrical source.
+<tr><td>2.<td>Support life-threatening problems.
+<tr><td>3.<td>Administer oxygen to maintain <i><u>SPO</u></i><sub>2</sub> 94 - 99%. Consider supporting respirations with a BVM.
+<tr><td>4.<td>Determine extent of any burn injuries. Refer to the <i><u>Burns protocol</u></i>. Avoid initiating IVs in areas of burn unless absolutely necessary.
+<tr><td>5.<td>Establish an IV of normal saline at KVO.
+<tr><td>6.<td>Transport to a trauma facility and perform ongoing assessment as indicated.
+
+EMTB
+-----------
+<table><tr><td>1.<td>Perform general patient management. Do not touch the patient if they are in contact with the electrical source.
+<tr><td>2.<td>Support life-threatening problems.
+<tr><td>3.<td>Administer oxygen to maintain <i><u>SPO</u></i><sub>2</sub> 94 - 99%. Consider supporting respirations with a BVM.
+<tr><td>4.<td>Determine extent of any burn injuries. Refer to the <i><u>Burns protocol</u></i>. Avoid initiating IVs in areas of burn unless absolutely necessary.
+<tr><td>5.<td>Transport to a trauma facility and perform ongoing assessment as indicated.
+
+EMTA
+----------
+<table><tr><td>1.<td>Perform general patient management. Do not touch the patient if they are in contact with the electrical source.
+<tr><td>2.<td>Support life-threatening problems.
+<tr><td>3.<td>Administer oxygen to maintain <i><u>SPO</u></i><sub>2</sub> 94 - 99%. Consider supporting respirations with a BVM.
+
