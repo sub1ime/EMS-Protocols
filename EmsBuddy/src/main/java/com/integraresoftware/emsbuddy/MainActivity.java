@@ -3,6 +3,7 @@ package com.integraresoftware.emsbuddy;
 import android.content.Intent;
 import android.os.Bundle;
 import android.support.v7.app.ActionBarActivity;
+import android.text.Html;
 import android.view.Menu;
 import android.view.View;
 import android.widget.LinearLayout;
@@ -93,12 +94,8 @@ public class MainActivity extends ActionBarActivity {
     public void setAnnouncements() {
         LinearLayout ll = (LinearLayout) findViewById(R.id.main_linearlayout);
 
-        TextView tv = new TextView(this);
-        tv.setText("Be advised, this app is not finished. The 'Purpose' section is mostly complete.\n\n I'm Currently working on the 'Management' section of the protocols. The only protocols that actually work are Adult Cardiovascular Emergencies.\n\nIt may not look like much but this app is mostly done.\n\nBe advised this app will update a lot as I add new features and tweak old ones. Anyone who wants to help, may help. You don't have to know how to program for some of the tasks I have left to do.");
-        ll.addView(tv);
-
         TextView tv1 = new TextView(this);
-        tv1.setText("\n\n1/19/14\nThe \"Management\" section is complete. The only management data complete is in Adult Cardiovascular Emergencies. All of the others will be blank.");
+		tv1.setText(Html.fromHtml("<b>This app is not finished</b>\n\nAll of the patient care protocols are finished with the exception of the 'Management' sections. Only half of those are done and that is what I am currently working on.\n\nI still need to proofread these protocols as well. If you come across gramatical errors that are different from the gramatical errors in the protocols, please drop me an email at burrusscl@gmail.com.\n\nAlso, please submit bug reports if it gives you the option."));
 
         ll.addView(tv1);
     }

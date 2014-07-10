@@ -7,6 +7,7 @@ import android.os.Bundle;
 import android.support.v4.app.Fragment;
 import android.text.Html;
 import android.util.Log;
+import android.view.Gravity;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -73,16 +74,19 @@ public class FragmentManagement extends Fragment {
 
         Log.d(TAG, "numberRows = " + numberRows);
 
+		// outer loop goes through each row
         for (int i = 1; i <= numberRows; i++) {
             LinearLayout ll = new LinearLayout(activity);
             ll.setOrientation(LinearLayout.HORIZONTAL);
             String[] mDataText = rows[i].split("<td>");
 
+			// inner loop goes through each column in the current row
             for (int q = 1; q <= mDataText.length - 1; q++) {
                 String mString = formatText(mDataText[q]);
 
 				// if this row is an image then do the following
 				if (mString.matches("<image>")) {
+					//TODO need to debug this
 					// get the name of the image
 					String[] imageName = mString.split("<image>");
 					final int imageIntLocation = activity.getResources().getIdentifier(
@@ -105,8 +109,13 @@ public class FragmentManagement extends Fragment {
 						}
 					});
 					ll.addView(iv);
+					TextView tv = new TextView(activity);
+					tv.setText("Click to Zoom");
+					tv.setGravity(Gravity.CENTER_HORIZONTAL);
+					tv.setTextColor(Color.BLUE);
+					ll.addView(tv);
 					// the whole row is the image so we do not need another data cell
-					// so we break this section of the loop
+					// so we break the inner loop
 					break;
 				}
 

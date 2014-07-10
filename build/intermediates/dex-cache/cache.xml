@@ -2,6 +2,12 @@
 <pre-dex-items>
 
     <item
+        dex="/home/chris/workspace/EmsBuddy/EmsBuddy/build/intermediates/pre-dexed/debug/internal_impl-20.0.0-a7f19ce05ab8be6bab91e50db50aa8c6dee46ba8.jar"
+        jar="/home/chris/workspace/EmsBuddy/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/libs/internal_impl-20.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d"/>
+    <item
         dex="/home/chris/workspace/EmsBuddy/EmsBuddy/build/intermediates/pre-dexed/debug/android-sqlite-asset-helper-e4f9eb60fb637c2961a456470977ac6f725f7ab7.jar"
         jar="/home/chris/workspace/EmsBuddy/EmsBuddy/libs/android-sqlite-asset-helper.jar"
         jumboMode="false"
@@ -25,11 +31,5 @@
         jumboMode="false"
         revision="20.0.0"
         sha1="8694693636ab36910c8100ce527c258ff3ebece0"/>
-    <item
-        dex="/home/chris/workspace/EmsBuddy/EmsBuddy/build/intermediates/pre-dexed/debug/internal_impl-20.0.0-a7f19ce05ab8be6bab91e50db50aa8c6dee46ba8.jar"
-        jar="/home/chris/workspace/EmsBuddy/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/libs/internal_impl-20.0.0.jar"
-        jumboMode="false"
-        revision="20.0.0"
-        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d"/>
 
 </pre-dex-items>
