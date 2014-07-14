@@ -1,83 +1,34 @@
 Breech Delivery
 protocolid=54
 ==========================
-Management for All Levels - Medical Control Only
-1. Place mother in delivery position, elevate pelvis with
-pillows (modified Trendelenburg). Figure 1
-2. If possible, allow the infant to deliver until the buttock
-appears.
-3. When providing traction, grasp the baby so that your
-thumbs are over the baby’s hips (iliac crests). Do not
-pull on the legs or apply pressure to the soft lower
-back
-4. Rotate the torso so the baby is face down in the birth
-canal. 
+All Levels
+--------------------
+<table><tr><td><td><b><H1>Management for All Levels - Medical Control Only</H1></b>
+<tr><td><image>breech_delivery_1
+<tr><td>1.<td>Place mother in delivery position, elevate pelvis with pillows (modified Trendelenburg).
+<tr><td>2.<td>If possible, allow the infant to deliver until the buttock appears.
+<tr><td>3.<td>When providing traction, grasp the baby so that your thumbs are over the baby’s hips (iliac crests). Do not pull on the legs or apply pressure to the soft lower back
+<tr><td>4.<td>Rotate the torso so the baby is face down in the birth canal. 
+<tr><td><image>breech_delivery_2
+<tr><td>5.<td>If possible, extract a 4 - 6 inch loop of umbilical cord for slack.
+<tr><td>6.<td>Apply gentle downward traction until the hairline is visible.
+<tr><td>7.<td>Place one hand under the trunk, so that the infant’s body rests on the palm, and the index and middle finger of that same hand support the mouth and chin.
+<tr><td>8.<td>Place the other hand on the infant’s back and shoulders, with the middle and index finger of that hand resting on the infant’s shoulders, supporting the posterior neck.
+<tr><td>9.<td>A towel can be wrapped around the lower body to provide a more stable grip, as needed.
+<tr><td>10.<td>Have your assistant apply suprapubic pressure to keep the fetal head flexed, expedite delivery, and reduce risk of spinal injury. 
+<tr><td><image>breech_delivery_3
+<tr><td>11.<td>Continue light downward traction until shoulder blades or armpits appear.
+<tr><td>12.<td>If resistance is felt, arms may need to be freed prior to continuing. Exert gentle outward traction on the baby while rotating the baby clockwise and then counterclockwise a few degrees to free the arms.
+<tr><td>13.<td>If the arms are trapped in the birth canal, you may need to reach up along the side of the baby and sweep them one at a time, across the chest and out of the vagina.
+<tr><td>14.<td>After the shoulders have delivered, rotate the infant so that the back is anterior. 
+<tr><td><image>breech_delivery_4
+<tr><td>15.<td>Apply gentle downward traction until the hairline is visible.
+<tr><td>16.<td>Place one hand under the trunk, so that the infant’s body rests on the palm, and the index and middle finger of that same hand support the mouth and chin.
+<tr><td>17.<td>Place the other hand on the infant’s back and shoulders, with the middle and index finger of that hand resting on the infant’s shoulders, supporting the posterior neck.
+<tr><td>18.<td>Slowly bring the body upward, while a second person applies suprapubic pressure to facilitate the delivery of the head.
+<tr><td>19.<td>Slowly allow the chin, face, and then brow to be delivered. Try not to let the head “pop” out of the birth canal. A slower, controlled delivery is less traumatic.
+<tr><td>20.<td>Perform post birth procedures and / or neonatal resuscitation per normal patient care protocol.
+<tr><td>21.<td>If unable to deliver head, place gloved index and middle finger in the vagina with the palm towards the baby’s face to maintain airway and pushing the infant up to relieve pressure on the cord.
+<tr><td>22.<td>Transport immediately.
 
-Figure 2
-
-Management for All Levels - Medical Control Only
-
-Figure 2
-
-5. If possible, extract a 4 - 6 inch loop of umbilical cord for
-slack.
-6. Apply gentle downward traction until the hairline is
-visible.
-7. Place one hand under the trunk, so that the infant’s
-body rests on the palm, and the index and middle
-finger of that same hand support the mouth and chin.
-8. Place the other hand on the infant’s back and
-shoulders, with the middle and index finger of that
-hand resting on the infant’s shoulders, supporting the
-posterior neck.
-9. A towel can be wrapped around the lower body to
-provide a more stable grip, as needed.
-10. Have your assistant apply suprapubic pressure to keep
-the fetal head flexed, expedite delivery, and reduce
-risk of spinal injury. 
-
-Figure 3
-Figure 3
-
-11. Continue light downward traction until shoulder blades
-or armpits appear.
-12. If resistance is felt, arms may need to be freed prior to
-continuing. Exert gentle outward traction on the baby
-while rotating the baby clockwise and then
-counterclockwise a few degrees to free the arms.
-
-Management for All Levels - Medical Control Only
-13. If the arms are trapped in the birth canal, you may
-need to reach up along the side of the baby and sweep
-them one at a time, across the chest and out of the
-vagina.
-14. After the shoulders have delivered, rotate the infant so
-that the back is anterior. 
-
-Figure 4
-
-15. Apply gentle downward traction until the hairline is
-visible.
-16. Place one hand under the trunk, so that the infant’s
-body rests on the palm, and the index and middle
-finger of that same hand support the mouth and chin.
-17. Place the other hand on the infant’s back and
-shoulders, with the middle and index finger of that
-hand resting on the infant’s shoulders, supporting the
-posterior neck.
-18. Slowly bring the body upward, while a second person
-applies suprapubic pressure to facilitate the delivery of
-the head.
-19. Slowly allow the chin, face, and then brow to be
-delivered. Try not to let the head “pop” out of the birth
-canal. A slower, controlled delivery is less traumatic.
-20. Perform post birth procedures and / or neonatal
-resuscitation per normal patient care protocol.
-21. If unable to deliver head, place gloved index and
-middle finger in the vagina with the palm towards the
-baby’s face to maintain airway and pushing the infant
-up to relieve pressure on the cord.
-22. Transport immediately.
-
-Figure 4
 

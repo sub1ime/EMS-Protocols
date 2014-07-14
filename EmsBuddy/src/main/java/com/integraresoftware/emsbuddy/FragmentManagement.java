@@ -82,13 +82,18 @@ public class FragmentManagement extends Fragment {
 
 			// inner loop goes through each column in the current row
             for (int q = 1; q <= mDataText.length - 1; q++) {
-                String mString = formatText(mDataText[q]);
+				String mString = formatText(mDataText[q]);
 
 				// if this row is an image then do the following
-				if (mString.matches("<image>")) {
+				if (mDataText[q].contains("<image>")) {
 					//TODO need to debug this
+					// create a linearLayout for the image and text
+					LinearLayout ll2 = new LinearLayout(activity);
+					ll2.setOrientation(LinearLayout.VERTICAL);
+					ll2.setGravity(Gravity.CENTER_HORIZONTAL);
 					// get the name of the image
-					String[] imageName = mString.split("<image>");
+					String[] imageName = mDataText[q].split("<image>");
+					if (imageName[1].contains("\n")) imageName[1] = imageName[1].replaceAll("\n", "");
 					final int imageIntLocation = activity.getResources().getIdentifier(
 							imageName[1], "drawable", activity.getPackageName());
 					// create imageview and add the image
@@ -108,16 +113,26 @@ public class FragmentManagement extends Fragment {
 							startActivity(i);
 						}
 					});
-					ll.addView(iv);
+					// create layoutparams to center the image
+					LinearLayout.LayoutParams lpt = new LinearLayout.LayoutParams(
+							ViewGroup.LayoutParams.MATCH_PARENT,
+							ViewGroup.LayoutParams.WRAP_CONTENT);
+					lpt.gravity = Gravity.CENTER_HORIZONTAL;
+					// add image view to ll2
+					ll2.addView(iv, lpt);
+					// create a seperator
 					TextView tv = new TextView(activity);
 					tv.setText("Click to Zoom");
 					tv.setGravity(Gravity.CENTER_HORIZONTAL);
 					tv.setTextColor(Color.BLUE);
-					ll.addView(tv);
+					// add text to ll2
+					ll2.addView(tv);
+					// add ll2 to main layout
+					ll.addView(ll2, lpt);
 					// the whole row is the image so we do not need another data cell
 					// so we break the inner loop
 					break;
-				}
+				} // end of image insert
 
 				// if this is a sub-bullet then we need to add extra indentation
                 if (mString.matches("^[^\\d].*") && q == 1) {
