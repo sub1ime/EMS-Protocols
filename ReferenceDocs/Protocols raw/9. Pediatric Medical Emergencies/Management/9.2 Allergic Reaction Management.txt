@@ -1,43 +1,59 @@
 Allergic Reaction - Peds
-
+protocolid=75
 =============================
-1. Perform general patient management.
-2. Support life-threatening problems associated with
-airway, breathing, and circulation.
-3. Administer oxygen to maintain SPO 2 94 - 99%
-4. Administer DIPHENHYDRAMINE 1 mg / kg up to 50 mg
-IM or IV. The IV route is preferred for the patient in
-severe shock. If an IV cannot be readily established,
-give diphenhydramine via the IM route.
-5. If the patient is experiencing respiratory distress with
-wheezing, refer to the Respiratory Distress protocol.
-6. Transport as soon as possible.
-7. For severe symptoms such as airway compromise,
-severe respiratory distress, or hypotension:
-a. If available, administer epinephrine via an
-EpiPen or EpiPen Jr. Autoinjector.
-b. If EpiPen® or EpiPen Jr. is unavailable; give
-EPINEPHERINE 1:1,000 0.01 mg / kg up to
-0.3 mg IM. Call Medical Control if no
-improvement.
+EMTP/EMTI
+--------------------
+<table><tr><td>1.<td>Perform general patient management.
+<tr><td>2.<td>Support life-threatening problems associated with airway, breathing, and circulation.
+<tr><td>3.<td>Administer oxygen to maintain <i><u>SPO</u></i><sub>2</sub> 94 - 99%
+<tr><td>4.<td>Administer <i><u>DIPHENHYDRAMINE</u></i> 1 mg / kg up to 50 mg IM or IV. The IV route is preferred for the patient in severe shock. If an IV cannot be readily established, give diphenhydramine via the IM route.
+<tr><td>5.<td>If the patient is experiencing respiratory distress with wheezing, refer to the <i><u>Respiratory Distress protocol</u></i>.
+<tr><td>6.<td>Transport as soon as possible.
+<tr><td>7.<td>For severe symptoms such as airway compromise, severe respiratory distress, or hypotension:
+<tr><td>a.<td>If available, administer epinephrine via an EpiPen® or EpiPen Jr.® Autoinjector.
+<tr><td>b.<td>If EpiPen® or EpiPen Jr.® is unavailable; give <i><u>EPINEPHERINE</u></i> 1:1,000 0.01 mg / kg up to 0.3 mg IM. Call Medical Control if no improvement.
+<tr><td>8.<td>Establish an IV of normal saline at KVO. Titrate to a systolic pressure appropriate for child:
+<tr><td>a.<td>Birth to 1 month - 60 mmHg
+<tr><td>b.<td>1 month to 1 year - > 70 mmHg
+<tr><td>c.<td>Greater than 1 year – 70 + [2 x Age (years)]
+<tr><td>9.<td>If hypoperfusion persists following the first dose of epinephrine, consider administration of 20mL/kg normal saline IV. While administering a fluid bolus, frequently reassess perfusion for improvement. If perfusion improves, slow the IV to KVO and monitor closely. If patient develops fluid overload respiratory distress (dyspnea, crackles, rhonchi, decreasing <i><u>SPO</u></i><sub>2</sub>), slow the IV to KVO.
+<tr><td>10.<td>Administer <i><u>PREDNISONE</u></i> 1 - 2 mg / kg up to 60 mg PO if patient is > 3 years old and can swallow pills.
+<tr><td>11.<td>Transport and perform ongoing assessment as indicated.
 
-8. Establish an IV of normal saline at KVO. Titrate to a
-systolic pressure appropriate for child:
-a.
-Birth to 1 month - 60 mmHg
-b.
-1 month to 1 year - > 70 mmHg
-c.
-Greater than 1 year – 70 + [2 x Age (years)]
-9. If hypoperfusion persists following the first dose of
-epinephrine, consider administration of 20mL/kg normal
-saline IV. While administering a fluid bolus, frequently
-reassess perfusion for improvement. If perfusion
-improves, slow the IV to KVO and monitor closely. If
-patient develops fluid overload respiratory distress
-(dyspnea, crackles, rhonchi, decreasing SpO 2 ), slow the
-IV to KVO.
-10. Administer PREDNISONE 1 - 2 mg / kg up to 60 mg PO
-if patient is > 3 years old and can swallow pills.
-11. Transport and perform ongoing assessment as
-indicated.
+EMTEN
+----------
+<table><tr><td>1.<td>Perform general patient management.
+<tr><td>2.<td>Support life-threatening problems associated with airway, breathing, and circulation.
+<tr><td>3.<td>Administer oxygen to maintain <i><u>SPO</u></i><sub>2</sub> 94 - 99%
+<tr><td>4.<td>Administer <i><u>DIPHENHYDRAMINE</u></i> 1 mg / kg up to 50 mg IM or IV. The IV route is preferred for the patient in severe shock. If an IV cannot be readily established, give diphenhydramine via the IM route.
+<tr><td>5.<td>If the patient is experiencing respiratory distress with wheezing, refer to the <i><u>Respiratory Distress protocol</u></i>.
+<tr><td>6.<td>Transport as soon as possible.
+<tr><td>7.<td>For severe symptoms such as airway compromise, severe respiratory distress, or hypotension:
+<tr><td>a.<td>If available, administer epinephrine via an EpiPen® or EpiPen Jr.® Autoinjector.
+<tr><td>b.<td>If EpiPen® or EpiPen Jr.® is unavailable; give <i><u>EPINEPHERINE</u></i> 1:1,000 0.01 mg / kg up to 0.3 mg IM. Call Medical Control if no improvement.
+<tr><td>8.<td>Establish an IV of normal saline at KVO. Titrate to a systolic pressure appropriate for child:
+<tr><td>a.<td>Birth to 1 month - 60 mmHg
+<tr><td>b.<td>1 month to 1 year - > 70 mmHg
+<tr><td>c.<td>Greater than 1 year – 70 + [2 x Age (years)]
+<tr><td>9.<td>If hypoperfusion persists following the first dose of epinephrine, consider administration of 20mL/kg normal saline IV. While administering a fluid bolus, frequently reassess perfusion for improvement. If perfusion improves, slow the IV to KVO and monitor closely. If patient develops fluid overload respiratory distress (dyspnea, crackles, rhonchi, decreasing <i><u>SPO</u></i><sub>2</sub>), slow the IV to KVO.
+<tr><td>11.<td>Transport and perform ongoing assessment as indicated.
+
+EMTB
+--------------
+<table><tr><td>1.<td>Perform general patient management.
+<tr><td>2.<td>Support life-threatening problems associated with airway, breathing, and circulation.
+<tr><td>3.<td>Administer oxygen to maintain <i><u>SPO</u></i><sub>2</sub> 94 - 99%
+<tr><td>5.<td>If the patient is experiencing respiratory distress with wheezing, refer to the <i><u>Respiratory Distress protocol</u></i>.
+<tr><td>6.<td>Transport as soon as possible.
+<tr><td>7.<td>For severe symptoms such as airway compromise, severe respiratory distress, or hypotension:
+<tr><td>a.<td>If available, administer epinephrine via an EpiPen® or EpiPen Jr.® Autoinjector.
+<tr><td>11.<td>Transport and perform ongoing assessment as indicated.
+
+EMTA
+-----------
+<table><tr><td>1.<td>Perform general patient management.
+<tr><td>2.<td>Support life-threatening problems associated with airway, breathing, and circulation.
+<tr><td>3.<td>Administer oxygen to maintain <i><u>SPO</u></i><sub>2</sub> 94 - 99%
+<tr><td>5.<td>If the patient is experiencing respiratory distress with wheezing, refer to the <i><u>Respiratory Distress protocol</u></i>.
+<tr><td>6.<td>Transport as soon as possible.
+

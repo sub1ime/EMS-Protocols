@@ -1,47 +1,65 @@
 Pediatric Burns
-
+protocolid=89
 ==========================
-1. Stop the burning process:
-a. Thermal burns: Lavage the burned area with
-sterile water or saline to cool skin. Do not attempt
-to wipe off semisolids (grease, tar, wax, etc.) Do
-not apply ice. Dry the body when the burn area
-is greater than or equal to 10% TBSA to prevent
-hypothermia.
-b. Dry chemical burns: Brush off dry powder, then
-lavage with copious amounts of tepid water
-(sterile, if possible) for 20 minutes. Continue en
-route to the hospital.
-c. Liquid chemical burns: Lavage the burned area
-with copious amounts of tepid water (sterile, if
-possible) for 20 minutes. Continue en route to
-the hospital.
-2. Support life-threatening problems.
-3. Perform general patient management.
+EMTP/EMTI
+-----------------
+<table><tr><td>1.<td>Stop the burning process:
+<tr><td>a.<td>Thermal burns: Lavage the burned area with sterile water or saline to cool skin. Do not attempt to wipe off semisolids (grease, tar, wax, etc.) Do not apply ice. Dry the body when the burn area is greater than or equal to 10% TBSA to prevent hypothermia.
+<tr><td>b.<td>Dry chemical burns: Brush off dry powder, then lavage with copious amounts of tepid water (sterile, if possible) for 20 minutes. Continue en route to the hospital.
+<tr><td>c.<td>Liquid chemical burns: Lavage the burned area with copious amounts of tepid water (sterile, if possible) for 20 minutes. Continue en route to the hospital.
+<tr><td>2.<td>Support life-threatening problems.
+<tr><td>3.<td>Perform general patient management.
+<tr><td>4.<td>Administer oxygen, via non-rebreather mask, at 10 - 15 L / min. as necessary. Use humidified oxygen if suspected inhalation injury and when available.
+<tr><td>5.<td>If the patient is in critical respiratory distress, consider early placement of an advanced airway. *<i><u>Endotracheal Intubation</u></i> / <i><u>cricothyrotomy</u></i> are reserved as Paramedic only.
+<tr><td>6.<td>Remove clothing from around burned area, but do not remove/peel off skin or tissue. Remove and secure all jewelry and tight fitting clothing.
+<tr><td>7.<td>Assess the extent of the burn using the <i><u>rule of nines</u></i> and the degree of burn severity. 
+<tr><td>8.<td>Cover the burned area with a clean, dry dressing. Wet dressing may be used if the burned TBSA is less than 10%.
+<tr><td>9.<td>If a partial or full thickness burn involves more than 20% TBSA, establish an IV of normal saline. Infuse the fluid amounts listed in the PARKLAND FORMULA FLUID GUIDE. If the patient develops signs and symptoms of fluid overload respiratory distress (dyspnea, crackles, rhonchi, decreasing <i><u>SPO</u></i><sub>2</sub>), slow the IV to KVO.
+<tr><td>10.<td>For pain control, refer to the <i><u>Pediatric Pain Management protocol</u></i>.
+<tr><td>11.<td>Perform ongoing assessment as indicated and transport major burns to Level 1 Burn Center. Transport minor burns to appropriate facility.
 
-4. Administer oxygen, via non-rebreather mask, at 10 - 15
-L / min. as necessary. Use humidified oxygen if
-suspected inhalation injury and when available.
-5. If the patient is in critical respiratory distress, consider
-early placement of an advanced airway. *Endotracheal
-Intubation / cricothyrotomy are reserved as Paramedic
-only.
-6. Remove clothing from around burned area, but do not
-remove/peel off skin or tissue. Remove and secure all
-jewelry and tight fitting clothing.
-7. Assess the extent of the burn using the rule of nines and
-the degree of burn severity.
-8. Cover the burned area with a clean, dry dressing. Wet
-dressing may be used if the burned TBSA is less than
-10%.
-9. If a partial or full thickness burn involves more than 20%
-TBSA, establish an IV of normal saline. Infuse the fluid
-amounts listed in the PARKLAND FORMULA FLUID
-GUIDE. If the patient develops signs and symptoms of
-fluid overload respiratory distress (dyspnea, crackles,
-rhonchi, decreasing SpO 2 ), slow the IV to KVO.
-10. For pain control, refer to the Pediatric Pain Management
-protocol.
-11. Perform ongoing assessment as indicated and transport
-major burns to Level 1 Burn Center. Transport minor
-burns to appropriate facility.
+EMTEN
+--------------------
+<table><tr><td>1.<td>Stop the burning process:
+<tr><td>a.<td>Thermal burns: Lavage the burned area with sterile water or saline to cool skin. Do not attempt to wipe off semisolids (grease, tar, wax, etc.) Do not apply ice. Dry the body when the burn area is greater than or equal to 10% TBSA to prevent hypothermia.
+<tr><td>b.<td>Dry chemical burns: Brush off dry powder, then lavage with copious amounts of tepid water (sterile, if possible) for 20 minutes. Continue en route to the hospital.
+<tr><td>c.<td>Liquid chemical burns: Lavage the burned area with copious amounts of tepid water (sterile, if possible) for 20 minutes. Continue en route to the hospital.
+<tr><td>2.<td>Support life-threatening problems.
+<tr><td>3.<td>Perform general patient management.
+<tr><td>4.<td>Administer oxygen, via non-rebreather mask, at 10 - 15 L / min. as necessary. Use humidified oxygen if suspected inhalation injury and when available.
+<tr><td>5.<td>If the patient is in critical respiratory distress, consider early placement of an advanced airway. *<i><u>Endotracheal Intubation</u></i> / <i><u>cricothyrotomy</u></i> are reserved as Paramedic only.
+<tr><td>6.<td>Remove clothing from around burned area, but do not remove/peel off skin or tissue. Remove and secure all jewelry and tight fitting clothing.
+<tr><td>7.<td>Assess the extent of the burn using the <i><u>rule of nines</u></i> and the degree of burn severity. 
+<tr><td>8.<td>Cover the burned area with a clean, dry dressing. Wet dressing may be used if the burned TBSA is less than 10%.
+<tr><td>9.<td>If a partial or full thickness burn involves more than 20% TBSA, establish an IV of normal saline. Infuse the fluid amounts listed in the PARKLAND FORMULA FLUID GUIDE. If the patient develops signs and symptoms of fluid overload respiratory distress (dyspnea, crackles, rhonchi, decreasing <i><u>SPO</u></i><sub>2</sub>), slow the IV to KVO.
+<tr><td>10.<td>Perform ongoing assessment as indicated and transport major burns to Level 1 Burn Center. Transport minor burns to appropriate facility.
+
+EMTB
+-------------
+<table><tr><td>1.<td>Stop the burning process:
+<tr><td>a.<td>Thermal burns: Lavage the burned area with sterile water or saline to cool skin. Do not attempt to wipe off semisolids (grease, tar, wax, etc.) Do not apply ice. Dry the body when the burn area is greater than or equal to 10% TBSA to prevent hypothermia.
+<tr><td>b.<td>Dry chemical burns: Brush off dry powder, then lavage with copious amounts of tepid water (sterile, if possible) for 20 minutes. Continue en route to the hospital.
+<tr><td>c.<td>Liquid chemical burns: Lavage the burned area with copious amounts of tepid water (sterile, if possible) for 20 minutes. Continue en route to the hospital.
+<tr><td>2.<td>Support life-threatening problems.
+<tr><td>3.<td>Perform general patient management.
+<tr><td>4.<td>Administer oxygen, via non-rebreather mask, at 10 - 15 L / min. as necessary. Use humidified oxygen if suspected inhalation injury and when available.
+<tr><td>5.<td>If the patient is in critical respiratory distress, consider early placement of an advanced airway. *<i><u>Endotracheal Intubation</u></i> / <i><u>cricothyrotomy</u></i> are reserved as Paramedic only.
+<tr><td>6.<td>Remove clothing from around burned area, but do not remove/peel off skin or tissue. Remove and secure all jewelry and tight fitting clothing.
+<tr><td>7.<td>Assess the extent of the burn using the <i><u>rule of nines</u></i> and the degree of burn severity. 
+<tr><td>8.<td>Cover the burned area with a clean, dry dressing. Wet dressing may be used if the burned TBSA is less than 10%.
+<tr><td>9.<td>Perform ongoing assessment as indicated and transport major burns to Level 1 Burn Center. Transport minor burns to appropriate facility.
+
+EMTA
+----------
+<table><tr><td>1.<td>Stop the burning process:
+<tr><td>a.<td>Thermal burns: Lavage the burned area with sterile water or saline to cool skin. Do not attempt to wipe off semisolids (grease, tar, wax, etc.) Do not apply ice. Dry the body when the burn area is greater than or equal to 10% TBSA to prevent hypothermia.
+<tr><td>b.<td>Dry chemical burns: Brush off dry powder, then lavage with copious amounts of tepid water (sterile, if possible) for 20 minutes. Continue en route to the hospital.
+<tr><td>c.<td>Liquid chemical burns: Lavage the burned area with copious amounts of tepid water (sterile, if possible) for 20 minutes. Continue en route to the hospital.
+<tr><td>2.<td>Support life-threatening problems.
+<tr><td>3.<td>Perform general patient management.
+<tr><td>4.<td>Administer oxygen, via non-rebreather mask, at 10 - 15 L / min. as necessary. Use humidified oxygen if suspected inhalation injury and when available.
+<tr><td>5.<td>Remove clothing from around burned area, but do not remove/peel off skin or tissue. Remove and secure all jewelry and tight fitting clothing.
+<tr><td>6.<td>Assess the extent of the burn using the <i><u>rule of nines</u></i> and the degree of burn severity. 
+<tr><td>7.<td>Cover the burned area with a clean, dry dressing. Wet dressing may be used if the burned TBSA is less than 10%.
+
+

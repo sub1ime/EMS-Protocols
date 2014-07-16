@@ -1,39 +1,42 @@
 Fever - Ped
-
+protocolid=76
 ======================
-1. Perform general patient management.
-2. Support life-threatening problems associated with
-3.
-4.
-5.
-6.
-7.
+EMTP/EMTI/EMTEN
+--------------------------------
+<table><tr><td>1.<td>Perform general patient management.
+<tr><td>2.<td>Support life-threatening problems associated with airway, breathing, and circulation.
+<tr><td>3.<td>Administer oxygen to maintain <i><u>SPO</u></i><sub>2</sub> 94 - 99%
+<tr><td>4.<td>If the patient is having a seizure, refer to the <i><u>Pediatric Seizure protocol</u></i>.
+<tr><td>5.<td>If temperature is greater than 106° F / 41°C, refer to <i><u>Hyperthermia Patient Care Protocol</u></i>.
+<tr><td>6.<td>Begin passive cooling by removing excess and constrictive clothing. Avoid over-exposure.
+<tr><td>7.<td>Obtain blood glucose sample. If glucose is < 60 mg / dL or > 300 mg / dL, refer to <i><u>Pediatric Hypoglycemia</u></i> or <i><u>Hyperglycemia Patient Care Protocol</u></i>.
+<tr><td>8.<td>Establish an IV of normal saline at KVO. Titrate to a systolic pressure appropriate for child:
+<tr><td>a.<td>Birth to 1 month - 60 mmHg
+<tr><td>b.<td>1 month to 1 year - > 70 mmHg
+<tr><td>c.<td>Greater than 1 year - 70 + [2 x Age (years)]
+<tr><td>9.<td>If hypoperfusion is suspected, refer to the <i><u>Pediatric Shock protocol</u></i>.
+<tr><td>10.<td>Perform ongoing assessment as indicated and transport promptly.
 
-8.
+EMTB
+-------------
+<table><tr><td>1.<td>Perform general patient management.
+<tr><td>2.<td>Support life-threatening problems associated with airway, breathing, and circulation.
+<tr><td>3.<td>Administer oxygen to maintain <i><u>SPO</u></i><sub>2</sub> 94 - 99%
+<tr><td>4.<td>If the patient is having a seizure, refer to the <i><u>Pediatric Seizure protocol</u></i>.
+<tr><td>5.<td>If temperature is greater than 106° F / 41°C, refer to <i><u>Hyperthermia Patient Care Protocol</u></i>.
+<tr><td>6.<td>Begin passive cooling by removing excess and constrictive clothing. Avoid over-exposure.
+<tr><td>7.<td>Obtain blood glucose sample. If glucose is < 60 mg / dL or > 300 mg / dL, refer to <i><u>Pediatric Hypoglycemia</u></i> or <i><u>Hyperglycemia Patient Care Protocol</u></i>.
+<tr><td>8.<td>If hypoperfusion is suspected, refer to the <i><u>Pediatric Shock protocol</u></i>.
+<tr><td>9.<td>Perform ongoing assessment as indicated and transport promptly.
 
-9.
-10.
+EMTA
+----------
+<table><tr><td>1.<td>Perform general patient management.
+<tr><td>2.<td>Support life-threatening problems associated with airway, breathing, and circulation.
+<tr><td>3.<td>Administer oxygen to maintain <i><u>SPO</u></i><sub>2</sub> 94 - 99%
+<tr><td>4.<td>If the patient is having a seizure, refer to the <i><u>Pediatric Seizure protocol</u></i>.
+<tr><td>5.<td>If temperature is greater than 106° F / 41°C, refer to <i><u>Hyperthermia Patient Care Protocol</u></i>.
+<tr><td>6.<td>Begin passive cooling by removing excess and constrictive clothing. Avoid over-exposure.
+<tr><td>7.<td>If hypoperfusion is suspected, refer to the <i><u>Pediatric Shock protocol</u></i>.
 
-airway, breathing, and circulation.
-Administer oxygen to maintain SPO 2 94 - 99%
-If the patient is having a seizure, refer to the Pediatric
-Seizure protocol.
-If temperature is greater than 106° F / 41°C, refer to
-Hyperthermia Patient Care Protocol.
-Begin passive cooling by removing excess and
-constrictive clothing. Avoid over-exposure.
-Obtain blood glucose sample. If glucose is < 60 mg / dL
-or > 300 mg / dL, refer to Pediatric Hypoglycemia or
-Hyperglycemia Patient Care Protocol.
-Establish an IV of normal saline at KVO. Titrate to a
-systolic pressure appropriate for child:
-a.
-Birth to 1 month - 60 mmHg
-b.
-1 month to 1 year - > 70 mmHg
-c.
-Greater than 1 year - 70 + [2 x Age (years)]
-If hypoperfusion is suspected, refer to the Pediatric
-Shock protocol.
-Perform ongoing assessment as indicated and transport
-promptly.
+

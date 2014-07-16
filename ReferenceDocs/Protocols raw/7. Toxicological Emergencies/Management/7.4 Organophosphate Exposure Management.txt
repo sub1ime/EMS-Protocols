@@ -1,26 +1,50 @@
 Organophosphate Exposure
-
+protocolid=66
 =========================
-Scene Safety and consider HAZ MAT activation.
-Ensure patient has been thoroughly decontaminated.
-Obtain general assessment of the patient.
-Administer Oxygen to maintain SPO 2 94 - 99%
-Suction oropharynx as necessary.
-Establish IV of Normal Saline. Titrate to maintain a
-systolic BP > 90 mmHg.
-7. Place the patient on a cardiac monitor and obtain /
-interpret 12 lead ECG.
-8. If the patient has respiratory distress due to secretions,
-administer ATROPINE SULFATE 1 - 2 mg IVP every 5
-minutes until signs of pulmonary secretions decrease
-improve or medication supply is exhausted. There is no
-maximum dose in this situation.
-9. If available, administer 2PAM 1 - 2 Gram IV one dose –
-OR - 0.6 Gram IM x 3 doses in rapid succession.
-10. If patient is seizing, refer to the Medical Care Seizure
-protocol.
-11. For bronchospasm, administer ALBUTEROL and
-ATROVENT per Medial Care: Respiratory Distress
-protocol.
-12. Transport promptly in position of comfort. Reassess vital
-signs as indicated.
+EMTP/EMTI
+----------------
+<table><tr><td>1.<td>Scene Safety and consider HAZ MAT activation.
+<tr><td>2.<td>Ensure patient has been thoroughly decontaminated.
+<tr><td>3.<td>Obtain general assessment of the patient.
+<tr><td>4.<td>Administer Oxygen to maintain <i><u>SPO</u></i><sub>2</sub> 94 - 99%
+<tr><td>5.<td>Suction oropharynx as necessary.
+<tr><td>6.<td>Establish IV of Normal Saline. Titrate to maintain a systolic BP > 90 mmHg.
+<tr><td>7.<td>Place the patient on a cardiac monitor and obtain / interpret <i><u>12 lead ECG</u></i>.
+<tr><td>8.<td>If the patient has respiratory distress due to secretions, administer <i><u>ATROPINE SULFATE</u></i> 1 - 2 mg IVP every 5 minutes until signs of pulmonary secretions decrease improve or medication supply is exhausted. There is no maximum dose in this situation.
+<tr><td>9.<td>If available, administer 2PAM 1 - 2 Gram IV one dose - <b>OR</b> - 0.6 Gram IM x 3 doses in rapid succession.
+<tr><td>10.<td>If patient is seizing, refer to the <i><u>Medical Care Seizure protocol</u></i>.
+<tr><td>11.<td>For bronchospasm, administer <i><u>ALBUTEROL</u></i> and <i><u>ATROVENT</u></i> per <i><u>Medial Care: Respiratory Distress protocol</u></i>.
+<tr><td>12.<td>Transport promptly in position of comfort. Reassess vital signs as indicated.
+
+EMTEN
+------------
+<table><tr><td>1.<td>Scene Safety and consider HAZ MAT activation.
+<tr><td>2.<td>Ensure patient has been thoroughly decontaminated.
+<tr><td>3.<td>Obtain general assessment of the patient.
+<tr><td>4.<td>Administer Oxygen to maintain <i><u>SPO</u></i><sub>2</sub> 94 - 99%
+<tr><td>5.<td>Suction oropharynx as necessary.
+<tr><td>6.<td>Establish IV of Normal Saline. Titrate to maintain a systolic BP > 90 mmHg.
+<tr><td>6.<td>If patient is seizing, refer to the <i><u>Medical Care Seizure protocol</u></i>.
+<tr><td>7.<td>For bronchospasm, administer <i><u>ALBUTEROL</u></i> and <i><u>ATROVENT</u></i> per <i><u>Medial Care: Respiratory Distress protocol</u></i>.
+<tr><td>8.<td>Transport promptly in position of comfort. Reassess vital signs as indicated.
+
+EMTB
+-------------
+<table><tr><td>1.<td>Scene Safety and consider HAZ MAT activation.
+<tr><td>2.<td>Ensure patient has been thoroughly decontaminated.
+<tr><td>3.<td>Obtain general assessment of the patient.
+<tr><td>4.<td>Administer Oxygen to maintain <i><u>SPO</u></i><sub>2</sub> 94 - 99%
+<tr><td>5.<td>Suction oropharynx as necessary.
+<tr><td>6.<td>If patient is seizing, refer to the <i><u>Medical Care Seizure protocol</u></i>.
+<tr><td>7.<td>Transport promptly in position of comfort. Reassess vital signs as indicated.
+
+EMTA
+-------------
+<table><tr><td>1.<td>Scene Safety and consider HAZ MAT activation.
+<tr><td>2.<td>Ensure patient has been thoroughly decontaminated.
+<tr><td>3.<td>Obtain general assessment of the patient.
+<tr><td>4.<td>Administer Oxygen to maintain <i><u>SPO</u></i><sub>2</sub> 94 - 99%
+<tr><td>5.<td>Suction oropharynx as necessary.
+<tr><td>6.<td>If patient is seizing, refer to the <i><u>Medical Care Seizure protocol</u></i>.
+
+

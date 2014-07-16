@@ -36,5 +36,11 @@ PEARLS:
 1. The primary measure of adequate initial ventilation is prompt improvement in heart rate.
 2. In the presence of thick meconium and an infant who is limp, aggressive suctioning is required.
 3. A 3:1 ratio of compressions to ventilations with 90 compressions and 30 breaths should be used to achieve approximately 120 events per minute to maximize ventilation at an achievable rate. Each event should be allotted approximately ½ second, with exhalation occurring during the first compression following, each ventilation.
-4. Arterial saturations of a term infant at birth can be as low as 60% and can require more than 10 minutes to reach saturations of > 90%. Hyperoxia can be toxic, particularly to the preterm baby. 
+4. Arterial saturations of a term infant at birth can be as low as 60% and can require more than 10 minutes to reach saturations of > 90%. Hyperoxia can be toxic, particularly to the preterm baby.
+
+Neonatal Resuscitation Chart
+--------------------------------
+<image>neonatal_resuscitaion
+
+ 
 

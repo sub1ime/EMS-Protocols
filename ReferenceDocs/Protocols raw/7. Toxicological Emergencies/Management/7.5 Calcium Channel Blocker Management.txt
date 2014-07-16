@@ -1,34 +1,43 @@
 Calcium Channel Blocker
-
+protocolid=67
 =========================
-1.
-2.
-3.
-4.
-Obtain general assessment of the patient.
-Administer Oxygen to maintain SPO 2 94 - 99%
-Suction oropharynx as necessary.
-Obtain blood glucose sample. If glucose is < 60 mg / dL
-or > 300 mg / dL, refer to Hypoglycemia or
-Hyperglycemia protocol.
-5. Establish IV of Normal Saline. Titrate to maintain a
-systolic BP > 90 mmHg.
-6. Administer Normal Saline 250 ml Bolus as needed to
-maintain systolic BP > 90 mmHg. Bolus amount should
-not exceed 20 cc / kg. Caution should be used with
-patients with history of renal failure and HF. Re-assess
-after 250 ml for signs of fluid overload.
-7. Place the patient on a cardiac monitor and obtain /
-interpret 12 lead ECG. Refer to appropriate Cardiac
-Care protocol.
-8. Administer CALCIUM CHLORIDE 2.0 – 4.0 mg / kg IVP /
-IO every 10 minutes until signs and symptoms improve.
-9. If no response noted to Calcium Chloride, administer
-GLUCAGON 1 mg IVP / IO. If no response in five (5)
-minutes, administer one (1) repeat dose of Glucagon 1
-mg IVP / IO.
-10. Administer DOPAMINE Infusion 5 - 20 mcg / kg / minute
-for hypotension that remains after fluid bolus
-administration.
-11. Transport promptly in position of comfort. Reassess vital
-signs as indicated.
+EMTP/EMTI
+--------------------
+<table><tr><td>1.<td>Obtain general assessment of the patient.
+<tr><td>2.<td>Administer Oxygen to maintain <i><u>SPO</u></i><sub>2</sub> 94 - 99%
+<tr><td>3.<td>Suction oropharynx as necessary.
+<tr><td>4.<td>Obtain blood glucose sample. If glucose is < 60 mg / dL or > 300 mg / dL, refer to <i><u>Hypoglycemia</u></i> or <i><u>Hyperglycemia protocol</u></i>.
+<tr><td>5.<td>Establish IV of Normal Saline. Titrate to maintain a systolic BP > 90 mmHg.
+<tr><td>6.<td>Administer Normal Saline 250 ml Bolus as needed to maintain systolic BP > 90 mmHg. Bolus amount should not exceed 20 cc / kg. Caution should be used with patients with history of renal failure and HF. Re-assess after 250 ml for signs of fluid overload.
+<tr><td>7.<td>Place the patient on a cardiac monitor and obtain / interpret <i><u>12 lead ECG</u></i>. Refer to appropriate <i><u>Cardiac Care protocol</u></i>.
+<tr><td>8.<td>Administer CALCIUM CHLORIDE 2.0 – 4.0 mg / kg IVP / IO every 10 minutes until signs and symptoms improve.
+<tr><td>9.<td>If no response noted to <i><u>Calcium Chloride</u></i>, administer <i><u>GLUCAGON</u></i> 1 mg IVP / IO. If no response in five (5) minutes, administer one (1) repeat dose of Glucagon 1 mg IVP / IO.
+<tr><td>10.<td>Administer <i><u>DOPAMINE</u></i> Infusion 5 - 20 mcg / kg / minute for hypotension that remains after fluid bolus administration.
+<tr><td>11.<td>Transport promptly in position of comfort. Reassess vital signs as indicated.
+
+EMTEN
+-----------
+<table><tr><td>1.<td>Obtain general assessment of the patient.
+<tr><td>2.<td>Administer Oxygen to maintain <i><u>SPO</u></i><sub>2</sub> 94 - 99%
+<tr><td>3.<td>Suction oropharynx as necessary.
+<tr><td>4.<td>Obtain blood glucose sample. If glucose is < 60 mg / dL or > 300 mg / dL, refer to <i><u>Hypoglycemia</u></i> or <i><u>Hyperglycemia protocol</u></i>.
+<tr><td>5.<td>Establish IV of Normal Saline. Titrate to maintain a systolic BP > 90 mmHg.
+<tr><td>6.<td>Administer Normal Saline 250 ml Bolus as needed to maintain systolic BP > 90 mmHg. Bolus amount should not exceed 20 cc / kg. Caution should be used with patients with history of renal failure and HF. Re-assess after 250 ml for signs of fluid overload.
+<tr><td>7.<td>Transport promptly in position of comfort. Reassess vital signs as indicated.
+
+EMTB
+------------
+<table><tr><td>1.<td>Obtain general assessment of the patient.
+<tr><td>2.<td>Administer Oxygen to maintain <i><u>SPO</u></i><sub>2</sub> 94 - 99%
+<tr><td>3.<td>Suction oropharynx as necessary.
+<tr><td>4.<td>Obtain blood glucose sample. If glucose is < 60 mg / dL or > 300 mg / dL, refer to <i><u>Hypoglycemia</u></i> or <i><u>Hyperglycemia protocol</u></i>.
+<tr><td>5.<td>Transport promptly in position of comfort. Reassess vital signs as indicated.
+
+EMTA
+---------------
+<table><tr><td>1.<td>Obtain general assessment of the patient.
+<tr><td>2.<td>Administer Oxygen to maintain <i><u>SPO</u></i><sub>2</sub> 94 - 99%
+<tr><td>3.<td>Suction oropharynx as necessary.
+<tr><td>4.<td>Obtain blood glucose sample. If glucose is < 60 mg / dL or > 300 mg / dL, refer to <i><u>Hypoglycemia</u></i> or <i><u>Hyperglycemia protocol</u></i>.
+
+

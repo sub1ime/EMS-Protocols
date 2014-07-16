@@ -1,34 +1,56 @@
 Seizure - PED
-
+protocolid=85
 ======================
-1. Perform general patient management.
-2. Support life-threatening problems associated with
-airway, breathing, and circulation.
-a. Suction the oro- and nasopharynx as necessary.
-b. Place a nasopharyngeal airway as necessary
-(avoid in head trauma).
-3. Administer oxygen to maintain SPO 2 94 - 99%. Support
-respirations as necessary with a BVM.
-4. Do not restrain the patient. Let the seizure take its
-course but protect patient from injury.
-5. Perform rapid glucose determination. If glucose less
-than 60 mg / dL or clinical signs and symptoms indicate
-hypoglycemia, refer to the Hypoglycemia protocol.
-6. Establish an IV of normal saline at KVO.
+EMTP/EMTI
+--------------
+<table><tr><td>1.<td>Perform general patient management.
+<tr><td>2.<td>Support life-threatening problems associated with airway, breathing, and circulation.
+<tr><td>a.<td>Suction the oro- and nasopharynx as necessary.
+<tr><td>b.<td>Place a nasopharyngeal airway as necessary (avoid in head trauma).
+<tr><td>3.<td>Administer oxygen to maintain <i><u>SPO</u></i><sub>2</sub> 94 - 99%. Support respirations as necessary with a BVM.
+<tr><td>4.<td>Do not restrain the patient. Let the seizure take its course but protect patient from injury.
+<tr><td>5.<td>Perform rapid glucose determination. If glucose less than 60 mg / dL or clinical signs and symptoms indicate hypoglycemia, refer to the <i><u>Hypoglycemia protocol</u></i>.
+<tr><td>6.<td>Establish an IV of normal saline at KVO.
+<tr><td>7.<td>If the seizure persists and the rapid glucose determination is greater than 60 mg / dL, give <i><u>MIDAZOLAM</u></i> 0.1 mg / kg IM (max single dose 5 mg) or 0.2 mg / kg IN (Max single dose 10 mg).
+<tr><td>a.<td>Repeat dose in 5 minutes if seizure persists.
+<tr><td>b.<td>If Midazolam is unavailable, administer, <i><u>DIAZEPAM</u></i> 0.25 mg / kg up to 5 mg slow IV push, titrated to effect. Diazepam may also be administered Per Rectum (PR) in pediatric patients.
+<tr><td>8.<td>Place patient on cardiac monitor (sometime lifethreatening dysrhythmias can cause seizure-like activity).
+<tr><td>9.<td>Consider placing the patient in the recovery position during the postictal period.
+<tr><td>10.<td>Transport and perform ongoing assessment as indicated.
 
-7. If the seizure persists and the rapid glucose
-determination is greater than 60 mg / dL, give
-MIDAZOLAM 0.1 mg / kg IM (max single dose 5 mg) or
-0.2 mg / kg IN (Max single dose 10 mg).
-a. Repeat dose in 5 minutes if seizure persists.
-b. If Midazolam is unavailable, administer,
-DIAZEPAM 0.25 mg / kg up to 5 mg slow IV
-push, titrated to effect. Diazepam may also be
-administered Per Rectum (PR) in pediatric
-patients.
-8. Place patient on cardiac monitor (sometime lifethreatening dysrhythmias can cause seizure-like
-activity).
-9. Consider placing the patient in the recovery position
-during the postictal period.
-10. Transport and perform ongoing assessment as
-indicated.
+EMTEN
+------------
+<table><tr><td>1.<td>Perform general patient management.
+<tr><td>2.<td>Support life-threatening problems associated with airway, breathing, and circulation.
+<tr><td>a.<td>Suction the oro- and nasopharynx as necessary.
+<tr><td>b.<td>Place a nasopharyngeal airway as necessary (avoid in head trauma).
+<tr><td>3.<td>Administer oxygen to maintain <i><u>SPO</u></i><sub>2</sub> 94 - 99%. Support respirations as necessary with a BVM.
+<tr><td>4.<td>Do not restrain the patient. Let the seizure take its course but protect patient from injury.
+<tr><td>5.<td>Perform rapid glucose determination. If glucose less than 60 mg / dL or clinical signs and symptoms indicate hypoglycemia, refer to the <i><u>Hypoglycemia protocol</u></i>.
+<tr><td>6.<td>Establish an IV of normal saline at KVO.
+<tr><td>7.<td>Consider placing the patient in the recovery position during the postictal period.
+<tr><td>8.<td>Transport and perform ongoing assessment as indicated.
+
+EMTB
+------------
+<table><tr><td>1.<td>Perform general patient management.
+<tr><td>2.<td>Support life-threatening problems associated with airway, breathing, and circulation.
+<tr><td>a.<td>Suction the oro- and nasopharynx as necessary.
+<tr><td>b.<td>Place a nasopharyngeal airway as necessary (avoid in head trauma).
+<tr><td>3.<td>Administer oxygen to maintain <i><u>SPO</u></i><sub>2</sub> 94 - 99%. Support respirations as necessary with a BVM.
+<tr><td>4.<td>Do not restrain the patient. Let the seizure take its course but protect patient from injury.
+<tr><td>5.<td>Perform rapid glucose determination. If glucose less than 60 mg / dL or clinical signs and symptoms indicate hypoglycemia, refer to the <i><u>Hypoglycemia protocol</u></i>.
+<tr><td>6.<td>Consider placing the patient in the recovery position during the postictal period.
+<tr><td>7.<td>Transport and perform ongoing assessment as indicated.
+
+EMTA
+-----------
+<table><tr><td>1.<td>Perform general patient management.
+<tr><td>2.<td>Support life-threatening problems associated with airway, breathing, and circulation.
+<tr><td>a.<td>Suction the oro- and nasopharynx as necessary.
+<tr><td>b.<td>Place a nasopharyngeal airway as necessary (avoid in head trauma).
+<tr><td>3.<td>Administer oxygen to maintain <i><u>SPO</u></i><sub>2</sub> 94 - 99%. Support respirations as necessary with a BVM.
+<tr><td>4.<td>Do not restrain the patient. Let the seizure take its course but protect patient from injury.
+<tr><td>5.<td>Perform rapid glucose determination. If glucose less than 60 mg / dL or clinical signs and symptoms indicate hypoglycemia, refer to the <i><u>Hypoglycemia protocol</u></i>.
+<tr><td>6.<td>Consider placing the patient in the recovery position during the postictal period.
+

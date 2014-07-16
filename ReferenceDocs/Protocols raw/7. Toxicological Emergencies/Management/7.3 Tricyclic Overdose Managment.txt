@@ -1,19 +1,39 @@
 Tricyclic Overdose
-
+protocolid=65
 ===============
-Obtain general assessment of the patient.
-Administer Oxygen to maintain SPO 2 94 - 99%
-Suction oropharynx as necessary.
-Obtain blood glucose sample. If glucose is < 60 mg / dL
-or > 300 mg / dL, refer to Hypoglycemia or
-Hyperglycemia protocol.
-Establish IV of Normal Saline. Titrate to maintain a
-systolic BP > 90 mmHg.
-Place the patient on a cardiac monitor and obtain /
-interpret 12 lead ECG.
-If TCA overdose is suspected and any progressive
-widening of QRS, >.12 ms, seizure activity, hypotension,
-tachycardia or heart block is noted, administer SODIUM
-BICARBONATE 50 mEq IVP.
-Transport promptly in position of comfort. Reassess vital
-signs as indicated.
+EMTP/EMTI
+-----------------------
+<table><tr><td>1.<td>Obtain general assessment of the patient.
+<tr><td>2.<td>Administer Oxygen to maintain <i><u>SPO</u></i><sub>2</sub> 94 - 99%
+<tr><td>3.<td>Suction oropharynx as necessary.
+<tr><td>4.<td>Obtain blood glucose sample. If glucose is < 60 mg / dL or > 300 mg / dL, refer to <i><u>Hypoglycemia</u></i> or <i><u>Hyperglycemia protocol</u></i>.
+<tr><td>5.<td>Establish IV of Normal Saline. Titrate to maintain a systolic BP > 90 mmHg.
+<tr><td>6.<td>Place the patient on a cardiac monitor and obtain / interpret <i><u>12 lead ECG</u></i>.
+<tr><td>7.<td>If TCA overdose is suspected and any progressive widening of QRS, >.12 ms, seizure activity, hypotension, tachycardia or heart block is noted, administer <i><u>SODIUM BICARBONATE</u></i> 50 mEq IVP.
+<tr><td>8.<td>Transport promptly in position of comfort. Reassess vital signs as indicated.
+
+EMTEN
+------------
+<table><tr><td>1.<td>Obtain general assessment of the patient.
+<tr><td>2.<td>Administer Oxygen to maintain <i><u>SPO</u></i><sub>2</sub> 94 - 99%
+<tr><td>3.<td>Suction oropharynx as necessary.
+<tr><td>4.<td>Obtain blood glucose sample. If glucose is < 60 mg / dL or > 300 mg / dL, refer to <i><u>Hypoglycemia</u></i> or <i><u>Hyperglycemia protocol</u></i>.
+<tr><td>5.<td>Establish IV of Normal Saline. Titrate to maintain a systolic BP > 90 mmHg.
+<tr><td>6.<td>Transport promptly in position of comfort. Reassess vital signs as indicated.
+
+EMTB
+-------------
+<table><tr><td>1.<td>Obtain general assessment of the patient.
+<tr><td>2.<td>Administer Oxygen to maintain <i><u>SPO</u></i><sub>2</sub> 94 - 99%
+<tr><td>3.<td>Suction oropharynx as necessary.
+<tr><td>4.<td>Obtain blood glucose sample. If glucose is < 60 mg / dL or > 300 mg / dL, refer to <i><u>Hypoglycemia</u></i> or <i><u>Hyperglycemia protocol</u></i>.
+<tr><td>5.<td>Transport promptly in position of comfort. Reassess vital signs as indicated.
+
+EMTA
+---------------
+<table><tr><td>1.<td>Obtain general assessment of the patient.
+<tr><td>2.<td>Administer Oxygen to maintain <i><u>SPO</u></i><sub>2</sub> 94 - 99%
+<tr><td>3.<td>Suction oropharynx as necessary.
+<tr><td>4.<td>Obtain blood glucose sample. If glucose is < 60 mg / dL or > 300 mg / dL, refer to <i><u>Hypoglycemia</u></i> or <i><u>Hyperglycemia protocol</u></i>.
+
+

@@ -1,0 +1,34 @@
+Ped Head Injury
+protocolid=91
+===============================================
+EMTP/EMTI
+--------------
+<table><tr><td>1.<td>Perform general patient management and baseline GCS.
+<tr><td>2.<td>Support life-threatening problems associated with airway, breathing, and circulation. Obtain mechanism or injury.
+<tr><td>3.<td>Administer oxygen to maintain <i><u>SPO</u></i><sub>2</sub> 94 - 99%. Consider supporting respirations with a BVM. If signs of hypoventilation are present, ventilate with BVM at an age appropriate rate. Monitor <i><u>capnography</u></i> if BVM or intubated/alternative airway. Attempt to maintain between 35 - 45 Torr.
+<tr><td>4.<td>Consider immobilize patient using full spinal precautions based on MOI. Avoid excessive compression around the neck by cervical collar. Assess and document PMS in all extremities before and after immobilization.
+<tr><td>5.<td>Place patient on cardiac monitor.
+<tr><td>6.<td>Establish an IV of normal saline, if indicated, to maintain an appropriate systolic BP:
+<tr><td>a.<td>Birth to 1 month – 60 mmHg
+<tr><td>b.<td>1 month to 1 year – > 70 mmHg
+<tr><td>c.<td>Greater than 1 year - 70 + [2 x Age (years)]
+<tr><td>7.<td>Obtain a blood glucose sample.
+<tr><td>8.<td>If patient is exhibiting signs of shock, refer to <i><u>Pediatric Shock protocol</u></i>.
+<tr><td>9.<td>Transport per <i><u>Trauma Triage Scheme</u></i> and perform ongoing assessment as indicated.
+
+EMTEN/EMTB
+--------------
+<table><tr><td>1.<td>Perform general patient management and baseline GCS.
+<tr><td>2.<td>Support life-threatening problems associated with airway, breathing, and circulation. Obtain mechanism or injury.
+<tr><td>3.<td>Administer oxygen to maintain <i><u>SPO</u></i><sub>2</sub> 94 - 99%. Consider supporting respirations with a BVM. If signs of hypoventilation are present, ventilate with BVM at an age appropriate rate. Monitor <i><u>capnography</u></i> if BVM or intubated/alternative airway. Attempt to maintain between 35 - 45 Torr.
+<tr><td>4.<td>Consider immobilize patient using full spinal precautions based on MOI. Avoid excessive compression around the neck by cervical collar. Assess and document PMS in all extremities before and after immobilization.
+<tr><td>5.<td>Obtain a blood glucose sample.
+<tr><td>6.<td>If patient is exhibiting signs of shock, refer to <i><u>Pediatric Shock protocol</u></i>.
+<tr><td>7.<td>Transport per <i><u>Trauma Triage Scheme</u></i> and perform ongoing assessment as indicated.
+
+EMTA
+-----------
+<table><tr><td>1.<td>Perform general patient management and baseline GCS.
+<tr><td>2.<td>Support life-threatening problems associated with airway, breathing, and circulation. Obtain mechanism or injury.
+<tr><td>3.<td>Administer oxygen to maintain <i><u>SPO</u></i><sub>2</sub> 94 - 99%. Consider supporting respirations with a BVM. If signs of hypoventilation are present, ventilate with BVM at an age appropriate rate. Monitor <i><u>capnography</u></i> if BVM or intubated/alternative airway. Attempt to maintain between 35 - 45 Torr.
+

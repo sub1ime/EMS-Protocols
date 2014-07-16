@@ -1,15 +1,28 @@
 Unconsciousness - peds
-
+protocolid=87
 =============================
-1. Perform general patient management.
-2. Maintain patient in a supine position and assess for
-C-spine precautions.
-3. Administer oxygen to maintain SPO 2 94 - 99%
-4. Assess blood glucose level. Refer to Pediatric
-Hypoglycemia Protocol.
-5. Establish IV of Normal Saline. Keep at KVO rate
-unless hypotensive. If hypotensive, refer to Pediatric
-Shock protocol.
-6. If unconsciousness is unknown, consider NARCAN
-0.1 mg / kg slow IVP, max dose of 2 mg.
-7. Transport and reassess as needed.
+EMTP/EMTI/EMTEN
+--------------------------
+<table><tr><td>1.<td>Perform general patient management.
+<tr><td>2.<td>Maintain patient in a supine position and assess for C-spine precautions.
+<tr><td>3.<td>Administer oxygen to maintain <i><u>SPO</u></i><sub>2</sub> 94 - 99%
+<tr><td>4.<td>Assess blood glucose level. Refer to <i><u>Pediatric Hypoglycemia Protocol</u></i>.
+<tr><td>5.<td>Establish IV of Normal Saline. Keep at KVO rate unless hypotensive. If hypotensive, refer to <i><u>Pediatric Shock protocol</u></i>.
+<tr><td>6.<td>If unconsciousness is unknown, consider <i><u>NARCAN</u></i> 0.1 mg / kg slow IVP, max dose of 2 mg.
+<tr><td>7.<td>Transport and reassess as needed.
+
+EMTB
+----------
+<table><tr><td>1.<td>Perform general patient management.
+<tr><td>2.<td>Maintain patient in a supine position and assess for C-spine precautions.
+<tr><td>3.<td>Administer oxygen to maintain <i><u>SPO</u></i><sub>2</sub> 94 - 99%
+<tr><td>4.<td>Assess blood glucose level. Refer to <i><u>Pediatric Hypoglycemia Protocol</u></i>.
+<tr><td>5.<td>Transport and reassess as needed.
+
+EMTA
+---------------
+<table><tr><td>1.<td>Perform general patient management.
+<tr><td>2.<td>Maintain patient in a supine position and assess for C-spine precautions.
+<tr><td>3.<td>Administer oxygen to maintain <i><u>SPO</u></i><sub>2</sub> 94 - 99%
+<tr><td>4.<td>Assess blood glucose level. Refer to <i><u>Pediatric Hypoglycemia Protocol</u></i>.
+

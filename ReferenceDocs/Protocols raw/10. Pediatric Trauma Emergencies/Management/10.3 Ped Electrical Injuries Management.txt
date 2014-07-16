@@ -1,0 +1,32 @@
+Ped Electrical Injuries
+protocolid=90
+==================
+EMTP/EMTI
+-------------------
+<table><tr><td>1.<td>Perform general patient management.
+<tr><td>2.<td>Support life-threatening problems.
+<tr><td>3.<td>Administer oxygen to maintain <i><u>SPO</u></i><sub>2</sub> 94 - 99%. Consider supporting respirations with a BVM.
+<tr><td>4.<td>Determine extent of any burn injuries. Refer to the <i><u>Pediatric Burns protocol</u></i>. Avoid initiating IVs in areas of burn unless absolutely necessary.
+<tr><td>5.<td> patient on cardiac monitor; obtain / interpret <i><u>12 Lead ECG</u></i>. Refer to the appropriate <i><u>Pediatric Cardiac Care protocol</u></i> for dysrhythmias.
+<tr><td>6.<td> an IV of normal saline to titrate an appropriate BP:
+<tr><td>a.<td> to 1 month - > 60 mmHg
+<tr><td>b.<td>1 month to 1 year - > 70 mmHg
+<tr><td>c.<td>Greater than 1 year - 70 + [2 x Age (years)]
+<tr><td>7.<td> administration of pain management per <i><u>Pediatric Pain Management protocol</u></i>.
+<tr><td>8.<td>Transport to an appropriate facility and perform ongoing assessment as indicated.
+
+EMTEN/EMTB
+------------------
+<table><tr><td>1.<td>Perform general patient management.
+<tr><td>2.<td>Support life-threatening problems.
+<tr><td>3.<td>Administer oxygen to maintain <i><u>SPO</u></i><sub>2</sub> 94 - 99%. Consider supporting respirations with a BVM.
+<tr><td>4.<td>Determine extent of any burn injuries. Refer to the <i><u>Pediatric Burns protocol</u></i>. Avoid initiating IVs in areas of burn unless absolutely necessary.
+<tr><td>5.<td>Transport to an appropriate facility and perform ongoing assessment as indicated.
+
+EMTA
+------------
+<table><tr><td>1.<td>Perform general patient management.
+<tr><td>2.<td>Support life-threatening problems.
+<tr><td>3.<td>Administer oxygen to maintain <i><u>SPO</u></i><sub>2</sub> 94 - 99%. Consider supporting respirations with a BVM.
+
+

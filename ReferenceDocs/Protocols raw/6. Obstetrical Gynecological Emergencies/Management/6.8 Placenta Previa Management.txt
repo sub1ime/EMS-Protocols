@@ -1,12 +1,30 @@
 Placenta Previa
-
+protocolid=57
 ====================
-1. Perform general patient management.
-2. Support life-threatening problems associated with
-airway, breathing, and circulation.
-3. Administer oxygen to maintain SPO 2 94 - 99%
-4. Place patient in a position of comfort.
-5. Establish an IV of Normal Saline
-6. If the patient is exhibiting symptoms of shock, refer to
-the Shock protocol.
-7. Transport promptly and reassess as indicated.
+EMTP/EMTI/EMTEN
+--------------------------
+<table><tr><td>1.<td>Perform general patient management.
+<tr><td>2.<td>Support life-threatening problems associated with airway, breathing, and circulation.
+<tr><td>3.<td>Administer oxygen to maintain <i><u>SPO</u></i><sub>2</sub> 94 - 99%
+<tr><td>4.<td>Place patient in a position of comfort.
+<tr><td>5.<td>Establish an IV of Normal Saline
+<tr><td>6.<td>If the patient is exhibiting symptoms of shock, refer to the <i><u>Shock protocol</u></i>.
+<tr><td>7.<td>Transport promptly and reassess as indicated.
+
+EMTB
+----------------
+<table><tr><td>1.<td>Perform general patient management.
+<tr><td>2.<td>Support life-threatening problems associated with airway, breathing, and circulation.
+<tr><td>3.<td>Administer oxygen to maintain <i><u>SPO</u></i><sub>2</sub> 94 - 99%
+<tr><td>4.<td>Place patient in a position of comfort.
+<tr><td>5.<td>If the patient is exhibiting symptoms of shock, refer to the <i><u>Shock protocol</u></i>.
+<tr><td>6.<td>Transport promptly and reassess as indicated.
+
+EMTA
+---------
+<table><tr><td>1.<td>Perform general patient management.
+<tr><td>2.<td>Support life-threatening problems associated with airway, breathing, and circulation.
+<tr><td>3.<td>Administer oxygen to maintain <i><u>SPO</u></i><sub>2</sub> 94 - 99%
+<tr><td>4.<td>Place patient in a position of comfort.
+<tr><td>5.<td>If the patient is exhibiting symptoms of shock, refer to the <i><u>Shock protocol</u></i>.
+

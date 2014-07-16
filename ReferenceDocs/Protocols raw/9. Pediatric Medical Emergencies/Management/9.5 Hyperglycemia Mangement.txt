@@ -1,44 +1,55 @@
 Hyperglycemia - Peds
-
+protocolid=78
 ===========================
-1.
-2.
-3.
-4.
-5.
-6.
-7.
+EMTP/EMTI
+-----------------
+<table><tr><td>1.<td>Perform general patient management.
+<tr><td>2.<td>Support life-threatening problems associated with airway, breathing, and circulation.
+<tr><td>3.<td>Assess for signs of trauma. Provide spinal immobilization as necessary.
+<tr><td>4.<td>Administer oxygen to maintain <i><u>SPO</u></i><sub>2</sub> 94 - 99%
+<tr><td>5.<td>For altered mental status, perform rapid glucose determination.
+<tr><td>6.<td>If glucose > 300 mg / dL, start an IV of normal saline.
+<tr><td>7.<td>For signs and symptoms of hypovolemic shock or dehydration, follow the <i><u>Pediatric Shock protocol</u></i>.
+<tr><td>8.<td>If glucose level is > 300 mg / dL, and no signs of shock are noted, administer maintenance Normal Saline infusion:
+• 4.0 ml / kg for first 1 - 10 kg of weight.
+• Add 2.0 ml / kg for next 11 - 20 kg of weight.
+• Add 1.0 ml / kg, for every kg of weight, > 20 kg.
+• Multiply total amount x 2= total hourly hyperglycemic maintenance amount.
+<tr><td>9.<td>Place on cardiac monitor and obtain / interpret <i><u>12 lead ECG</u></i> per assessment.
+<tr><td>10.<td>Transport and perform ongoing assessment as indicated.
 
-Perform general patient management.
-Support life-threatening problems associated with
-airway, breathing, and circulation.
-Assess for signs of trauma. Provide spinal
-immobilization as necessary.
-Administer oxygen to maintain SPO 2 94 - 99%
-For altered mental status, perform rapid glucose
-determination.
-If glucose > 300 mg / dL, start an IV of normal saline.
-For signs and symptoms of hypovolemic shock or
-dehydration, follow the Pediatric Shock protocol.
+EMTEN
+---------
+<table><tr><td>1.<td>Perform general patient management.
+<tr><td>2.<td>Support life-threatening problems associated with airway, breathing, and circulation.
+<tr><td>3.<td>Assess for signs of trauma. Provide spinal immobilization as necessary.
+<tr><td>4.<td>Administer oxygen to maintain <i><u>SPO</u></i><sub>2</sub> 94 - 99%
+<tr><td>5.<td>For altered mental status, perform rapid glucose determination.
+<tr><td>6.<td>If glucose > 300 mg / dL, start an IV of normal saline.
+<tr><td>7.<td>For signs and symptoms of hypovolemic shock or dehydration, follow the <i><u>Pediatric Shock protocol</u></i>.
+<tr><td>8.<td>If glucose level is > 300 mg / dL, and no signs of shock are noted, administer maintenance Normal Saline infusion:
+• 4.0 ml / kg for first 1 - 10 kg of weight.
+• Add 2.0 ml / kg for next 11 - 20 kg of weight.
+• Add 1.0 ml / kg, for every kg of weight, > 20 kg.
+• Multiply total amount x 2= total hourly hyperglycemic maintenance amount.
+<tr><td>9.<td>Transport and perform ongoing assessment as indicated.
 
-8.
+EMTB
+-----------
+<table><tr><td>1.<td>Perform general patient management.
+<tr><td>2.<td>Support life-threatening problems associated with airway, breathing, and circulation.
+<tr><td>3.<td>Assess for signs of trauma. Provide spinal immobilization as necessary.
+<tr><td>4.<td>Administer oxygen to maintain <i><u>SPO</u></i><sub>2</sub> 94 - 99%
+<tr><td>5.<td>For altered mental status, perform rapid glucose determination.
+<tr><td>6.<td>For signs and symptoms of hypovolemic shock or dehydration, follow the <i><u>Pediatric Shock protocol</u></i>.
+<tr><td>7.<td>Transport and perform ongoing assessment as indicated.
 
-9.
-10.
+EMTA
+--------------
+<table><tr><td>1.<td>Perform general patient management.
+<tr><td>2.<td>Support life-threatening problems associated with airway, breathing, and circulation.
+<tr><td>3.<td>Assess for signs of trauma. Provide spinal immobilization as necessary.
+<tr><td>4.<td>Administer oxygen to maintain <i><u>SPO</u></i><sub>2</sub> 94 - 99%
+<tr><td>5.<td>For altered mental status, perform rapid glucose determination.
+<tr><td>6.<td>For signs and symptoms of hypovolemic shock or dehydration, follow the <i><u>Pediatric Shock protocol</u></i>.
 
-If glucose level is > 300 mg / dL, and no signs of
-shock are noted, administer maintenance Normal
-Saline infusion:
-•
-4.0 ml / kg for first 1 - 10 kg of weight.
-•
-Add 2.0 ml / kg for next 11 - 20 kg of weight.
-•
-Add 1.0 ml / kg, for every kg of weight, > 20 kg.
-•
-Multiply total amount x 2= total hourly
-hyperglycemic maintenance amount.
-Place on cardiac monitor and obtain / interpret 12
-lead ECG per assessment.
-Transport and perform ongoing assessment as
-indicated.

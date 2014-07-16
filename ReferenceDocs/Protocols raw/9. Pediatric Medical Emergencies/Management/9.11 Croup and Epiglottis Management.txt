@@ -1,0 +1,32 @@
+Croup and Epiglottis
+protocolid=84
+===========================
+EMTP/EMTI/EMTEN
+--------------------
+<table><tr><td>1.<td>Perform general patient management.
+<tr><td>2.<td>Support life-threatening problems associated with airway, breathing, and circulation.
+<tr><td>3.<td>Administer oxygen to maintain <i><u>SPO</u></i><sub>2</sub> 94 - 99%. Support respirations as necessary with a BVM.
+<tr><td>4.<td>Place patient in a position of comfort, typically sitting upright.
+<tr><td>5.<td>May administer a Normal Saline nebulizer (5 mL).
+<tr><td>6.<td><i><u>ALBUTEROL</u></i> nebulizer may be given.
+<tr><td>7.<td>Transport in position of comfort.
+
+EMTB
+----------
+<table><tr><td>1.<td>Perform general patient management.
+<tr><td>2.<td>Support life-threatening problems associated with airway, breathing, and circulation.
+<tr><td>3.<td>Administer oxygen to maintain <i><u>SPO</u></i><sub>2</sub> 94 - 99%. Support respirations as necessary with a BVM.
+<tr><td>4.<td>Place patient in a position of comfort, typically sitting upright.
+<tr><td>5.<td><b>OPERATIONAL MEDICAL DIRECTOR OPTION ONLY</b>
+May administer a Normal Saline nebulizer (5 mL).
+<tr><td>6.<td><b>OPERATIONAL MEDICAL DIRECTOR OPTION ONLY</b>
+<i><u>ALBUTEROL</u></i> nebulizer may be given.
+<tr><td>7.<td>Transport in position of comfort.
+
+EMTA
+---------
+<table><tr><td>1.<td>Perform general patient management.
+<tr><td>2.<td>Support life-threatening problems associated with airway, breathing, and circulation.
+<tr><td>3.<td>Administer oxygen to maintain <i><u>SPO</u></i><sub>2</sub> 94 - 99%. Support respirations as necessary with a BVM.
+<tr><td>4.<td>Place patient in a position of comfort, typically sitting upright.
+

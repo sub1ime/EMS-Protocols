@@ -1,12 +1,30 @@
 Premature Rupture of Membranes
-
+protocolid=60
 ======================
-1. Perform general patient management.
-2. Support life-threatening problems associated with
-airway, breathing, and circulation.
-3. Administer oxygen to maintain SPO 2 94 - 99%
-4. Place patient in the left lateral recumbent position.
-5. Observe for signs of preterm labor, refer to Pre-term
-Labor protocol.
-6. Establish an IV of Normal Saline if clinically indicated.
-7. Transport promptly and reassess as indicated.
+EMTP/EMTI/EMTEN
+--------------------------
+<table><tr><td>1.<td>Perform general patient management.
+<tr><td>2.<td>Support life-threatening problems associated with airway, breathing, and circulation.
+<tr><td>3.<td>Administer oxygen to maintain <i><u>SPO</u></i><sub>2</sub> 94 - 99%
+<tr><td>4.<td>Place patient in the left lateral recumbent position.
+<tr><td>5.<td>Observe for signs of preterm labor, refer to <i><u>Pre-term Labor protocol</u></i>.
+<tr><td>6.<td>Establish an IV of Normal Saline if clinically indicated.
+<tr><td>7.<td>Transport promptly and reassess as indicated.
+
+EMTB
+-------------------
+<table><tr><td>1.<td>Perform general patient management.
+<tr><td>2.<td>Support life-threatening problems associated with airway, breathing, and circulation.
+<tr><td>3.<td>Administer oxygen to maintain <i><u>SPO</u></i><sub>2</sub> 94 - 99%
+<tr><td>4.<td>Place patient in the left lateral recumbent position.
+<tr><td>5.<td>Observe for signs of preterm labor, refer to <i><u>Pre-term Labor protocol</u></i>.
+<tr><td>6.<td>Transport promptly and reassess as indicated.
+
+EMTA
+--------------
+<table><tr><td>1.<td>Perform general patient management.
+<tr><td>2.<td>Support life-threatening problems associated with airway, breathing, and circulation.
+<tr><td>3.<td>Administer oxygen to maintain <i><u>SPO</u></i><sub>2</sub> 94 - 99%
+<tr><td>4.<td>Place patient in the left lateral recumbent position.
+<tr><td>5.<td>Observe for signs of preterm labor, refer to <i><u>Pre-term Labor protocol</u></i>.
+

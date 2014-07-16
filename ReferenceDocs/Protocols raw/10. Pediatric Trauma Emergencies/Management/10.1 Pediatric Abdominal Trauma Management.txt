@@ -1,22 +1,32 @@
 Pediatric Abdominal Trauma
-
+protocolid=88
 =====================================
-1. Maintain scene and provider safety.
-2. Perform general patient management.
-3. Administer supplemental oxygen to maintain SPO 2
-94 - 99%. If need to assist ventilations with BVM,
-maintain C-spine precautions.
-4. Identify mechanism of injury.
-5. Establish large bore IV’s of normal saline. Titrate to
-an appropriate systolic blood pressure:
-a. Birth to 1 month - 60 mmHg
-b. 1 month to 1 year - > 70 mmHg
-c. Greater than 1 year - 70 + [2 x Age (years)]
-6. Treat pain if indicated. Refer to Pediatric Pain
-Management protocol.
-7. Consider ONDANSETRON (ZOFRAN) 0.1mg / kg
-slow IVP over 2 – 5 minutes, max 4.0 mg per dose
-as needed per Pediatric Nausea and vomiting
-protocol.
-8. Transport to the appropriate hospital per Trauma
-Triage Scheme and reassess as indicated.
+EMTP/EMTI
+-------------------------
+<table><tr><td>1.<td>Maintain scene and provider safety.
+<tr><td>2.<td>Perform general patient management.
+<tr><td>3. Administer supplemental oxygen to maintain <i><u>SPO</u></i><sub>2</sub> 94 - 99%. If need to assist ventilations with BVM, maintain C-spine precautions.
+<tr><td>4.<td>Identify mechanism of injury.
+<tr><td>5.<td>Establish large bore IV’s of normal saline. Titrate to an appropriate systolic blood pressure:
+<tr><td>a.<td>Birth to 1 month - 60 mmHg
+<tr><td>b.<td>1 month to 1 year - > 70 mmHg
+<tr><td>c.<td>Greater than 1 year - 70 + [2 x Age (years)]
+<tr><td>6.<td>Treat pain if indicated. Refer to <i><u>Pediatric Pain Management protocol</u></i>.
+<tr><td>7.<td>Consider <i><u>ONDANSETRON (ZOFRAN)</u></i> 0.1mg / kg slow IVP over 2 – 5 minutes, max 4.0 mg per dose as needed per <i><u>Pediatric Nausea and vomiting protocol</u></i>.
+<tr><td>8.<td>Transport to the appropriate hospital per <i><u>Trauma Triage Scheme</u></i> and reassess as indicated.
+
+EMTEN/EMTB
+------------
+<table><tr><td>1.<td>Maintain scene and provider safety.
+<tr><td>2.<td>Perform general patient management.
+<tr><td>3. Administer supplemental oxygen to maintain <i><u>SPO</u></i><sub>2</sub> 94 - 99%. If need to assist ventilations with BVM, maintain C-spine precautions.
+<tr><td>4.<td>Identify mechanism of injury.
+<tr><td>5.<td>Transport to the appropriate hospital per <i><u>Trauma Triage Scheme</u></i> and reassess as indicated.
+
+EMTA
+-------
+<table><tr><td>1.<td>Maintain scene and provider safety.
+<tr><td>2.<td>Perform general patient management.
+<tr><td>3. Administer supplemental oxygen to maintain <i><u>SPO</u></i><sub>2</sub> 94 - 99%. If need to assist ventilations with BVM, maintain C-spine precautions.
+<tr><td>4.<td>Identify mechanism of injury.
+

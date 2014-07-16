@@ -1,25 +1,36 @@
 Beta Blocker Overdose
-
+protocolid=68
 ==========================
-1.
-2.
-3.
-4.
+EMTP/EMTI
+-------------------
+<table><tr><td>1.<td>Obtain general assessment of the patient.
+<tr><td>2.<td>Administer Oxygen to maintain <i><u>SPO</u></i><sub>2</sub> 94 - 99%
+<tr><td>3.<td>Suction oropharynx as necessary.
+<tr><td>4.<td>Establish IV of Normal Saline. Titrate to maintain a systolic BP > 90 mmHg.
+<tr><td>5.<td>Place the patient on a cardiac monitor and obtain / interpret <i><u>12 lead ECG</u></i>.
+<tr><td>6.<td>If symptomatic bradycardia is present, administer <i><u>ATROPINE</u></i> 0.5 - 1 mg IVP / IO. If no response to initial dose, administer one (1) repeat dose of Atropine 0.5 - 1 mg IVP / IO.
+<tr><td>7.<td>If no response noted to Atropine, administer <i><u>GLUCAGON</u></i> 1 mg IVP / IO. If no response in five (5) minutes, administer one (1) repeat dose of Glucagon 1 mg IVP / IO.
+<tr><td>8.<td>Transport promptly in position of comfort. Reassess vital signs as indicated.
 
-Obtain general assessment of the patient.
-Administer Oxygen to maintain SPO 2 94 - 99%
-Suction oropharynx as necessary.
-Establish IV of Normal Saline. Titrate to maintain a
-systolic BP > 90 mmHg.
-5. Place the patient on a cardiac monitor and obtain /
-interpret 12 lead ECG.
-6. If symptomatic bradycardia is present, administer
-ATROPINE 0.5 - 1 mg IVP / IO. If no response to initial
-dose, administer one (1) repeat dose of Atropine 0.5 - 1
-mg IVP / IO.
-7. If no response noted to Atropine, administer
-GLUCAGON 1 mg IVP / IO. If no response in five (5)
-minutes, administer one (1) repeat dose of Glucagon 1
-mg IVP / IO.
-8. Transport promptly in position of comfort. Reassess vital
-signs as indicated.
+EMTEN
+---------------
+<table><tr><td>1.<td>Obtain general assessment of the patient.
+<tr><td>2.<td>Administer Oxygen to maintain <i><u>SPO</u></i><sub>2</sub> 94 - 99%
+<tr><td>3.<td>Suction oropharynx as necessary.
+<tr><td>4.<td>Establish IV of Normal Saline. Titrate to maintain a systolic BP > 90 mmHg.
+<tr><td>8.<td>Transport promptly in position of comfort. Reassess vital signs as indicated.
+
+EMTB
+-----------
+<table><tr><td>1.<td>Obtain general assessment of the patient.
+<tr><td>2.<td>Administer Oxygen to maintain <i><u>SPO</u></i><sub>2</sub> 94 - 99%
+<tr><td>3.<td>Suction oropharynx as necessary.
+<tr><td>8.<td>Transport promptly in position of comfort. Reassess vital signs as indicated.
+
+EMTA
+---------
+<table><tr><td>1.<td>Obtain general assessment of the patient.
+<tr><td>2.<td>Administer Oxygen to maintain <i><u>SPO</u></i><sub>2</sub> 94 - 99%
+<tr><td>3.<td>Suction oropharynx as necessary.
+
+

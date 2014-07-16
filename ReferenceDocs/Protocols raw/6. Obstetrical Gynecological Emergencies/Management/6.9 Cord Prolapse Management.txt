@@ -1,27 +1,35 @@
 Cord Prolapse
-
+protocolid=58
 ========================
-1. Perform general patient management.
-2. Support life-threatening problems associated with
-airway, breathing, and circulation. Do not delay
-immediate transport. Early hospital notification is
-indicated.
-3. Administer oxygen to maintain SPO 2 94 - 99%
-4. If the umbilical cord presents externally or can be
-visualized in the vagina, use two fingers of a gloved
-hand to prevent any presenting part of the delivering
-fetus from occluding/compressing the cord. Pressure
-relieving maneuvers must be maintained throughout
-transport.
-5.
-6.
-7.
-8.
-9.
+EMTP/EMTI/EMTEN
+--------------------
+<table><tr><td>1.<td>Perform general patient management.
+<tr><td>2.<td>Support life-threatening problems associated with airway, breathing, and circulation. <b>Do not delay immediate transport</b>. Early hospital notification is indicated.
+<tr><td>3.<td>Administer oxygen to maintain <i><u>SPO</u></i><sub>2</sub> 94 - 99%
+<tr><td>4.<td>If the umbilical cord presents externally or can be visualized in the vagina, use two fingers of a gloved hand to prevent any presenting part of the delivering fetus from occluding/compressing the cord. <b>Pressure relieving maneuvers must be maintained throughout transport</b>.
+<tr><td>5.<td>Check cord for pulsation.
+<tr><td>6.<td>Keep the cord warm and moist.
+<tr><td>7.<td>Establish an IV of Normal Saline.
+<tr><td>8.<td>Place patient in the knee-chest position.
+<tr><td>9.<td>Transport emergently to an appropriate facility with obstetrical services and reassess as indicated.
 
-Check cord for pulsation.
-Keep the cord warm and moist.
-Establish an IV of Normal Saline.
-Place patient in the knee-chest position.
-Transport emergently to an appropriate facility with
-obstetrical services and reassess as indicated.
+EMTB
+---------
+<table><tr><td>1.<td>Perform general patient management.
+<tr><td>2.<td>Support life-threatening problems associated with airway, breathing, and circulation. <b>Do not delay immediate transport</b>. Early hospital notification is indicated.
+<tr><td>3.<td>Administer oxygen to maintain <i><u>SPO</u></i><sub>2</sub> 94 - 99%
+<tr><td>4.<td>If the umbilical cord presents externally or can be visualized in the vagina, use two fingers of a gloved hand to prevent any presenting part of the delivering fetus from occluding/compressing the cord. <b>Pressure relieving maneuvers must be maintained throughout transport</b>.
+<tr><td>5.<td>Check cord for pulsation.
+<tr><td>6.<td>Keep the cord warm and moist.
+<tr><td>7.<td>Place patient in the knee-chest position.
+<tr><td>8.<td>Transport emergently to an appropriate facility with obstetrical services and reassess as indicated.
+
+EMTA
+-----------
+<table><tr><td>1.<td>Perform general patient management.
+<tr><td>2.<td>Support life-threatening problems associated with airway, breathing, and circulation. <b>Do not delay immediate transport</b>. Early hospital notification is indicated.
+<tr><td>3.<td>Administer oxygen to maintain <i><u>SPO</u></i><sub>2</sub> 94 - 99%
+<tr><td>4.<td>Check cord for pulsation.
+<tr><td>5.<td>Keep the cord warm and moist.
+<tr><td>6.<td>Place patient in the knee-chest position.
+

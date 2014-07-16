@@ -1,28 +1,41 @@
 Pain Management - Peds
-
+protocolid=81
 ==============================
-1. Perform general patient management.
-2. Administer oxygen to maintain SPO 2 94 - 99%
-3. Determine and document patient’s pain score
-assessment.
-4. Place patient on cardiac monitor per patient assessment.
-5. Establish IV of normal saline per patient assessment.
-6. If significant pain, administer FENTANYL 1 mcg / kg IV,
-or IM (max single dose of 50 mcg). Sickle cell patients
-may be given higher doses up to 100 mcg IV, or IM.
-*** IV Fentanyl MUST be administered slowly to
-decrease the risk of chest rigidity ***
-7. If Fentanyl unavailable, administer MORPHINE
-SULPHATE 0.1 mg / kg IV or IM (max single dose of 5.0
-mg). Sickle cell patients may be given higher doses up
-to 10 mg IV or IM.
-8. Repeat the patient’s pain score assessment.
-9. If indicated based on pain assessment, repeat pain
-medication administration after 10 minutes of the
-previous dose. Maximum total dose of Fentanyl is 200
-mcg and Morphine Sulphate is 20 mg for non-sickle cell
-patients. Sickle cell patients may have up to a total of
-400 mcg of Fentanyl or 40mg of Morphine Sulphate.
+EMTP/EMTI
+--------------------
+<table><tr><td>1.<td>Perform general patient management.
+<tr><td>2.<td>Administer oxygen to maintain <i><u>SPO</u></i><sub>2</sub> 94 - 99%
+<tr><td>3.<td>Determine and document patient’s pain score assessment.
+<tr><td>4.<td>Place patient on cardiac monitor per patient assessment.
+<tr><td>5.<td>Establish IV of normal saline per patient assessment.
+<tr><td>6.<td>If significant pain, administer <i><u>FENTANYL</u></i> 1 mcg / kg IV, or IM (max single dose of 50 mcg). Sickle cell patients may be given higher doses up to 100 mcg IV, or IM. <b>*** IV Fentanyl MUST be administered slowly to decrease the risk of chest rigidity ***</b>
+<tr><td>7.<td>If Fentanyl unavailable, administer <i><u>MORPHINE SULPHATE</u></i> 0.1 mg / kg IV or IM (max single dose of 5.0 mg). Sickle cell patients may be given higher doses up to 10 mg IV or IM.
+<tr><td>8.<td>Repeat the patient’s pain score assessment.
+<tr><td>9.<td>If indicated based on pain assessment, repeat pain medication administration after 10 minutes of the previous dose. Maximum total dose of Fentanyl is 200 mcg and Morphine Sulphate is 20 mg for non-sickle cell patients. Sickle cell patients may have up to a total of 400 mcg of Fentanyl or 40mg of Morphine Sulphate.
+<tr><td>10.<td>Transport in position of comfort and reassess as indicated.
 
-10. Transport in position of comfort and reassess as
-indicated.
+EMTEN
+----------
+<table><tr><td>1.<td>Perform general patient management.
+<tr><td>2.<td>Administer oxygen to maintain <i><u>SPO</u></i><sub>2</sub> 94 - 99%
+<tr><td>3.<td>Determine and document patient’s pain score assessment.
+<tr><td>4.<td>Place patient on cardiac monitor per patient assessment.
+<tr><td>5.<td>Establish IV of normal saline per patient assessment.
+<tr><td>6.<td>Repeat the patient’s pain score assessment.
+<tr><td>7.<td>Transport in position of comfort and reassess as indicated.
+
+EMTB
+------------
+<table><tr><td>1.<td>Perform general patient management.
+<tr><td>2.<td>Administer oxygen to maintain <i><u>SPO</u></i><sub>2</sub> 94 - 99%
+<tr><td>3.<td>Determine and document patient’s pain score assessment.
+<tr><td>4.<td>Repeat the patient’s pain score assessment.
+<tr><td>5.<td>Transport in position of comfort and reassess as indicated.
+
+EMTA
+-----------
+<table><tr><td>1.<td>Perform general patient management.
+<tr><td>2.<td>Administer oxygen to maintain <i><u>SPO</u></i><sub>2</sub> 94 - 99%
+<tr><td>3.<td>Determine and document patient’s pain score assessment.
+<tr><td>4.<td>Repeat the patient’s pain score assessment.
+

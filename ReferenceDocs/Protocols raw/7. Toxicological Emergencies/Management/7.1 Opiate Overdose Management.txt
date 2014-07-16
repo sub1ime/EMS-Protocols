@@ -1,31 +1,44 @@
 Opiate Overdose
-
+protocolid=63
 ==================
-1.
-2.
-3.
-4.
+EMTP/EMTI
+-------------------
+<table><tr><td>1.<td>Obtain general patient assessment.
+<tr><td>2.<td>Administer Oxygen to maintain <i><u>SPO</u></i><sub>2</sub> 94 - 99%
+<tr><td>3.<td>Suction oropharynx as necessary.
+<tr><td>4.<td>Obtain blood glucose sample. If glucose is < 60 mg / dL or > 300 mg / dL, refer to the <i><u>Hypoglycemia</u></i> or <i><u>Hyperglycemia Protocol</u></i>.
+<tr><td>5.<td>If necessary, refer to <i><u>Patient Restraint protocol</u></i>.
+<tr><td>6.<td>Place patient on cardiac monitor.
+<tr><td>7.<td>Establish IV of Normal Saline. Titrate rate to maintain systolic BP > 90 mmHg.
+<tr><td>8.<td>For suspected opiate overdose, administer <i><u>NALOXONE</u></i>, 0.4 - 2.0 mg slow IVP to maintain an adequate respiratory effort. Dose may be repeated as necessary.
+<tr><td>9.<td>Transport promptly in position of comfort. Reassess VS as indicated.
 
-5.
-6.
-7.
-8.
+EMTEN
+------------
+<table><tr><td>1.<td>Obtain general patient assessment.
+<tr><td>2.<td>Administer Oxygen to maintain <i><u>SPO</u></i><sub>2</sub> 94 - 99%
+<tr><td>3.<td>Suction oropharynx as necessary.
+<tr><td>4.<td>Obtain blood glucose sample. If glucose is < 60 mg / dL or > 300 mg / dL, refer to the <i><u>Hypoglycemia</u></i> or <i><u>Hyperglycemia Protocol</u></i>.
+<tr><td>5.<td>If necessary, refer to <i><u>Patient Restraint protocol</u></i>.
+<tr><td>6.<td>Establish IV of Normal Saline. Titrate rate to maintain systolic BP > 90 mmHg.
+<tr><td>7.<td>For suspected opiate overdose, administer <i><u>NALOXONE</u></i>, 0.4 - 2.0 mg slow IVP to maintain an adequate respiratory effort. Dose may be repeated as necessary.
+<tr><td>8.<td>Transport promptly in position of comfort. Reassess VS as indicated.
 
-9.
+EMTB
+-------------
+<table><tr><td>1.<td>Obtain general patient assessment.
+<tr><td>2.<td>Administer Oxygen to maintain <i><u>SPO</u></i><sub>2</sub> 94 - 99%
+<tr><td>3.<td>Suction oropharynx as necessary.
+<tr><td>4.<td>Obtain blood glucose sample. If glucose is < 60 mg / dL or > 300 mg / dL, refer to the <i><u>Hypoglycemia</u></i> or <i><u>Hyperglycemia Protocol</u></i>.
+<tr><td>5.<td>If necessary, refer to <i><u>Patient Restraint protocol</u></i>.
+<tr><td>6.<td>Transport promptly in position of comfort. Reassess VS as indicated.
+
+EMTA
+-----------
+<table><tr><td>1.<td>Obtain general patient assessment.
+<tr><td>2.<td>Administer Oxygen to maintain <i><u>SPO</u></i><sub>2</sub> 94 - 99%
+<tr><td>3.<td>Suction oropharynx as necessary.
+<tr><td>4.<td>Obtain blood glucose sample. If glucose is < 60 mg / dL or > 300 mg / dL, refer to the <i><u>Hypoglycemia</u></i> or <i><u>Hyperglycemia Protocol</u></i>.
+<tr><td>5.<td>If necessary, refer to <i><u>Patient Restraint protocol</u></i>.
 
 
-Obtain general patient assessment.
-Administer Oxygen to maintain SPO 2 94 - 99%
-Suction oropharynx as necessary.
-Obtain blood glucose sample. If glucose is < 60 mg / dL
-or > 300 mg / dL, refer to the Hypoglycemia or
-Hyperglycemia Protocol.
-If necessary, refer to Patient Restraint protocol.
-Place patient on cardiac monitor.
-Establish IV of Normal Saline. Titrate rate to maintain
-systolic BP > 90 mmHg.
-For suspected opiate overdose, administer NALOXONE,
-0.4 - 2.0 mg slow IVP to maintain an adequate
-respiratory effort. Dose may be repeated as necessary.
-Transport promptly in position of comfort. Reassess VS
-as indicated.

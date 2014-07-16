@@ -1,22 +1,32 @@
 Hyperdynamic Crisis
-
+protocolid=64
 ===========================
-Obtain general assessment of the patient.
-Administer Oxygen to maintain SPO 2 94 - 99%
-Suction oropharynx as necessary.
-Obtain blood glucose sample. If glucose is < 60 mg / dL
-or > 300 mg / dL, refer to Hypoglycemia or
-Hyperglycemia protocol.
-5. Establish IV of Normal Saline. Titrate to maintain a
-systolic BP > 90 mmHg.
-6. Place the patient on a cardiac monitor and obtain /
-interpret 12 lead ECG.
-7. For chest pain due to suspected cocaine use, WITHOUT
-ST elevation, administer MIDAZOLAM 5 mg IV. If
-Midazolam is not available, administer DIAZEPAM 2.5 5 mg IV. Refer to Cardiac Care: Non-traumatic Chest
-Discomfort protocol as needed.
-8. If patient is seizing, refer to the Medical Care Seizure
-protocol.
-9. Transport promptly in position of comfort. Reassess vital
-signs as indicated.
+EMTP/EMTI
+-----------------
+<table><tr><td>1.<td>Obtain general assessment of the patient.
+<tr><td>2.<td>Administer Oxygen to maintain <i><u>SPO</u></i><sub>2</sub> 94 - 99%
+<tr><td>3.<td>Suction oropharynx as necessary.
+<tr><td>4.<td>Obtain blood glucose sample. If glucose is < 60 mg / dL or > 300 mg / dL, refer to <i><u>Hypoglycemia</u></i> or <i><u>Hyperglycemia protocol</u></i>.
+<tr><td>5.<td>Establish IV of Normal Saline. Titrate to maintain a systolic BP > 90 mmHg.
+<tr><td>6.<td>Place the patient on a cardiac monitor and obtain / interpret <i><u>12 lead ECG</u></i>.
+<tr><td>7.<td>For chest pain due to suspected <i><u>cocaine</u></i> use, WITHOUT ST elevation, administer <i><u>MIDAZOLAM</u></i> 5 mg IV. If Midazolam is not available, administer <i><u>DIAZEPAM</u></i> 2.5 5 mg IV. Refer to <i><u>Cardiac Care: Non-traumatic Chest Discomfort protocol</u></i> as needed.
+<tr><td>8.<td> patient is seizing, refer to the <i><u>Medical Care Seizure protocol</u></i>.
+<tr><td>9.<td>Transport promptly in position of comfort. Reassess vital signs as indicated.
+
+EMTEN/EMTB
+--------------
+<table><tr><td>1.<td>Obtain general assessment of the patient.
+<tr><td>2.<td>Administer Oxygen to maintain <i><u>SPO</u></i><sub>2</sub> 94 - 99%
+<tr><td>3.<td>Suction oropharynx as necessary.
+<tr><td>4.<td>Obtain blood glucose sample. If glucose is < 60 mg / dL or > 300 mg / dL, refer to <i><u>Hypoglycemia</u></i> or <i><u>Hyperglycemia protocol</u></i>.
+<tr><td>5.<td> patient is seizing, refer to the <i><u>Medical Care Seizure protocol</u></i>.
+<tr><td>6.<td>Transport promptly in position of comfort. Reassess vital signs as indicated.
+
+EMTA
+----------
+<table><tr><td>1.<td>Obtain general assessment of the patient.
+<tr><td>2.<td>Administer Oxygen to maintain <i><u>SPO</u></i><sub>2</sub> 94 - 99%
+<tr><td>3.<td>Suction oropharynx as necessary.
+<tr><td>4.<td>Obtain blood glucose sample. If glucose is < 60 mg / dL or > 300 mg / dL, refer to <i><u>Hypoglycemia</u></i> or <i><u>Hyperglycemia protocol</u></i>.
+<tr><td>5.<td> patient is seizing, refer to the <i><u>Medical Care Seizure protocol</u></i>.
 
