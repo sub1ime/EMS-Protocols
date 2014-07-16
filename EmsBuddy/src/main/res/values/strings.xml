@@ -24,7 +24,7 @@
     <string-array name="provider_level_array" >
         <item>EMT-A</item>
         <item>EMT-B</item>
-        <item>EMT-E</item>
+        <item>EMT-EN</item>
         <item>EMT-I</item>
         <item>EMT-P</item>
     </string-array>

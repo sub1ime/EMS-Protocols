@@ -6,13 +6,16 @@ import android.app.Dialog;
 import android.content.DialogInterface;
 import android.content.SharedPreferences;
 import android.os.Bundle;
+import android.preference.PreferenceManager;
 import android.support.v4.app.DialogFragment;
+import android.util.Log;
 
 import com.integraresoftware.android.emsbuddy.R;
 import com.integraresoftware.emsbuddy.data.ProviderLevelContract;
 
 public class FragmentProviderLevelDialog extends DialogFragment {
 
+	public static final String TAG = "FragmentProviderLevelDialog";
     private int providerLevel;
 
     /* The activity that creates an instance of this dialog fragment must
@@ -40,7 +43,7 @@ public class FragmentProviderLevelDialog extends DialogFragment {
         }
     }
 
-    public static FragmentProviderLevelDialog newInstance() {
+    public FragmentProviderLevelDialog newInstance() {
         FragmentProviderLevelDialog f = new FragmentProviderLevelDialog();
         return f;
     }
@@ -49,15 +52,15 @@ public class FragmentProviderLevelDialog extends DialogFragment {
     public Dialog onCreateDialog(Bundle savedInstanceState) {
 
         AlertDialog.Builder builder = new AlertDialog.Builder(getActivity());
-        builder.setTitle("Provider Level")
+        builder.setTitle("Default Provider Level")
                 .setItems(R.array.provider_level_array,
                         new DialogInterface.OnClickListener() {
                             public void onClick(DialogInterface dialogInterface, int i) {
-                                SharedPreferences settings = getActivity().getPreferences(0);
+                                SharedPreferences settings = PreferenceManager.getDefaultSharedPreferences(getActivity());
                                 SharedPreferences.Editor editor = settings.edit();
                                 editor.putInt(ProviderLevelContract.PROVIDER_LEVEL, i);
                                 editor.commit();
-
+								Log.d(TAG, "i = " + i);
                                 mListener.onDialogFinished(FragmentProviderLevelDialog.this);
                             }
                         }

@@ -1,9 +1,13 @@
 package com.integraresoftware.emsbuddy;
 
 import android.content.Intent;
+import android.content.SharedPreferences;
 import android.database.Cursor;
 import android.net.Uri;
 import android.os.Bundle;
+import android.preference.PreferenceManager;
+import android.support.v4.app.DialogFragment;
+import android.support.v4.app.FragmentManager;
 import android.support.v4.app.FragmentTransaction;
 import android.support.v4.app.LoaderManager;
 import android.support.v4.content.CursorLoader;
@@ -11,18 +15,25 @@ import android.support.v4.content.Loader;
 import android.support.v4.view.ViewPager;
 import android.support.v7.app.ActionBar;
 import android.support.v7.app.ActionBarActivity;
+import android.util.Log;
+import android.view.Menu;
+import android.view.MenuInflater;
 import android.view.MenuItem;
 
 import com.integraresoftware.android.emsbuddy.R;
 import com.integraresoftware.emsbuddy.adapter.CursorPagerAdapter;
 import com.integraresoftware.emsbuddy.data.DbProvider;
 import com.integraresoftware.emsbuddy.data.ManagementContract;
+import com.integraresoftware.emsbuddy.data.ProviderLevelContract;
 import com.integraresoftware.emsbuddy.data.SectionContract;
 import com.integraresoftware.emsbuddy.data.SubsectionContract;
 
-public class ActivityDisplayManagement extends ActionBarActivity implements ActionBar.TabListener, LoaderManager.LoaderCallbacks<Cursor> {
+public class ActivityDisplayManagement extends ActionBarActivity implements
+		ActionBar.TabListener, LoaderManager.LoaderCallbacks<Cursor>,
+		FragmentProviderLevelDialog.ProviderLevelListener {
 
     public static final String TAG = "ActivityDisplayManagement";
+	public static final String PrefTag = "ProviderLevel";
     private static String[] TITLES = {"EMT-A", "EMT-B", "EMT-EN", "EMT-I", "EMT-P" };
     private static final int MAIN_LOADER = 1;
 
@@ -91,10 +102,13 @@ public class ActivityDisplayManagement extends ActionBarActivity implements Acti
         }
 
         getSupportLoaderManager().initLoader(MAIN_LOADER, args, this);
+
     }
 
     @Override
     public void onTabSelected(ActionBar.Tab tab, FragmentTransaction fragmentTransaction) {
+		Log.d(TAG, "tab = " + tab.getPosition());
+
         mViewPager.setCurrentItem(tab.getPosition());
     }
 
@@ -131,6 +145,8 @@ public class ActivityDisplayManagement extends ActionBarActivity implements Acti
         switch (loader.getId()) {
             case MAIN_LOADER:
                 mAdapter.swapCursor(cursor);
+				// load provider level
+				loadSavedPreferences();
                 break;
         }
 
@@ -145,6 +161,30 @@ public class ActivityDisplayManagement extends ActionBarActivity implements Acti
         }
     }
 
+	public void loadSavedPreferences() {
+		SharedPreferences prefs = PreferenceManager.getDefaultSharedPreferences(this);
+		int providerLevel = prefs.getInt(ProviderLevelContract.PROVIDER_LEVEL, -1);
+		Log.d(TAG, "loadSavedPreferneces().providerLevel = " + providerLevel);
+		// if no shared preference
+		if (providerLevel == -1) {
+			// launch dialog to set providerLevel
+			FragmentManager fm = getSupportFragmentManager();
+			FragmentProviderLevelDialog mDialog = new FragmentProviderLevelDialog();
+			mDialog.show(fm, "provider_level_dialog");
+		} else {
+			mViewPager.setCurrentItem(providerLevel);
+		}
+	}
+
+
+	@Override
+	public void onDialogFinished(DialogFragment dialog) {
+		SharedPreferences prefs = PreferenceManager.getDefaultSharedPreferences(this);
+		int providerLevel = prefs.getInt(ProviderLevelContract.PROVIDER_LEVEL, -1);
+		Log.d(TAG, "onDialogFinished().providerLevel = " + providerLevel);
+		mViewPager.setCurrentItem(providerLevel);
+	}
+
 
     @Override
     public boolean onOptionsItemSelected(MenuItem item) {
@@ -156,9 +196,22 @@ public class ActivityDisplayManagement extends ActionBarActivity implements Acti
                 i.putExtra(SectionContract.COL_COLOR, getIntent().getIntExtra(SectionContract.COL_COLOR, 0));
                 startActivity(i);
                 return true;
+			case R.id.action_settings:
+				FragmentManager fm = getSupportFragmentManager();
+				FragmentProviderLevelDialog mDialog = new FragmentProviderLevelDialog();
+				mDialog.show(fm, "provider_level_dialog");
             default:
                 return super.onOptionsItemSelected(item);
         }
     }
+
+	@Override
+	public boolean onCreateOptionsMenu(Menu menu) {
+		// inflate the menu items for use in the action bar
+		MenuInflater inflater = getMenuInflater();
+		inflater.inflate(R.menu.display_management_menu, menu);
+
+		return super.onCreateOptionsMenu(menu);
+	}
 }
 
