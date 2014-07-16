@@ -95,9 +95,11 @@ public class MainActivity extends ActionBarActivity {
         LinearLayout ll = (LinearLayout) findViewById(R.id.main_linearlayout);
 
         TextView tv1 = new TextView(this);
-		tv1.setText(Html.fromHtml("<b>This app is not finished</b>\n\nAll of the patient care protocols are finished with the exception of the 'Management' sections. Only half of those are done and that is what I am currently working on.\n\nI still need to proofread these protocols as well. If you come across gramatical errors that are different from the gramatical errors in the protocols, please drop me an email at burrusscl@gmail.com.\n\nAlso, please submit bug reports if it gives you the option."));
+		tv1.setText(Html.fromHtml("<b>This app is not finished</b><br><br>All of the patient care protocols are finished, including the 'Management' sections.<br><br>I still need to proofread these protocols. If you come across gramatical errors that are different from the gramatical errors in the protocols, please drop me an email at burrusscl@gmail.com or in the 'EmsBuddy' group on groups.google.com.<br><br>Also, please submit bug reports if it gives you the option."));
 
         ll.addView(tv1);
+
+
     }
 
 }
