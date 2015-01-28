@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/EmsBuddy.iml" filepath="$PROJECT_DIR$/EmsBuddy.iml" />
-      <module fileurl="file://$PROJECT_DIR$/EmsBuddy/EmsBuddy-EmsBuddy.iml" filepath="$PROJECT_DIR$/EmsBuddy/EmsBuddy-EmsBuddy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ODEMSAProtocols.iml" filepath="$PROJECT_DIR$/ODEMSAProtocols.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android-sqlite-asset-helper/android-sqlite-asset-helper.iml" filepath="$PROJECT_DIR$/android-sqlite-asset-helper/android-sqlite-asset-helper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
 </project>
