@@ -1,1 +1,1 @@
-include ':EmsBuddy'
+include ':app', ':android-sqlite-asset-helper'
