@@ -26,8 +26,14 @@ import com.integraresoftware.android.odemsaprotocols.data.SubsectionContract;
 
 import java.util.ArrayList;
 
-
+/*
+This is a fragment that displays the top level of protocols
+Uses an expanding list view to display subtopics
+The bottom links will start a new fragment to display a protocol with its titles
+Uses LoaderManager to query database
+ */
 public class FragmentDisplayList extends Fragment implements LoaderCallbacks<Cursor> {
+	//TODO could seperate this into "Pediatric" and "Adult"
 	// Tags
 	public static final String TAG = "FragmentDisplayList";
 	public static final String ELV_SELECTED = "children";
@@ -43,68 +49,52 @@ public class FragmentDisplayList extends Fragment implements LoaderCallbacks<Cur
 	private int lastExpandedGroupPosition = -1;
 	public int lastSelected = -1;
 
-	
+	// LET THE FUNCITONS BEGIN!
+
+	/*
+	This is the first function called
+	 */
 	@Override
 	public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
 		Log.d(TAG, "onCreateView()");
 		View v = inflater.inflate(R.layout.section_elv, null);
 		return v;
 	}		
-	
+
+	/*
+	Starts once the view is created
+	 */
 	@Override
 	public void onViewCreated(View v, Bundle savedInstanceState) {
+		// Change the title of the page
 		getActivity().setTitle("ODEMSA Protocols");
-		
+
+		// Check for saved instance, if there is one then go to the last selected protocol title
 		if (savedInstanceState != null && savedInstanceState.containsKey(ELV_SELECTED)) {
 			lastSelected = savedInstanceState.getInt(ELV_SELECTED);
 		}
-		
+
+		// Get the expandable list view initiated
 		elv = (ExpandableListView) v.findViewById(R.id.list);
 		elv.setDividerHeight(2);
 		elv.setGroupIndicator(null);
 		elv.setClickable(true);
 		elv.setOnGroupClickListener(mAdapter);
-		
+
+		// Set the adapter that will translate the database info into the ELV
 		mAdapter = new SectionElvAdapter(null);
 		mAdapter.setInflater((LayoutInflater) getActivity().getSystemService(Context.LAYOUT_INFLATER_SERVICE), getActivity());
 
+		// Start the loaders to query the database for the Protocol sections and their titles
 		getLoaderManager().initLoader(G_LOADER, null, this);
 		getLoaderManager().initLoader(C_LOADER, null, this);
 	}
 
-	
-	public void populateChildren(Cursor cursor){
-		//TODO change the designations in the string into a name instead of an integer for easier reading
-		// and programming adaptivity
-		ArrayList<Object> child = new ArrayList<Object>();		
-		
-		int tmpGroup = 1;
-		
-		// run through all rows of the cursor loop
-		for(cursor.moveToFirst(); !cursor.isAfterLast(); cursor.moveToNext()) {
-			if(tmpGroup == cursor.getInt(0)) {
-				String childDetails[] = new String[2];
-				childDetails[0] = cursor.getString(1);
-				childDetails[1] = cursor.getString(2);
-				child.add(childDetails);
-			} else {
-				tmpGroup++;
-				mChildItem.add(child);
-				child = new ArrayList<Object>();
-				String childDetails[] = new String[2];
-				childDetails[0] = cursor.getString(1);
-				childDetails[1] = cursor.getString(2);
-				child.add(childDetails);
-			}
-		} // end loop
-		
-		mChildItem.add(child);		
-		mAdapter.setChildren(mChildItem);
-		
-		Log.d(TAG, "populateChildren Completed");
-	}
-	
-	
+	/*
+	This starts the Loader
+	Its job is to query the databse for information based on which Loader ID accompanies the
+	request
+	 */
 	@Override
 	public Loader<Cursor> onCreateLoader(int id, Bundle arg1) {
 		Log.d(TAG, "onCreateLoader(). id = " + id);
@@ -122,6 +112,12 @@ public class FragmentDisplayList extends Fragment implements LoaderCallbacks<Cur
 
 	}
 
+	/*
+	Called once the loader is finished
+	This is where we link the information with the adapter
+	The Loader ID goes with the cursor that is returned to the right information goes in the right
+	spot
+	 */
 	@Override
 	public void onLoadFinished(Loader<Cursor> loader, Cursor cursor) {
 		Log.d(TAG, "onLoadFinished(). Loader id:" + loader.getId());
@@ -140,25 +136,70 @@ public class FragmentDisplayList extends Fragment implements LoaderCallbacks<Cur
 		}	
 	}
 
+	/*
+	Resets the loader.
+	This is not used in our app but it is here as a requirement
+	 */
 	@Override
 	public void onLoaderReset(Loader<Cursor> loader) {
 		Log.d(TAG, "onLoaderReset()");
 	}
-	
+
+	/*
+	This is called anytime the screen is "destroyed" to perserve the information needed to restart
+	the screen. Trying to make it look like it was never destroyed.
+	 */
 	@Override
 	public void onSaveInstanceState(Bundle outState) {
 		super.onSaveInstanceState(outState);
-		
+		// this is the only variable we save
+		// We want it remember which group was expanded when the screen was "Destroyed"
 		outState.putInt(ELV_SELECTED, lastExpandedGroupPosition);
+	}
+
+	/*
+	Custom function to put the protocols in the ELV Top Level components
+	 */
+	public void populateChildren(Cursor cursor){
+		/*
+		TODO change the designations in the string into a name instead of an integer
+		for easier reading and programming adaptivity
+		 */
+		ArrayList<Object> child = new ArrayList<Object>();
+
+		int tmpGroup = 1;
+
+		// run through all rows of the cursor loop
+		for(cursor.moveToFirst(); !cursor.isAfterLast(); cursor.moveToNext()) {
+			if(tmpGroup == cursor.getInt(0)) {
+				String childDetails[] = new String[2];
+				childDetails[0] = cursor.getString(1);
+				childDetails[1] = cursor.getString(2);
+				child.add(childDetails);
+			} else {
+				tmpGroup++;
+				mChildItem.add(child);
+				child = new ArrayList<Object>();
+				String childDetails[] = new String[2];
+				childDetails[0] = cursor.getString(1);
+				childDetails[1] = cursor.getString(2);
+				child.add(childDetails);
+			}
+		} // end loop
+
+		mChildItem.add(child);
+		mAdapter.setChildren(mChildItem);
+
+		Log.d(TAG, "populateChildren Completed");
 	}
 	
 	
 	
 	
-	
-	
-	
-	
+	/*
+	This is a custom class created to expand on the functions that are called by the ELV
+	Implements the Click Listener so we can change what happens when someone clicks on a group (not a child)
+	 */
 	public class SectionElvAdapter extends BaseExpandableListAdapter implements OnGroupClickListener {
 
 		public static final String TAG = "SectionElvAdapter";
@@ -182,7 +223,11 @@ public class FragmentDisplayList extends Fragment implements LoaderCallbacks<Cur
 			 
 			  Log.d(TAG, "Constructor completed");
 		 }
-		 
+
+		/*
+		This is a custom function called to restore the group that was previously clicked on before
+		the screen was destroyed
+		 */
 		 public void setSelected() {
 			 if (lastSelected >= 0) {
 				 if (childItem.size() == -1) {

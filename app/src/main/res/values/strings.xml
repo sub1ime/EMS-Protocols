@@ -51,5 +51,6 @@
         <item>19</item>
         <item>20</item>
     </string-array>
+    <string name="title_activity_weight_converter">Weight Converter</string>
 
 </resources>

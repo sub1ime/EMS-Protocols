@@ -17,8 +17,9 @@ public class ActivityCalculatorList extends ListActivity {
     public static final String TAG = "ActivityCalculatorList";
 
     // list of available calculators that will be displayed
-    final private String[] calcList = { "Dopamine Calculator" };
-    final private String[] calcListClass = { "com.integraresoftware.emsbuddy.calculators.ActivityDopamineCalculator" };
+    final private String[] calcList = { "Dopamine Calculator", "Weight Converter" };
+    final private String[] calcListClass = { "com.integraresoftware.android.odemsaprotocols.calculators.ActivityDopamineCalculator",
+        "com.integraresoftware.android.odemsaprotocols.calculators.weight_converter"};
     private HashMap<Integer, String> mIdMap = new HashMap<Integer, String>();
 
 

@@ -13,8 +13,19 @@ import com.integraresoftware.android.odemsaprotocols.calculators.ActivityCalcula
 import com.integraresoftware.android.odemsaprotocols.data.SectionContract;
 import com.integraresoftware.android.odemsaprotocols.data.SubsectionContract;
 
+/*
+This is the first activity that is called.
+No variable required to start this activity
+Summary:
+Displays a list of links that go to different parts of the app, as well as display messages in
+beta testing.
+ */
 public class MainActivity extends ActionBarActivity {
+    /*
+    System Functions required by android are below
+     */
 
+    // the first function called by android
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
@@ -22,39 +33,58 @@ public class MainActivity extends ActionBarActivity {
 
         setAnnouncements();
 	}
-	
+
+    // creates an options menu in the top right of the sceen
+    @Override
+    public boolean onCreateOptionsMenu(Menu menu) {
+        // Inflate the menu; this adds items to the action bar if it is present.
+        getMenuInflater().inflate(R.menu.main, menu);
+        return true;
+    }
+
+	/* ------------------------------------------------------------------------------------------
+	Below is a list of funcitons that are linked to different buttons on the menu
+	 */
+    // Goes to the main portion of the app, a list of topics
 	public void startProtocol(View v) {
 		Intent i = new Intent(this, ActivityDisplayList.class);
 		startActivity(i);
 	}
-	
+
+    // Not Currently Used
 	public void startNewProtocolList(View v){
 		Intent i = new Intent(this, ActivityDisplayList.class);
 		startActivity(i);
 	}
-	
+
+    // Displays a list of available calculators
 	public void startCalc(View v) {
 		Intent i = new Intent(this, ActivityCalculatorList.class);
 		startActivity(i);
 	}
-	
+
+    // Not Currently Used
 	public void startProcedure(View v) {
 		Intent i = new Intent(this, ListDrugsActivity.class);
 		startActivity(i);
 	}
-	
+
+    // Not Currently Used
 	public void startAppendices(View v) {
 		
 	}
-	
+
+    // Not Currently Used
 	public void startAdministration(View v) {
 		
 	}
-	
+
+    // Not Currently Used
 	public void startPurpose(View v) {
 		
 	}
 
+    // A shortcut to the chest pain protocol for testing and demonstration
     public void shortcutToChestDiscomfort(View v) {
         int id = 9;
 
@@ -66,6 +96,7 @@ public class MainActivity extends ActionBarActivity {
         startActivity(i);
     }
 
+    // A shortcut to ACS protocol for testing and demonstration
     public void shortcutToAcs(View v) {
         int id = 10;
 
@@ -77,19 +108,8 @@ public class MainActivity extends ActionBarActivity {
         startActivity(i);
     }
 
-	/*
-	 * (non-Javadoc)
-	 * @see android.app.Activity#onCreateOptionsMenu(android.view.Menu)
-	 * ------------------------------------------------------------------------------------------------------------------
-	 * Menus setup
-	 */
-	@Override
-	public boolean onCreateOptionsMenu(Menu menu) {
-		// Inflate the menu; this adds items to the action bar if it is present.
-		getMenuInflater().inflate(R.menu.main, menu);
-		return true;
-	}
-
+    // this is just for testing, it displays text below the buttons for the purpose of
+    // messages and announcements
     public void setAnnouncements() {
         LinearLayout ll = (LinearLayout) findViewById(R.id.main_linearlayout);
 
