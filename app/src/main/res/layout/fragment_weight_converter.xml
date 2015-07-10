@@ -21,26 +21,37 @@
         android:text="Pounds (LBs)"
         android:id="@+id/lbs_label"
         android:layout_below="@+id/textView"
-        android:layout_alignLeft="@+id/editText"
-        android:layout_alignStart="@+id/editText"/>
+        android:layout_alignLeft="@+id/lbs_editText"
+        android:layout_alignStart="@+id/lbs_editText"
+        android:paddingTop="16dp"/>
 
     <EditText
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:inputType="numberDecimal"
         android:ems="10"
-        android:id="@+id/editText"
-        android:layout_below="@+id/textView"
-        android:layout_centerHorizontal="true"
-        android:layout_marginTop="54dp"/>
+        android:id="@+id/lbs_editText"
+        android:layout_below="@+id/lbs_label"
+        android:layout_centerHorizontal="true"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="Kilograms (Kg)"
+        android:id="@+id/kg_label"
+        android:layout_below="@+id/lbs_editText"
+        android:layout_alignLeft="@+id/kg_edittext"
+        android:layout_alignStart="@+id/kg_edittext"
+        android:paddingTop="16dp"/>
 
     <EditText
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:inputType="numberDecimal"
         android:ems="10"
-        android:id="@+id/editText2"
-        android:layout_centerVertical="true"
+        android:id="@+id/kg_edittext"
+        android:layout_below="@+id/kg_label"
         android:layout_centerHorizontal="true"/>
 
 
