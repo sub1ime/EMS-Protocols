@@ -52,5 +52,20 @@
         <item>20</item>
     </string-array>
     <string name="title_activity_weight_converter">Weight Converter</string>
+    <string name="lbs_or_kg">Enter the weight in Lbs or Kg:</string>
+    <string name="pounds">Pounds (LBs)</string>
+    <string name="kilograms">Kilograms (Kg)</string>
+    <string name="calculate">Calculate</string>
+    <string name="patients_weight">Patient\'s Weight:</string>
+    <string name="lbs">lbs</string>
+    <string name="kg">kg</string>
+    <string name="concentration">Select Concentration:</string>
+    <string name="mg">mg</string>
+    <string name="in">in</string>
+    <string name="cc_per_mL">cc/mL NS</string>
+    <string name="cc_per_hour">Select Dose in cc/hr:</string>
+    <string name="mcg_per_hour">mcg/hr</string>
+    <string name="select_dripset">Select Dripset:</string>
+    <string name="gtts_per_mL">gtts/mL</string>
 
 </resources>

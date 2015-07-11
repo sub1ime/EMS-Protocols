@@ -1,6 +1,7 @@
 package com.integraresoftware.android.odemsaprotocols.calculators;
 
 import android.app.Activity;
+import android.graphics.Color;
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
 import android.util.Log;
@@ -25,15 +26,11 @@ import com.integraresoftware.android.odemsaprotocols.objects.CalculateDopamineDr
 
 public class FragmentDopamineCalculator extends Fragment implements View.OnTouchListener {
 
-    public static final String TAG = "FragmentDopamineCalculator";
+    public static final String TAG = "FragmentDopamineCalc";
 
     private Activity activity;
 
     private ScrollView getScrollView;
-    private EditText inputWeight;
-    private EditText inputConcDopMcg;
-    private EditText inputConcSalmL;
-    private EditText inputDripset;
     private Spinner inputDopDosage;
 
 
@@ -88,13 +85,25 @@ public class FragmentDopamineCalculator extends Fragment implements View.OnTouch
         int dripset, dopamineDosage;
 
         // get a reference to all of the input boxes
-        inputWeight = (EditText) activity.findViewById(R.id.input_pt_weight);
+        // and check for empties
+        int emptyOne = 0;
+        EditText inputWeight = (EditText) activity.findViewById(R.id.input_pt_weight);
+        if (!editTextEmpty(inputWeight)) emptyOne += 1;
+
+        EditText inputConcDopMcg = (EditText) activity.findViewById(R.id.input_dope_amount);
+        if (!editTextEmpty(inputConcDopMcg)) emptyOne += 1;
+
+        EditText inputConcSalmL = (EditText) activity.findViewById(R.id.input_saline_amount);
+        if (!editTextEmpty(inputConcSalmL)) emptyOne += 1;
+
+        EditText inputDripset = (EditText) activity.findViewById(R.id.input_dripset);
+        if (!editTextEmpty(inputDripset)) emptyOne += 1;
+        //if one or more boxes were empty, stop the calculation
+        if (emptyOne > 0) return;
+
+        inputDopDosage = (Spinner) activity.findViewById(R.id.spinner_dosage);
         RadioGroup selectedLbsKg = (RadioGroup) activity.findViewById(R.id.radiogroup);
         RadioButton lbsRadioButton = (RadioButton) activity.findViewById(R.id.lbs);
-        inputConcDopMcg = (EditText) activity.findViewById(R.id.input_dope_amount);
-        inputConcSalmL = (EditText) activity.findViewById(R.id.input_saline_amount);
-        inputDopDosage = (Spinner) activity.findViewById(R.id.spinner_dosage);
-        inputDripset = (EditText) activity.findViewById(R.id.input_dripset);
 
         // get the data out of the input boxes
         weight = Double.parseDouble(inputWeight.getText().toString());
@@ -120,15 +129,21 @@ public class FragmentDopamineCalculator extends Fragment implements View.OnTouch
         CalculateDopamineDrip mCalc = new CalculateDopamineDrip(dopamineDosage, kgWeight, concentration, dripset);
         mCalc.calculateMlPerHour();
         double answerGttsPerMinute = mCalc.calculateDripsPerMinute();
-        String answerString = answerGttsPerMinute + " gtts/min";
-        Toast.makeText(activity, answerString, Toast.LENGTH_SHORT).show();
+        String answerString = String.format("%.1f gtts/min", answerGttsPerMinute);
         Log.d(TAG, "answer = " + answerString);
 
         // populate the answer
         TextView answerView = (TextView) activity.findViewById(R.id.txt_answer_ml_per_hour);
         answerView.setText(answerString);
+    }
 
-
+    private boolean editTextEmpty(final EditText inputObject) {
+        if (inputObject.getText().toString().length() == 0) {
+            Toast.makeText(activity, "Please enter a number", Toast.LENGTH_SHORT).show();
+            inputObject.setError("Field cannot be left blank.");
+            return false;
+        }
+        return true;
     }
 
     @Override

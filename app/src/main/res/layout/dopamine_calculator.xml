@@ -8,14 +8,14 @@
     <RelativeLayout
         android:orientation="vertical"
         android:layout_width="fill_parent"
-        android:layout_height="fill_parent"
+        android:layout_height="wrap_content"
         android:padding="20dp">
 
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:textAppearance="@android:style/TextAppearance.Medium"
-            android:text="Patient's Weight:"
+            android:text="@string/patients_weight"
             android:layout_alignParentTop="true"
             android:layout_alignParentLeft="true"
             android:id="@+id/txt_pt_weight"/>
@@ -44,13 +44,13 @@
             <RadioButton
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="lbs"
+                android:text="@string/lbs"
                 android:id="@+id/lbs" />
 
             <RadioButton
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="kg"
+                android:text="@string/kg"
                 android:id="@+id/kg"
                 android:checked="true" />
 
@@ -60,7 +60,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_below="@id/input_pt_weight"
-            android:text="Select Concentration:"
+            android:text="@string/concentration"
             android:textAppearance="@android:style/TextAppearance.Medium"
             android:layout_alignParentLeft="true"
             android:paddingTop="30dp"
@@ -84,7 +84,7 @@
             android:layout_height="wrap_content"
             android:layout_toRightOf="@id/input_dope_amount"
             android:layout_alignBaseline="@id/input_dope_amount"
-            android:text="mg"
+            android:text="@string/mg"
             android:id="@+id/txt_mg"/>
 
         <TextView
@@ -96,7 +96,7 @@
             android:paddingLeft="15dp"
             android:paddingRight="15dp"
             android:id="@+id/txt_in"
-            android:text="in"/>
+            android:text="@string/in"/>
 
         <EditText
             android:layout_width="70dp"
@@ -118,13 +118,13 @@
             android:layout_alignBaseline="@id/input_dope_amount"
             android:paddingRight="15dp"
             android:id="@+id/txt_saline"
-            android:text="cc/mL NS"/>
+            android:text="@string/cc_per_mL"/>
 
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_below="@id/input_dope_amount"
-            android:text="Select Dose in cc/hr:"
+            android:text="@string/cc_per_hour"
             android:textAppearance="@android:style/TextAppearance.Medium"
             android:layout_alignParentLeft="true"
             android:paddingTop="30dp"
@@ -145,7 +145,7 @@
             android:layout_toRightOf="@id/spinner_dosage"
             android:layout_alignBaseline="@id/spinner_dosage"
             android:id="@+id/txt_mcg_hr"
-            android:text="mcg/hr"/>
+            android:text="@string/mcg_per_hour"/>
 
         <!-- plus and minus buttons -->
         <Button
@@ -172,7 +172,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_below="@id/spinner_dosage"
-            android:text="Select Dripset:"
+            android:text="@string/select_dripset"
             android:textAppearance="@android:style/TextAppearance.Medium"
             android:layout_alignParentLeft="true"
             android:paddingTop="30dp"
@@ -195,7 +195,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:id="@+id/txt_gtts_min"
-            android:text="gtts/mL"
+            android:text="@string/gtts_per_mL"
             android:layout_alignBaseline="@id/input_dripset"
             android:layout_toRightOf="@id/input_dripset"/>
 
@@ -214,7 +214,7 @@
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
             android:layout_below="@id/txt_answer_ml_per_hour"
-            android:text="Calculate"
+            android:text="@string/calculate"
             android:id="@id/button_calculate" />
 
     </RelativeLayout>

@@ -1,4 +1,4 @@
-<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
                 xmlns:tools="http://schemas.android.com/tools"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
@@ -8,52 +8,65 @@
                 android:paddingBottom="@dimen/activity_vertical_margin"
                 tools:context="com.integraresoftware.android.odemsaprotocols.calculators.weight_converterFragment">
 
-    <TextView
-        android:text="Enter the weight in KG or the weight in LBS"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:id="@+id/textView"/>
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
 
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:textAppearance="?android:attr/textAppearanceMedium"
-        android:text="Pounds (LBs)"
-        android:id="@+id/lbs_label"
-        android:layout_below="@+id/textView"
-        android:layout_alignLeft="@+id/lbs_editText"
-        android:layout_alignStart="@+id/lbs_editText"
-        android:paddingTop="16dp"/>
+        <TextView
+            android:text="@string/lbs_or_kg"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="@android:style/TextAppearance.Medium"
+            android:id="@+id/textView"/>
 
-    <EditText
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:inputType="numberDecimal"
-        android:ems="10"
-        android:id="@+id/lbs_editText"
-        android:layout_below="@+id/lbs_label"
-        android:layout_centerHorizontal="true"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="@android:style/TextAppearance.Medium"
+            android:text="@string/pounds"
+            android:id="@+id/lbs_label"
+            android:layout_below="@+id/textView"
+            android:layout_alignLeft="@+id/lbs_editText"
+            android:layout_alignStart="@+id/lbs_editText"
+            android:paddingTop="16dp"/>
 
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:textAppearance="?android:attr/textAppearanceMedium"
-        android:text="Kilograms (Kg)"
-        android:id="@+id/kg_label"
-        android:layout_below="@+id/lbs_editText"
-        android:layout_alignLeft="@+id/kg_edittext"
-        android:layout_alignStart="@+id/kg_edittext"
-        android:paddingTop="16dp"/>
+        <EditText
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:inputType="numberDecimal"
+            android:ems="10"
+            android:id="@+id/lbs_editText"
+            android:layout_below="@+id/lbs_label"
+            android:layout_centerHorizontal="true"/>
 
-    <EditText
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:inputType="numberDecimal"
-        android:ems="10"
-        android:id="@+id/kg_edittext"
-        android:layout_below="@+id/kg_label"
-        android:layout_centerHorizontal="true"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="@android:style/TextAppearance.Medium"
+            android:text="@string/kilograms"
+            android:id="@+id/kg_label"
+            android:layout_below="@+id/lbs_editText"
+            android:layout_alignLeft="@+id/kg_edittext"
+            android:layout_alignStart="@+id/kg_edittext"
+            android:paddingTop="16dp"/>
 
+        <EditText
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:inputType="numberDecimal"
+            android:ems="10"
+            android:id="@+id/kg_edittext"
+            android:layout_below="@+id/kg_label"
+            android:layout_centerHorizontal="true"/>
 
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/calculate"
+            android:id="@+id/weight_calculate"
+            android:layout_centerHorizontal="true"
+            android:layout_below="@+id/kg_edittext"/>
 
-</RelativeLayout>
+    </RelativeLayout>
+
+</ScrollView>
