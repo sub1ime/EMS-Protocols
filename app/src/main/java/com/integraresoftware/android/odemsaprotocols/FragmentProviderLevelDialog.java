@@ -14,7 +14,7 @@ import com.integraresoftware.android.odemsaprotocols.data.ProviderLevelContract;
 
 public class FragmentProviderLevelDialog extends DialogFragment {
 
-	public static final String TAG = "FragmentProviderLevelDialog";
+	public static final String TAG = "FragProviderLvlDialog";
     private int providerLevel;
 
     /* The activity that creates an instance of this dialog fragment must

@@ -162,7 +162,7 @@ public class weight_converterFragment extends Fragment implements View.OnTouchLi
         }
 
         // is the intent box empty?
-        if ()
+        //if ()
 
         return true;
     }
