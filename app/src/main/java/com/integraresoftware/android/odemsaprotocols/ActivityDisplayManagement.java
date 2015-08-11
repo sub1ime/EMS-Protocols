@@ -31,7 +31,11 @@ public class ActivityDisplayManagement extends ActionBarActivity implements
 		ActionBar.TabListener, LoaderManager.LoaderCallbacks<Cursor>,
 		com.integraresoftware.android.odemsaprotocols.FragmentProviderLevelDialog.ProviderLevelListener {
 
+<<<<<<< HEAD
     public static final String TAG = "ActivityDisplayManage";
+=======
+    public static final String TAG = "ActDisplayManagement";
+>>>>>>> weight_converter
 	public static final String PrefTag = "ProviderLevel";
     private static String[] TITLES = {"EMT-A", "EMT-B", "EMT-EN", "EMT-I", "EMT-P" };
     private static final int MAIN_LOADER = 1;
@@ -101,6 +105,10 @@ public class ActivityDisplayManagement extends ActionBarActivity implements
         }
 
         getSupportLoaderManager().initLoader(MAIN_LOADER, args, this);
+<<<<<<< HEAD
+=======
+
+>>>>>>> weight_converter
         // load provider level
         loadSavedPreferences();
     }
