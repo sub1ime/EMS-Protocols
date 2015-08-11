@@ -95,7 +95,7 @@ public class weight_converterFragment extends Fragment implements View.OnTouchLi
         });
     }
 
-    // what to do when the calculat button is pressed
+    // what to do when the calculate button is pressed
     private void calculate(View v) {
         double kg_number, lbs_number;
         double answer;
@@ -162,7 +162,7 @@ public class weight_converterFragment extends Fragment implements View.OnTouchLi
         }
 
         // is the intent box empty?
-        if ()
+
 
         return true;
     }
