@@ -2,11 +2,25 @@
 <items version="2" >
 
     <item
-        jar="F:\workspace\EmsBuddy\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\classes.jar"
+        jar="C:\Users\Christopher\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.1\support-annotations-22.2.1.jar"
         jumboMode="false"
-        revision="21.1.2"
-        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
-        <dex dex="F:\workspace\EmsBuddy\app\build\intermediates\pre-dexed\debug\classes-883669fb674635f7dece4c0beb54b99b09684c4f.jar" />
+        revision="22.0.1"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="F:\workspace\EmsBuddy\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.1-62e8f9731d82a3cb6bd1bece25233ce3b6623bca.jar" />
+    </item>
+    <item
+        jar="F:\workspace\EmsBuddy\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\libs\internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="F:\workspace\EmsBuddy\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.1-4f3fe25185dae908ba3df352bca9cc7baf6f42e8.jar" />
+    </item>
+    <item
+        jar="F:\workspace\EmsBuddy\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="F:\workspace\EmsBuddy\app\build\intermediates\pre-dexed\debug\classes-ec895936f503ca9439884c4b5d49da5f1c94aea7.jar" />
     </item>
     <item
         jar="F:\workspace\EmsBuddy\android-sqlite-asset-helper\android-sqlite-asset-helper.jar"
@@ -16,32 +30,11 @@
         <dex dex="F:\workspace\EmsBuddy\app\build\intermediates\pre-dexed\debug\android-sqlite-asset-helper-b8e02998e11dbb405213b27bd8877fdcad0ba9c3.jar" />
     </item>
     <item
-        jar="F:\workspace\EmsBuddy\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\libs\internal_impl-21.0.3.jar"
+        jar="F:\workspace\EmsBuddy\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\classes.jar"
         jumboMode="false"
-        revision="21.1.2"
-        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
-        <dex dex="F:\workspace\EmsBuddy\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-881f404ced5173d1a9596de5af205758e4631a4a.jar" />
-    </item>
-    <item
-        jar="F:\workspace\EmsBuddy\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\jars\classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
-        <dex dex="F:\workspace\EmsBuddy\app\build\intermediates\pre-dexed\debug\classes-3cc1626a7cf711ecbc261294a39d807b696884b1.jar" />
-    </item>
-    <item
-        jar="C:\Users\Christopher\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
-        <dex dex="F:\workspace\EmsBuddy\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-e4d57b99e84dd4a6f9caad43e486306282241383.jar" />
-    </item>
-    <item
-        jar="F:\workspace\EmsBuddy\android-sqlite-asset-helper\android-sqlite-asset-helper.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="20f039a3336c18f93cfddfa1a49ce91a55361c40">
-        <dex dex="F:\workspace\EmsBuddy\app\build\intermediates\pre-dexed\debug\android-sqlite-asset-helper-b8e02998e11dbb405213b27bd8877fdcad0ba9c3.jar" />
+        revision="22.0.1"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="F:\workspace\EmsBuddy\app\build\intermediates\pre-dexed\debug\classes-240a4fe9e3175995f0d2b26aa86d420a501f1fd6.jar" />
     </item>
 
 </items>
